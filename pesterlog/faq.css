@@ -82,6 +82,11 @@ img.panel {
 	display:block;
 }
 
+.rt {
+	text-align: right;
+	display:block;
+}
+
 .kb {
 	color: black;
 }
