@@ -4,7 +4,7 @@ body {
 	font-size: 14px;
 	line-height:1.75;
 }
-.chat, .faqtext {
+.chat, .faqtext, .faqchat{
 	box-sizing: border-box;
 	max-width: 640px;
 	padding: 30px;
@@ -15,6 +15,10 @@ body {
 	background-color: #EFEFEF
 }
 .faqtext {
+	background-color: #FFFFFF;
+}
+.faqchat {
+	font-weight: bold;
 	background-color: #FFFFFF;
 }
 img.panel, img.faqheader {
@@ -41,7 +45,7 @@ img.panel {
 }
 
 @media (orientation: portrait) {
-  .chat, .faqtext {
+  .chat, .faqtext, .faqchat{
 	width: 100%;
 	max-width:none;
   }
@@ -49,6 +53,12 @@ img.panel {
 	width: 100%;
 	max-width:none;
   }
+}
+
+/* ------------------------ */
+
+.falling-spacer {
+	height: 3000px;
 }
 
 /* ------------------------ */
@@ -73,6 +83,42 @@ img.panel {
 
 /* ------------------------ */
 
+.ei {
+	display:inline-block;
+
+	animation-duration: 7s;
+	animation-name: eidolon-flash;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+	animation-timing-function: linear;
+}
+
+@keyframes eidolon-flash {
+	0%, 46%, 50%, 96%, 100%{
+		color: inherit;
+		translate: 0 0;
+	}
+
+	47.5%{
+		color: white;
+		translate: 0 3px;
+	}
+	97.5%{
+		color: white;
+		translate: 0 -3px;
+	}
+	99% {
+		color: inherit;
+		translate: 0 1px;
+	}
+	49% {
+		color: inherit;
+		translate: 0 -1px;
+	}
+}
+
+/* ------------------------ */
+
 .ud {
 	-moz-transform: scale(-1, -1);
     -webkit-transform: scale(-1, -1);
@@ -93,6 +139,9 @@ img.panel {
 .mw {
 	color: #B482B4;
 }
+.mw2 {
+	color: #9482C4;
+}
 .ae {
 	color: #A89745;
 }
@@ -110,4 +159,10 @@ img.panel {
 }
 .sm {
 	color: #00CCCC;
+}
+.gt-despair {
+	color: red;
+}
+.gt-hope {
+	color: #f2c833;
 }
