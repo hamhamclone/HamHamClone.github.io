@@ -1,3 +1,10 @@
+document {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
 body {
 	background-color: #C3C3C3;
 	font-family: "Courier Prime","Courier New",monospace;
