@@ -11,6 +11,13 @@ body {
 	font-size: 14px;
 	line-height:1.75;
 }
+
+@media screen and (min-width: 480px) and (orientation: portrait) {
+	body {
+		font-size: 28px;
+	}
+}
+
 .chat, .faqtext, .faqchat{
 	box-sizing: border-box;
 	max-width: 640px;
@@ -39,11 +46,11 @@ img.panel {
 }
 .next {
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 36px;
 }
 .title {
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 36px;
 	margin-bottom:30px;
 }
 .narration {
@@ -51,7 +58,7 @@ img.panel {
 	margin-bottom:30px;
 }
 
-@media (orientation: portrait) {
+@media screen and (orientation: portrait) {
   .chat, .faqtext, .faqchat{
 	width: 100%;
 	max-width:none;
