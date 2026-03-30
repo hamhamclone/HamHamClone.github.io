@@ -12,12 +12,6 @@ body {
 	line-height:1.75;
 }
 
-@media screen and (min-width: 480px) and (orientation: portrait) {
-	body {
-		font-size: 28px;
-	}
-}
-
 .chat, .faqtext, .faqchat{
 	box-sizing: border-box;
 	max-width: 640px;
@@ -46,16 +40,25 @@ img.panel {
 }
 .next {
 	text-align: center;
-	font-size: 36px;
+	font-size: 3.5em;
 }
 .title {
 	text-align: center;
-	font-size: 36px;
+	font-size: 3.5em;
 	margin-bottom:30px;
 }
 .narration {
 	text-align: center;
 	margin-bottom:30px;
+}
+
+@media screen and (min-width: 500px) and (orientation: portrait) {
+	body {
+		font-size: 32px;
+	}
+	.next, .title {
+		font-size:2em;
+	}
 }
 
 @media screen and (orientation: portrait) {
