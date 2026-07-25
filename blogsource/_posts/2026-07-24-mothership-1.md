@@ -54,7 +54,7 @@ patch - *(love) machine*
 
 PRINCE is an android owned by the company, programmed and designed for general purpose use on interstellar voyages. In order to reduce social friction in the long months at space, PRINCE's model of android is programmed to validate and build on his fellow human crew members' feelings and ideas.
 
-PRINCE is currently entangled with an obvious scammer who anonymously contacted him via ansible at the last jump point. PRINCE is aware of the scam, but feels compelled to continue to test the limits of his empathy. The last
+PRINCE is currently entangled with an obvious scammer who anonymously contacted him via ansible at the last jump point. PRINCE is aware of the scam, but feels compelled to continue to test the limits of his empathy.
 
 PRINCE noticed CHE-F was absent from the funeral with a sort of unsurprise — of course the other android wouldn't be there to support the people that really matter — the human beings on the crew.
 
@@ -95,8 +95,8 @@ PRINCE: "Of course, Sarah. You are a very kind person, caring about Dr. Lau's fe
 Sarah: "How-how are you doing, PRINCE."
 
 Prince reveals a little about how the distress of everyone on the crew is affecting him.
-Thank
-Sarah: "I've been working on this since- since the…"
+
+Sarah: "I want to show you something, I've been working on this since- since the…"
 
 She pulls a book from her utility bag. It's the repurposed binder cover of a vacsuit training manual with the pasted over with a blank sheet. 'Memories of Emily Renato by The Crew of the Adamant Lapis' is carefully and neatly hand-lettered and colored-in.
 
