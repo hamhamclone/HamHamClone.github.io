@@ -35,7 +35,7 @@ logo:
 # # # # #
 
 # URL-stuff, don't forget the 'http...'-part
-url: "https://hamhambone.github.io'/blog"
+url: "https://hamhambone.github.io/blog"
 #baseurl: ""
 permalink: /:title:output_ext
 
