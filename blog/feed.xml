@@ -1,526 +1,931 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hamhambone.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hamhambone.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-08-01T21:36:58-05:00</updated><id>https://hamhambone.github.io/blog/feed.xml</id><title type="html">HamHamBone’s Blog</title><subtitle>tabletop roleplaying game miscellanea.</subtitle><entry><title type="html">Class-Based Setting Design #1: Intro and the Fighter</title><link href="https://hamhambone.github.io/blog/class-setting-1.html" rel="alternate" type="text/html" title="Class-Based Setting Design #1: Intro and the Fighter" /><published>2025-08-01T00:00:00-05:00</published><updated>2025-08-01T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/class-setting-1</id><content type="html" xml:base="https://hamhambone.github.io/blog/class-setting-1.html"><![CDATA[<h1 id="1-failing-at-setting-creation">1: Failing at setting creation</h1>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>ham Ham Bone blog!</title>
+	<description>hamhambone&apos;s webzone</description>		
+	<link>https://hamhambone.github.io'/blog</link>
+	<atom:link href="https://hamhambone.github.io'/blog/feed.xml" rel="self" type="application/rss+xml" />
+	    
+        <item>
+        <title>Mothership Session Report 1</title>
+    	        
+		<description>&lt;p&gt;I’ve recently started running two friends through the space horror ttrpg &lt;a href=&quot;https://www.tuesdayknightgames.com/pages/mothership-rpg&quot;&gt;Mothership&lt;/a&gt; scenario &lt;a href=&quot;https://norgad.itch.io/dead-weight&quot;&gt;Dead Weight&lt;/a&gt; (warning - itch page contains spoilers). I’m going to blog about the experience! This first blog includes a brief (actually it turns out that it wasn’t so brief haha) session report.&lt;/p&gt;
 
-<p>I’ve been thinking recently about my methods of prep for dnd style ttrpgs.</p>
+&lt;p&gt;Coming:  A “review” of the module I’m using, self-feedback, and tips for others that hope to run this scenario.&lt;/p&gt;
 
-<p>My prep for such games has typically and unfortunately been unsuccessful. This is my fault, I think.</p>
+&lt;h2 id=&quot;content-warning&quot;&gt;Content Warning&lt;/h2&gt;
 
-<p>I am oftentimes trying to reinvent the wheel! Starting from nothing, trying to do setting creation, in the hopes of getting something exciting that I can then connect to a game. It is kinda a silly way to work.</p>
+&lt;p&gt;Mothership is a horror game. Content Warnings for this update include &lt;strong&gt;suffocation&lt;/strong&gt; and &lt;strong&gt;gore&lt;/strong&gt;. Follow your heart.&lt;/p&gt;
 
-<p>The primary way that this “method” fails, for me, is that it is difficult to maintain excitement and interest in a particular setting when I’m at a loss on how to turn the setting into a usable adventure that I could actually use for a real game with real people.</p>
+&lt;h2 id=&quot;spoiler-warning&quot;&gt;Spoiler Warning&lt;/h2&gt;
 
-<h1 id="2-the-method">2: The Method</h1>
+&lt;p&gt;The session report below contains unmarked spoilers for the introductory portion of Mothership scenario &lt;em&gt;Dead Weight&lt;/em&gt;. My players please feel to read. If you are hoping to play as a player in this scenario, it won’t spoil much beyond the inciting incident — imo, not critical spoilers. Follow your heart.&lt;/p&gt;
 
-<p>What I want to try is to link my setting creation to specific hard mechanical/fictional edges of an existing game.</p>
+&lt;h1 id=&quot;session-report&quot;&gt;Session Report&lt;/h1&gt;
 
-<p>I settle on targeting OSE<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Specifically, my method is this: For each class in OSE (Fighter, Thief, Magic-User, Cleric, Elf, Dwarf, Halfling) I will write down three cool “narrative subclasses” – three roles that the class might embody within the setting, extrapolating other facts about the setting from the existance of these subclassses.</p>
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-<p>Instead of trying to create a game setting from first principles that I would hope to steer into the shape of the game, I would instead grow the setting outward from the crystalline core of “game protagonists come in 7 different classes.”</p>
+&lt;blockquote&gt;
+  &lt;p&gt;You are members of Shift B of the crew of the &lt;strong&gt;Adamant Lapis&lt;/strong&gt;, a cargo ship performing a routine mission to gather material samples from various outposts belonging to &lt;strong&gt;the Company&lt;/strong&gt; and its subsidiaries. Life on the ship had settled into a comfortable sort of tedium, 7 months into the mission.&lt;/p&gt;
 
-<p>I started with the fighter.</p>
+  &lt;p&gt;5 weeks ago, the Adamant Lapis jumped to the &lt;strong&gt;8058 Felis&lt;/strong&gt; system.&lt;/p&gt;
 
-<h1 id="3-the-fighter">3: The Fighter</h1>
+  &lt;p&gt;2 weeks ago, the Adamant Lapis made its latest cargo pickup: mineral samples from the rogue asteroid &lt;strong&gt;gobstopper-98&lt;/strong&gt;.&lt;/p&gt;
 
-<p>After some thought, I settle on these three subclasses for the fighter:</p>
+  &lt;p&gt;4 days ago, chief researcher &lt;strong&gt;Dr. Emily Renato&lt;/strong&gt; was exposed to an undocumented pathogen (later named &lt;strong&gt;carminosis&lt;/strong&gt;) via a water-bearing geode from &lt;strong&gt;Kōwhai-6&lt;/strong&gt;. The ship’s laboratory was quarantined as Dr. Renato documented progress of her symptoms.&lt;/p&gt;
 
-<p><strong>BELLGUARD</strong> – A knightly type, sworn to a specific cause or person, protector of silver bells.</p>
+  &lt;p&gt;3 days ago, Dr. Renato died of carminosis; suffocated, her body having consumed 30 days of the ship’s O2 supply in 24 hours.&lt;/p&gt;
 
-<p><strong>BARBARIAN OF THE KALAND WASTE</strong> – Wanderer and champion of a people that live in an irradiated fungal forest. A survivor.</p>
+  &lt;p&gt;With Emily Renato’s body receding into deep space as the Adamant burns towards the next jump point, a new routine begins to settle into place for shift B. There is still work to be done for the Company, regardless of the quarantined laboratory or the grieving crew.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-<p><strong>CAREDDIAN MERCENARY</strong> – A sellsword and veteran of wars between the petty city states of the Caredis Peninsula. Think the Condottieri of midieval Italy.</p>
+&lt;h2 id=&quot;player-characters&quot;&gt;Player Characters&lt;/h2&gt;
 
-<p>I then elaborated as much as I could about the consequences of these being prototypical types of Fighters in this world.</p>
+&lt;p&gt;&lt;strong&gt;Gregory DeWalt&lt;/strong&gt; (he/him) — Planetology Specialist&lt;/p&gt;
 
-<h1 id="31-bellguard">3.1: Bellguard</h1>
+&lt;p&gt;patch - &lt;em&gt;work hard, party harder&lt;/em&gt;&lt;/p&gt;
 
-<p>I imagined ancient belltowers dotting a fantasy medieval landscape, each housing an enormous silver bell etched with mysterious and powerful runes. The bells must be tolled constantly in order to drive away the demons that seek to invade the minds of the humans that live in the land of Lothain.</p>
+&lt;p&gt;Greg is a scientist employed by the Company. Gregory’s employment by the company is a kind of consolation prize after the DeWalts family fortune was much reduced in an unsuccessful legal battle against a hostile takeover of DeWalt Scientific Services by the Company.&lt;/p&gt;
 
-<p>The monks of the Penitent Council are the ones that bless the bells and keep them ringing. The Penitent Council has, more than once, excersised the power to <em>stop</em> the ringing of the bell for a particularly unruly or rebellious town or city. Such an action accidentally gave rise to the haunted place now known as Goblintown, as well as the foul necromancer that lurks in the ruined belltower…</p>
+&lt;p&gt;A hard-partyer during his university education, greg has, discovered a skill and passion for planetology that surpasses the typical expections of scions such as him.&lt;/p&gt;
 
-<p>The Penitent Council rules from the huge city of Nume, on the Caredis Peninsula. Its basically the Roman Catholic Church. Long ago, during the rule of a mad and cruel Numenic emperor, the emperor’s daughter began recieving visions of a comet, sent from the heavens, bearing demons that would end the world, a punishment for humanity’s sins. She ordered the construction of the belltowers, and her cruel father, who would do anything for his daughter, had the legions of the empire construct them. The Senate had both of them assassinated, on the pretext that these belltowers would bankrupt the empire. The emperor’s daughter was soon proven correct, and the day after her death, the comet appeared in the sky, growing larger day by day! “Humbled”, the Senate renamed itself the Penitent Council.</p>
+&lt;p&gt;Within gregory’s personal affects is a pen with a hidden injector and potent poison — a “gift” from the DeWalt family matriarch, along with the corollary expectation of vengeance enacted, when called for. Greg… tries not to think about it.&lt;/p&gt;
 
-<p>Some hero stopped the comet before it could impact the earth, knocking it into a glitchy orbit about the world. but, the belltowers are the only thing standing between the lands of Caredis and Lothain and total destruction!</p>
+&lt;p&gt;During Emily’s funural, Greg, operating one of the ship’s pallet jacks remotely, was the one to eject the body into deep space. He couldn’t help but compare the action to the sorting of contaminated rock samples from pure, or the ejection of rock dust from a hand-drill — inevitable waste produced by the scientific process.&lt;/p&gt;
 
-<p>The Bellguards are knights charged with the protection of a particular bell or belltower. They are typically locals, chosen by the local nobility or city council and confirmed by a representative of the Penitent Council. An appointment to bellguard is typically for life, and the organization of a particular chapter of Bellguards is typically dependant on the lopcal area, from elaborate ceremonies and guardhouses in the cities to simple hand-me-down wisdom out in the sticks.</p>
+&lt;p&gt;&lt;strong&gt;PRINCE&lt;/strong&gt; (he/him) — Company Android (General Purpose)&lt;/p&gt;
 
-<h2 id="32-careddian-mercenary">3.2 Careddian Mercenary</h2>
+&lt;p&gt;patch - &lt;em&gt;(love) machine&lt;/em&gt;&lt;/p&gt;
 
-<p>Today, the Penitent Council is weak and divided, also overreliant on daily shipments of grain from Lothain to keep the vast city of Nume fed. Left to their own devices, the princes of Caredis thus squabble and form short-lived alliances against each other, greatly enriching the mercenary companies that seem to form by the week, each of varying qualities of honorability and rapaciousness.</p>
+&lt;p&gt;PRINCE is an android owned by the company, programmed and designed for general purpose use on interstellar voyages. In order to reduce social friction in the long months at space, PRINCE’s model of android is programmed to validate and build on his fellow human crew members’ feelings and ideas.&lt;/p&gt;
 
-<p>The typical Careddian Mercenary displays their mercenary affiliation proudly with ostentatious livery, painted armor, ridiculous hats, etc. A lone mercenary might either put on a show of their own hopeing to attract followers of thier own, or desperately hide their former affiliation behind a plain appearance.</p>
+&lt;p&gt;PRINCE is currently entangled with an obvious scammer who anonymously contacted him via ansible at the last jump point. PRINCE is aware of the scam, but feels compelled to continue to test the limits of his empathy. The last&lt;/p&gt;
 
-<h2 id="33-barbarian-of-the-kaland-waste">3.3 Barbarian of the Kaland Waste</h2>
+&lt;p&gt;PRINCE noticed CHE-F was absent from the funeral with a sort of unsurprise — of course the other android wouldn’t be there to support the people that really matter — the human beings on the crew.&lt;/p&gt;
 
-<p>I think that the people of the red wasteof Kaland survived in a different way – they were ruled by a benevolent psychic dragon-queen. and when the comet came, she used her psychic link with all of her subjects to absorb the demonic spirits that tried to attach to them, and still does to this day! Today, the ancient biological technology of the Kalandi grows as wild fungal blooms, and the hideous unalive dragon queen stalks the corroded golden halls of the draconic palace whining, growling, and scratching at the walls.</p>
+&lt;h2 id=&quot;session-log&quot;&gt;Session Log&lt;/h2&gt;
 
-<p>When a Kalandi is born, their parents must make a pilgrimage to the palace and make an offering to the dragon queen, in hopes that she will psychically bond with the baby before it first witnesses the comet… Sometimes she makes bizzare demands…</p>
+&lt;p&gt;We open on the morning of the third day since Dr. Renato’s death, the cabin lights of the Adamant rising from a low orange to mid-shift’s clinical white in crude simulation of the day-night cycle.&lt;/p&gt;
 
-<p>A roving Kaland Barbarian may be on such a mad quest, or perhaps is searching for some supply their tribe desperately needs.</p>
+&lt;p&gt;PRINCE has just finished a special project given to him by the ship’s exhausted interim Chief Researcher, Dr. Mei Lau, who technically is a member of Shift A, but is staying up late to complete preliminary analysis on mineral samples by the deadline. As PRINCE, carrying a padded case containing the coolant core of one of the ship’s 20 cryopods, scavenged for Lau’s needs, walks through the narrow corridor and spots technician Ahu Hone (short; eyepatch; jumpy; jokester) peering through the loudly warning-signaged and locked-down hatch to the modular cargo pod E (PATHOGEN WARNING -EXTREME DANGER - KEEP SEALED AT ALL TIMES).&lt;/p&gt;
 
-<p><img src="assets/class-setting-1/map.png" alt="map" /></p>
+&lt;p&gt;Ahu: “Is it just me, or is there a crack in this window? Or it could be me that’s cracked. heh. ha.”&lt;/p&gt;
 
-<h3 id="footnotes">Footnotes</h3>
+&lt;p&gt;PRINCE: “That is a very funny joke, Ahu. It is good that you are concerned about our safety. Please, let me take a look.”&lt;/p&gt;
 
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>A crack in my method: I’m not actually that excited about OSE. I just… I’m not interested in the mud-peasant-to-castle-lord stories games like it tend to produce. Oh well, I thought that the setting fiction I produced with this method were still worthy of showing off anyway. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[1: Failing at setting creation]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 3: Settlements</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-3.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 3: Settlements" /><published>2023-10-31T00:00:00-05:00</published><updated>2023-10-31T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-3</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-3.html"><![CDATA[<p>This is a procedure for generating settlements for a fantasy setting. These are the base components of out fantasy world, the geographhy of which we outlined in the <a href="bottom-up-generation-2">previous post</a>. To use this, roll on the tables below, noting your results, then write a small paragraph tying the results together.</p>
+&lt;p&gt;To PRINCE’s artifical eyesight, the window looks totally fine. beyond, in the 10x10x10 meter modular cargo cube, are the samples stored in preserved disarray, just as they were when the captain ordered the module sealed.&lt;/p&gt;
 
-<h2 id="people">People</h2>
+&lt;p&gt;Down the corridor, past the hatch to module F (AEROSOLIZABLE RADIOACTIVE MATERIALS - CAUTION) Dr. Lau (older; shaved hair; wine-birthmark on cheek; dedicated) is speaking with technician Sarah Trent (round face; she/they pronoun pin; fading yellow highlights in ponytail; fragile) from the entrance to Cargo Module H, her temporary lab, she puts a hand on Sarah’s shoulder and seems to be comforting them.&lt;/p&gt;
 
-<p><strong>FOLK (d6)</strong></p>
+&lt;p&gt;PRINCE reassures Ahu that the window is perfectly fine, Ahu cracks another joke and hurries back to his current assignment (in the aft, routine reactor-core maintenance).&lt;/p&gt;
 
-<ul>
-  <li>1-5: Humans</li>
-  <li>6: roll another (d6)
-    <ol>
-      <li>Elder folk – <em>Elves or Orcs or …</em></li>
-      <li>Sky Folk – <em>Giant Owls or Drakedaughters or …</em></li>
-      <li>Deep Folk – <em>Dwarves or Fishmen or …</em></li>
-      <li>Wee Folk – <em>Hobbits or Goblins or …</em></li>
-      <li>Big Folk – <em>Cyclopses or Trolls or …</em></li>
-      <li>Cursed Folk – <em>Shades or Gnolls or …</em></li>
-    </ol>
-  </li>
-</ul>
+&lt;p&gt;PRINCE approaches Mei and Sarah, proffering the newly scavenged coolant core to Mei, who thanks PRINCE.&lt;/p&gt;
 
-<p><strong>POPULATION (d6)</strong></p>
+&lt;p&gt;Dr. Lau: “Thank you. You clearly marked the pod you took this from as out-of-order? Weaver didn’t see you did he? Good. He’d be fine, but the risk is that he’d tell Mary. We’re behind enough as it is.”&lt;/p&gt;
 
-<p>If the region is already established to be a city, it is one with 10,000s of people, otherwise, roll:</p>
+&lt;p&gt;Dr. Lau: “Ok, so next I need you to get me the heavy centerfuge from General Storage. The Pensell3300, not the General-Smith. Trent here will help you, might be a two person job - thing’s heavy, plus you know how Minogue and Bartek keep General.”&lt;/p&gt;
 
-<ul>
-  <li>1-3. Village <em>100s of people</em></li>
-  <li>4-6. Town <em>1000s of people</em></li>
-</ul>
+&lt;p&gt;Sarah gives PRINCE a half-hearted smile. Dr. Renato’s death has really affected her. As she and PRINCE take off towards General Storage, Dr. Lau places a hand on PRINCE’s arm, sensors pinging in the rubberized plastic that stretches over steel bones.&lt;/p&gt;
 
-<p><strong>ELITES (d8)</strong></p>
+&lt;p&gt;Dr. Lau: “Take care of her, ok?”&lt;/p&gt;
 
-<ol>
-  <li>Nobles</li>
-  <li>Priests</li>
-  <li>Soldiers</li>
-  <li>Merchants</li>
-  <li>Criminals</li>
-  <li>Mages</li>
-  <li>Scholars</li>
-  <li>Bureaucrats</li>
-</ol>
-
-<p><strong>RULER (d6)</strong></p>
-
-<ul>
-  <li>1-3. Single Monarch</li>
-  <li>4-5. Two to Six approximate equals</li>
-  <li>6: Many small rulers</li>
-</ul>
-
-<p><strong>RULERSHIP (d6)</strong></p>
-
-<ol>
-  <li>by Birthright</li>
-  <li>by Election</li>
-  <li>by Force</li>
-  <li>by Popularity</li>
-  <li>by Test</li>
-  <li>by Expedience</li>
-</ol>
-
-<h2 id="places">Places</h2>
-
-<p><strong>LANDMARK (d6)</strong> Roll up two landmarks</p>
-
-<ul>
-  <li>1-2: Outpost</li>
-  <li>3-4: Ruin</li>
-  <li>5-6: Natural Feature</li>
-</ul>
-
-<p>Roll on the indicated subtable:</p>
-
-<p><strong>OUTPOST (d6)</strong></p>
-
-<ol>
-  <li>Monastery or Shrine</li>
-  <li>Castle or Tower</li>
-  <li>Mine or Camp</li>
-  <li>College or Observatory</li>
-  <li>Trading Post or Inn</li>
-  <li>Manor or Glebe</li>
-</ol>
-
-<p><strong>RUIN (d6)</strong></p>
-
-<ol>
-  <li>Temple or Monument</li>
-  <li>Mine or Laboratory</li>
-  <li>City or Tower</li>
-  <li>Fortress or Prison</li>
-  <li>Library or Tomb</li>
-  <li>Manor or Palace</li>
-</ol>
-
-<p><strong>RUIN AGE (d6)</strong></p>
-
-<ul>
-  <li>1-2 Within memory</li>
-  <li>3-4 Within the current historical period</li>
-  <li>5-6 In ancient times</li>
-</ul>
-
-<p><strong>NATURAL FEATURE (d6)</strong></p>
-
-<ol>
-  <li>Air (breathable air, wind, sky, cyclone, etc)</li>
-  <li>Earth (Cave, Formation(s), seismic, canyon, etc)</li>
-  <li>Fire (volcano, natural vents, lava, open flame, etc)</li>
-  <li>Water (geyser, spring, whirlpool, waterfall, etc)</li>
-  <li>Life (Tree, Flowers, Beast, Fungi, etc)</li>
-  <li>Roll twice and combine</li>
-</ol>
-
-<h2 id="tags">Tags</h2>
-
-<p><strong>TAG (d6d6)</strong> Roll two tags.</p>
-
-<ol>
-  <li>
-    <ol>
-      <li>Treasure Hoard</li>
-      <li>Great Barrier</li>
-      <li>Shapeshifters</li>
-      <li>The Cycle</li>
-      <li>World-Crux</li>
-      <li>Overgrown</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Godhead</li>
-      <li>Skybound</li>
-      <li>Secret Cult</li>
-      <li>Impending Doom</li>
-      <li>Cursed Populace</li>
-      <li>Bathhouse</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Gears and Metal</li>
-      <li>Undeath</li>
-      <li>Exacting Tradition</li>
-      <li>Dangerous Terrain</li>
-      <li>Ancient Seal</li>
-      <li>Nomads</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Avowed Order</li>
-      <li>Battleground</li>
-      <li>Plagued</li>
-      <li>Carnival</li>
-      <li>Unusual Art</li>
-      <li>Natural Wonder</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Empty Throne</li>
-      <li>Planar Rift</li>
-      <li>Mirror World</li>
-      <li>Subaquatic</li>
-      <li>Scrupulous Seclusion</li>
-      <li>Megastructure</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Dragon</li>
-      <li>Mind Over Matter</li>
-      <li>Grand Contest</li>
-      <li>Terror in the Night</li>
-      <li>Leviathan</li>
-      <li>Great Work</li>
-    </ol>
-  </li>
-</ol>
-
-<p><strong>DETAIL (d12d6)</strong> Roll two details.</p>
-
-<ol>
-  <li>
-    <ol>
-      <li>Scales</li>
-      <li>Twin</li>
-      <li>Teeth</li>
-      <li>Compass</li>
-      <li>Rune</li>
-      <li>Angel</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Shadow</li>
-      <li>Bridge</li>
-      <li>Soul</li>
-      <li>Waste</li>
-      <li>Spark</li>
-      <li>Ring</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Wave</li>
-      <li>Orb</li>
-      <li>Rat</li>
-      <li>Filth</li>
-      <li>Colors</li>
-      <li>Rain</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Reflect</li>
-      <li>Horn</li>
-      <li>Witch</li>
-      <li>Sun</li>
-      <li>Ice</li>
-      <li>Spear</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Gold</li>
-      <li>Ink</li>
-      <li>Helm</li>
-      <li>Lantern</li>
-      <li>Coin</li>
-      <li>Earth</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Chain</li>
-      <li>Ooze</li>
-      <li>Blood</li>
-      <li>Bone</li>
-      <li>Mask</li>
-      <li>Lady</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Cloak</li>
-      <li>Chaos</li>
-      <li>Stone</li>
-      <li>Silk</li>
-      <li>Steed</li>
-      <li>Deep</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Vision</li>
-      <li>Silence</li>
-      <li>Tree</li>
-      <li>Spiral</li>
-      <li>Feather</li>
-      <li>Eye</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Demon</li>
-      <li>Wind</li>
-      <li>Daggers</li>
-      <li>Seed</li>
-      <li>Iron</li>
-      <li>Trickster</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Rice</li>
-      <li>Gloom</li>
-      <li>Hunger</li>
-      <li>Blast</li>
-      <li>Gem</li>
-      <li>Color</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Mist</li>
-      <li>Ethereal</li>
-      <li>Wheels</li>
-      <li>Forge</li>
-      <li>Judge</li>
-      <li>Fairy</li>
-    </ol>
-  </li>
-  <li>
-    <ol>
-      <li>Spire</li>
-      <li>Titan</li>
-      <li>Cinder</li>
-      <li>Jester</li>
-      <li>Glass</li>
-      <li>Worm</li>
-    </ol>
-  </li>
-</ol>
-
-<hr />
-
-<p>As an example, I’ll step through the process of creating settlements for the North-East corner of the previously created map:</p>
-
-<p><img src="assets/bottom-up-generation-3/realm8.png" alt="starting map" /></p>
-
-<p>What I know about the terrain of the map so far: <strong>The Godfells</strong> Are holy mountains where gods that have died are interred. <strong>Aurora Flats</strong> glow with unnatural violet whisps and auroras at night.</p>
-
-<p>I’ll start with the two cities, since they are most likely to shape what this section of the realm will be like.</p>
-
-<p><strong>A: Gergamon</strong></p>
-
-<blockquote>
-  <p>A City of Cyclopses. Elites: Mages. Rulership: Single monarch by birthright. Landmark: Natural feature with the Life aspect. Tags: Ancient Seal / Cursed Populace. Details: Iron / Silence.</p>
-</blockquote>
-
-<p>Home to the Cyclopses: huge, one-eyed beings once known for their roaring magical incantations. In ancient times, the cyclopes mages stole a Seed of Life from the Garden of the Gods. In retribution for this, the goddess Iexis cursed the Cyclopes with muteness for as long as the cyclopses’ stolen tree lived. Unable to die or speak, the cyclopes mages now seek the magical power of Cold Iron needed to destroy the tree of life that towers over their city.</p>
-
-<p><strong>E: Sembercrux</strong></p>
-
-<blockquote>
-  <p>A City of Humans. Elites: Nobles. Rulership: Single monarch by birthright. Landmark: ruin of a temple or monument ruined in ancient times. Tags: Battleground / The Cycle. Details: Forge / Scales</p>
-</blockquote>
-
-<p>Capital of the Realm and a city of fire and industry. This city has been razed to to ground at least 6 times in the past, only surviving by threads of fate. After the Royal Seer, upon Old Temple Hill, fortold the death of the city by fire and lightning, leadership of this place has become paranoid and distrusting of the Cyclopses over the mountains, believing that they covet the stockpile of Cold Iron deep in the city vaults, and wish to see the city destroyed a seventh time. The city labors to produce the “ultimate weapon” - a flying war machine with the shape and powers of a dragon.</p>
-
-<p><strong>B: Jubilux</strong></p>
-
-<blockquote>
-  <p>A Town of Humans. Elites: Nobles. Rulership: single monarch by election. Landmark: Natural Feature with the water aspect. Tags: Grand Contest / Carnival. Details: Tree / Wheels</p>
-</blockquote>
-
-<p>Built into the skull of the dead god of Merry-Making, the Circus here memorializes the fabled Last Joke with inummerable pranks, pratfalls, high-flying stunts, rigged games, and dramatic performances. A jester or bard cannot truely be said to have “earned their polka-dots” without a visit. Recently, a new promotion from the King of Clowns themself has drawn crowds from accross the realm: BECOME A GOD! LORD JUBILUX REINCARNATED! DO YOU HAVE WHAT IT TAKES?? ONE WEEK ONLY!</p>
-
-<p><strong>C: Haletto Pass</strong></p>
-
-<blockquote>
-  <p>A Village of Humans. Elites: Merchants. Rulership: several equals by popularity. Landmark: Ruin or library or tomb – within current historical period. Tags: World-Crux / Plagued. Details: Chain / Coin</p>
-</blockquote>
-
-<p>A small village built next to the great Chain that Bolts the Heaven to the Earth. Eons ago, with the assistance of the rebelling Titans, the mortals chained the god’s world to the mundane universe. The Guild of Otherworldly Consignment secretly regulates the flow of goods and services from one world to the next. Recently, they’ve been tracking a mysterious plague carried by brass coins recently dug up here.</p>
-
-<p><strong>D: Cadreen</strong></p>
-
-<blockquote>
-  <p>A Village of Shades. Elites: Priests. Rulership: Several Approximate Equals by Force. Landmark: Ruin of City or Tower ruined within current historical period. Tags: Exacting Tradition / Mirror World. Details: Orb / Stone</p>
-</blockquote>
-
-<p>The ruined city of Cadreen is filled with haunted statues. The city is home also to the wizard Naphide, Master of the Mirrors. The statues guard his soul-orb as he delves deeper and deeper into the mirrors, anchoring his ever-dissipating soul to the material world. Naphide has seen wonders in the mirrors, and (if he even can be found in his maze of reflected realities) loves to bargain with knowledge. The statues are even older than him, but serve him willingly, as he has promised to find them a way back to the land of the dead though the mirrors.</p>
-
-<p><strong>F: Gemara</strong></p>
-
-<blockquote>
-  <p>A Town of Cyclopes. Elites: Soldiers. Rulership: Single Monarch by expedience. Natural Feature of the Water aspect. Tags: Planar Rift / Impending Doom. Details: Worm / Bridge</p>
-</blockquote>
-
-<p>Built into an island in the middle of The Sink, a large saltwater lake. The Cyclopes here left the city of Gergamon seeking a simpler life away from the frantic magical research of the city. The people of this town surivive by hunting the titanic Purple Worms that squirm at the bottom of the lake, the slime of which has a number of properties, including as a electro-conductive lubricant used by the industrialists of Sembercrux - it has the property of attracting and consentrating the natural magical radiation of Aurora Flats. An army of the Sembercuxi are massing at the bridge. The Sembercrux Warband leader privately worried - how does one besiege a town filled with immortals…?</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[This is a procedure for generating settlements for a fantasy setting. These are the base components of out fantasy world, the geographhy of which we outlined in the previous post. To use this, roll on the tables below, noting your results, then write a small paragraph tying the results together.]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 2: Geography</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-2.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 2: Geography" /><published>2023-10-18T00:00:00-05:00</published><updated>2023-10-18T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-2</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-2.html"><![CDATA[<p>This is a procedure for generating the geography of a fantasy region. A follow-up from my <a href="bottom-up-generation-1">previous post</a> on what I’m calling “bottom-up generation”.</p>
-
-<p>It divides a singlular realm into a number of swathes of terrain (called zones) and furth subdivides those zones into regions (15 to 18 in total) each ready for us to generate a location within that will be the base components of our setting.</p>
-
-<p><strong>Step 1</strong> - Draw a blobby, irregular shape on a piece of paper / some drawing program. This is your realm.</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm1.png" alt="realm 1 image" /></p>
-
-<p><strong>Step 2</strong> - Divide the outside of the realm into 6 roughly equal sized and irregularly bordered border sections. Randomly select a border section with 1d6. Roll another d6, working clockwise, mark that many segments as sea. For each remaining land section, roll d6 - 1-3: neighboring realm, 4-6: wasteland.</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm2.png" alt="realm 2 image" /></p>
-
-<p><strong>Step 3</strong> - Divide the realm into 3 roughly equal sized and irregularly bordered Terrain Zones, and divide each of those zones into 4 Wilderness Regions each.</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm3.png" alt="realm 1 image" /></p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm4.png" alt="realm 1 image" /></p>
-
-<p><strong>Step 4</strong> - Roll d6 for each Zone, on a 1-3 add one City Region, 4-6 add two. Add City Regions by carving out small areas) about half the size of the already existing regions from the zone.</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm5.png" alt="realm 1 image" /></p>
-
-<p><strong>Step 5</strong> – In each Zone, roll a d4 to choose a region randomly. This region splits off into its own mini zone with a single region in it. At this point you should have three Zones with 3 regions each and three zones with one region each, along with some city regions.</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm6.png" alt="realm 1 image" /></p>
-
-<p><strong>Step 6</strong> - Generate terrain for each Zone. Use a random table or come up with your own. Keep it simple… A terrain type and an unusual detail is probably all you need at this point. Terrain in each of the city regions is farmland.</p>
-
-<p>Roll twice on the following table and combine (wet+grassland=bog, forest+dry=thorn forest, etc).</p>
-
-<p>Doubles indicate an exagerated type of that terrain (sweeping grasslands, towering mountains, etc.).</p>
-
-<p>Weird means make it weird! (weird+forest=ghost trees, weird+wet=permanently foggy lands, etc.).</p>
-
-<ol>
-  <li>Grassland</li>
-  <li>Forest</li>
-  <li>Mountains</li>
-  <li>Wet</li>
-  <li>Dry</li>
-  <li>Weird</li>
-</ol>
-
-<p>Generate two zone’s worth of terrain per bordering realm as well.</p>
-
-<p>(this technique is snagged from <a href="https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html">this</a> post from <em>A Blasted Cratered Land</em>’s blog.)</p>
-
-<p>Here is what the map from above looks like with some terrain drawn on it</p>
-
-<p><img src="/blog/assets/bottom-up-generation-2/realm7.png" alt="realm 1 image" /></p>
-
-<p><strong>Step 7</strong> - For each region, roll on the following table, this will give you a Major and Minor location within that region. Major locations we’ll give more detail to, and minor locations less detail. A Major Ruin might be a full-fledged dungeon, while a minor ruin might be a simple abandoned farmstead.</p>
-
-<ol>
-  <li>Settlement with a minor Ruin</li>
-  <li>Settlement with a minor Landmark</li>
-  <li>Ruin with a minor Settlement</li>
-  <li>Ruin with a minor Landmark</li>
-  <li>Landmark with a minor Settlement</li>
-  <li>Landmark with a minor Ruin</li>
-</ol>
-
-<p>For city regions, roll d6 to determine only a minor location - the major location we know is the city.</p>
-
-<p>1-2 Minor Settlement, 3-4 Minor Landmark, 5-6 Minor Ruin</p>
-
-<p>Followup blog posts will go into generating and developing these locations, though there are many options for generating Landmarks, Settlements, and Ruins - Worlds Without Number, in particular, has some good tables for that purpose.</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[This is a procedure for generating the geography of a fantasy region. A follow-up from my previous post on what I’m calling “bottom-up generation”.]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 1: Introduction</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-1.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 1: Introduction" /><published>2023-10-16T00:00:00-05:00</published><updated>2023-10-16T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-1</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-1.html"><![CDATA[<p>I’m a big fan of how the game <a href="https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version">Stars Without Number</a> does procedural setting generation from the bottom-up. If you are not familiar with SWN. In that game, in order to build an interstellar sector to set the campaign in, the GM is asked to first randomly locate worlds on the sector map, then to roll on some tables to generate those worlds. So at hex 0305, there might be a burning industrial hell world inhabited by surly robots, while at neighboring hex 0306, you might find an airless casino-world secretly ruled by a eugenics cult (and etc).</p>
-
-<p>Notably, the overall shape and setting of the sector is determined by the ways that the small generated bits of game content (the worlds, in this games case.) relate to each other. Perhaps I imagine that the foolish prince of the New Earth Hegemony has recently, against all odds, won the entire industrial robot planet in a huge bet against the cult-casino, and now all sorts of trouble is resulting. The random tables create a reasonably sized field of random goodies to forge connections and narrative out of.</p>
-
-<p><a href="https://mausritter.com/">Mausritter’s</a> setting generation procedures are similar, generating a three layer hexflower’s worth of interesting tidbits to weave together.</p>
-
-<p>Contrast this to the world-building procedures of the game <a href="https://preview.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition">Worlds Without Number</a>. WWN asks the GM to work from the top down, starting from defining the basic facts of the fantasy world, to defining the various nations and geography of a region in that world, to finally defining the individual setting components that the players will interact with within the scope of a single nation or zone within that nation.</p>
-
-<p>Whenever I try to use the setting generation tools in WWN, I tend to bounce off. There isn’t much support for the “top” of the top-down approach, no tables to roll on to help define the world-level setting details. Without a strong central concept, the settings that I’ve attempted to make using WWN have felt mushy and uninspiring (not that this is everyone’s experience, I just don’t mesh will with the tools provided).</p>
-
-<p>The process for setting generation in WWN and SWN are notably different. In WWN, it is assumed that the GM will be several “setting layers” deep before generating the actual “content” of places, people, things in the campaign, while in SWN that is happening immediately.</p>
-
-<p>So, what might a bottom-up approach similar to SWN’s for generating a fantasy world look like?</p>
-
-<ul>
-  <li>
-    <p>As soon as we can in the process, we should generate the low-level setting components.</p>
-  </li>
-  <li>
-    <p>These components shouldn’t number more than about 20, preferably closer to a dozen. (SWN has the GM generate 20 to 30 worlds per sector, which in my experience is a little too many – to much detail can sometimes leave things feeling muddled, each component being washed out by the tide of detail.)</p>
-  </li>
-  <li>
-    <p>The procedure for generating for the components should be evocative, balanced between under and over definition.</p>
-  </li>
-  <li>
-    <p>The setting-builder should be encouraged and given the tools to build the setting by addition and weaving together the results from the various different setting components.</p>
-  </li>
-</ul>
-
-<p>In the following blog posts, I will be showing off a procedure that I have devised to generate a fantasy setting, starting with a procedure for generating the overall geography and location of the components of the setting.</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[I’m a big fan of how the game Stars Without Number does procedural setting generation from the bottom-up. If you are not familiar with SWN. In that game, in order to build an interstellar sector to set the campaign in, the GM is asked to first randomly locate worlds on the sector map, then to roll on some tables to generate those worlds. So at hex 0305, there might be a burning industrial hell world inhabited by surly robots, while at neighboring hex 0306, you might find an airless casino-world secretly ruled by a eugenics cult (and etc).]]></summary></entry></feed>
+&lt;p&gt;Dr. Lau: “I… need to sleep.”&lt;/p&gt;
+
+&lt;p&gt;Sarah and PRINCE walk through the dormitories in order to get to General Storage. Sarah opens up about being distraught over Emily’s death, and being worried about how everyone is doing after the funeral.&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Thank you for listening to me, PRINCE. It really helps. I’ve been talking so much to Dr. Lau, but I feel bad because she has so much work already, so I appreciate you listening.”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Of course, Sarah. You are a very kind person, caring about Dr. Lau’s feelings like that.”&lt;/p&gt;
+
+&lt;p&gt;Sarah: “How-how are you doing, PRINCE.”&lt;/p&gt;
+
+&lt;p&gt;Prince reveals a little about how the distress of everyone on the crew is affecting him.
+Thank
+Sarah: “I’ve been working on this since- since the…”&lt;/p&gt;
+
+&lt;p&gt;She pulls a book from her utility bag. It’s the repurposed binder cover of a vacsuit training manual with the pasted over with a blank sheet. ‘Memories of Emily Renato by The Crew of the Adamant Lapis’ is carefully and neatly hand-lettered and colored-in.&lt;/p&gt;
+
+&lt;p&gt;She looks down at the floor&lt;/p&gt;
+
+&lt;p&gt;Sarah: “I thought we could all add to it! to help us remember her. Maybe we could keep it in the lab? So its like she’s still here, maybe?”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “That is a wonderful idea, Sarah. This really shows your thoughtfulness and care for Emily and for the rest of the crew.”&lt;/p&gt;
+
+&lt;p&gt;Sarah: “I want to give it to you first. Would you like to write your thoughts first? I tried, but-“&lt;/p&gt;
+
+&lt;p&gt;Sarah: “I- I thought that maybe you and some of the other crew would want to go first?”&lt;/p&gt;
+
+&lt;p&gt;They look hopefully and sheepishly at PRINCE&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Of course, giving this book to me is a great idea. The other crew and I will greatly appreciate the opportunity to remember Dr. Renato.”&lt;/p&gt;
+
+&lt;p&gt;Sarah hands the blank book to PRINCE with a smile. They turn the corner out of the dorms, just as, a few meters away, technician Aleksy Bartk (slick ‘stache; confrontational teamster patch; heavy footfalls; irritable) steps out of General Storage, carrying a heavy armful of cables.&lt;/p&gt;
+
+&lt;p&gt;With a grunt and a glance, he stomps past.&lt;/p&gt;
+
+&lt;p&gt;Sarah: “If only everyone else was as easy to convince as you… My card tournament sign up still only has me and you on it. Everyone in Shift A has their board game night that everyone attends. I wish that Shift B had that same spirit!”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Do you think that a card game tournament would help everyone come together and process their recent hardship?”&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Yeah!”&lt;/p&gt;
+
+&lt;p&gt;they step into General Storage, the faint smell of cigarette smoke confronting their nostrils as they confront the shelves and pressurized hatches of theoretically well-organized items.&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Well, I dunno. Even &lt;em&gt;before&lt;/em&gt; this- this week, you were the only one interested.”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Well, if you think that it will bring the crew together, I will help find attendees. Please do not worry.”&lt;/p&gt;
+
+&lt;p&gt;Sarah gives a genuine smile.&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Thank you, PRINCE.”&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Now, that centerfuge…”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Aleksy: “hey man, got a ‘sec to check on the project?”&lt;/p&gt;
+
+&lt;p&gt;He’s got his arms full of cabling and tubing. Without stopping for an answer, he clomps past the entrance to Cargo Module A (STRONG MAGNETIC FIELDS - WARNING - &lt;em&gt;keep these samples away from computers!!! - Dr. Lau&lt;/em&gt;) which frames Gregory as he exits holding a small shielded sample case.&lt;/p&gt;
+
+&lt;p&gt;Gregory: “Of course.”&lt;/p&gt;
+
+&lt;p&gt;Greg carefully seals the manual lock on the module behind him as he leaves. He catches up to Aleksy, who has stopped to lean against Module C’s hatch, which glows with a dull, sickly yellow light (UNKNOWN CHEMICAL AND ENERGETIC HAZARDS - DANGER). Greg strolls past Module B (NO KNOWN HAZARDS - CAUTION), giving a  glance at the occupant of the 10 cubed meter space: a large pearlescent sphere — the core of rogue asteroid Gobstopper-98, as well as colorfully-banded rock samples from the 12km wide nearly spherical asteroid.&lt;/p&gt;
+
+&lt;p&gt;Prelim analysis of the rock samples is next in the queue. Greg is looking forward to it.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “So whaddaya think of the carminosis situation.”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “How do you mean?”&lt;/p&gt;
+
+&lt;p&gt;Aleksy looks like he’s chewing on something, eyes narrowed.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “I &lt;em&gt;mean&lt;/em&gt;- you think that those dinky fuckin’ door seals on the lab are enough?”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “Well, I’m sure that proper procedure is being followed — Captain Kaur and Officer Weaver have our best interests at heart.”&lt;/p&gt;
+
+&lt;p&gt;Aleksy makes a derisive grunt/laugh.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “&lt;em&gt;Seriously&lt;/em&gt;?”&lt;/p&gt;
+
+&lt;p&gt;It’s laconic, but the calm seems forced.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “You really trust The Company to do right by us?”&lt;/p&gt;
+
+&lt;p&gt;Aleksy motions to the patch on the front of his work overalls: A pair of crossed chains chomped by red-canined teeth — “Don’t FUCK With Us”&lt;/p&gt;
+
+&lt;p&gt;Aleksy: Must be the education. If you and I didn’t have this project I’da thought you a softie. You’ll learn. Us Teamsters know better. From experience.”&lt;/p&gt;
+
+&lt;p&gt;Gregory opens the hatch to the reactor room, which Aleksy enters first.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “That right, Ahu?”&lt;/p&gt;
+
+&lt;p&gt;Ahu: “Flippin frick. Alright, who used the haz-suits last?”&lt;/p&gt;
+
+&lt;p&gt;Ahu: “Who used the haz-suits the last &lt;em&gt;three&lt;/em&gt; times?”&lt;/p&gt;
+
+&lt;p&gt;he motions to the empty hazard suit cabinet, which is squeezed in next to the behemoth purring nuclear reactor core that squats in the space.&lt;/p&gt;
+
+&lt;p&gt;Ahu: “You? you?”&lt;/p&gt;
+
+&lt;p&gt;Gregory shrugs, Aleksy grunts and takes a wide berth around the reactor core, towards the hatch to the gravity generator chamber.&lt;/p&gt;
+
+&lt;p&gt;Gregory: “I’ll let you know if I see one.”&lt;/p&gt;
+
+&lt;p&gt;Ahu: “I should have known research was hogging all the suits… just remember that &lt;em&gt;some&lt;/em&gt; us have to work with the *actual” hazmats — not just hellmagnets or superflu.”&lt;/p&gt;
+
+&lt;p&gt;Greg makes an indistinct laugh-sound as he follows Aleksy into the grav generator room, a sleek, spindly mechanism studded with four grav-pylons sits. Aleksy has already opened a secret hatch in the corner, beside a tool cabinet.&lt;/p&gt;
+
+&lt;p&gt;Aleksy pokes at the readings on the whisky still that he and Greg have jury-rigged inside.&lt;/p&gt;
+
+&lt;p&gt;Aleksy “whaddya think?”&lt;/p&gt;
+
+&lt;p&gt;Greg bends down to look over the instrumentation, pulls a wrinked pamplet out of his tool holster and flips through it.&lt;/p&gt;
+
+&lt;p&gt;Gregory: “looks good for this stage. How much longer, do you think?&lt;/p&gt;
+
+&lt;p&gt;Aleksy pops open a hatch in the side of the still, pokes a finger inside, tastes it.&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “Hooo! Euch. Pretty good &lt;em&gt;for somethin’ that used to be fuckin’ engine fuel&lt;/em&gt;. 3 weeks. maybe four. You sure this is gonna make alchohol?”&lt;/p&gt;
+
+&lt;p&gt;Greg: “I’m not an expert in organic chemistry, but this should work.”&lt;/p&gt;
+
+&lt;p&gt;Aleksy: “Alright. Alright. Before you go, just remember what I said about the higher ups”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “I could speak with Captain, see if she could tighten up the security of the lab-“&lt;/p&gt;
+
+&lt;p&gt;Aleksy just grunts and waves his hand dismissively.&lt;/p&gt;
+
+&lt;p&gt;Before he leaves, Greg spots one of the hazsuits, discarded haphazardly near the entrance to the warp core chamber. He glances sidelong at Aleksy, who has already started shuffling through the gravgen status printouts. He brings the suit back to Ahu, who is grateful.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Eventually, ship’s mignight rolls around - time for the midday break and meal. Cooking-specialist android CHE-F queries everyone’s enjoyment of the meal (rice and spiced vegetable curry), square boxy body trundling out of the kitchen to the mess hall and reacting with a :) with its display panel face to Sarah’s praise.&lt;/p&gt;
+
+&lt;p&gt;CHE-F: “Your feedback. Is appreciated.”&lt;/p&gt;
+
+&lt;p&gt;CHE-F: “Please Remember. That this week’s friday meat meal will be. Mutton Steaks. With cricket-meal bread and gravy.”&lt;/p&gt;
+
+&lt;p&gt;Ahu is joking with Chief Officer Donald Weaver (tall, heavy, sandy haired, passive-voiced).&lt;/p&gt;
+
+&lt;p&gt;Ahu: “-and he says- he says: ‘I’ll be Bach!’”&lt;/p&gt;
+
+&lt;p&gt;Weaver snorts and gives a chuckle.&lt;/p&gt;
+
+&lt;p&gt;Ahu: “Careful chief,”&lt;/p&gt;
+
+&lt;p&gt;Ahu drops his voice to a stage whisper&lt;/p&gt;
+
+&lt;p&gt;Ahu: “Don’t wanna look like an oxygen hog.”&lt;/p&gt;
+
+&lt;p&gt;Ahu and Weaver grin while Sarah gives a little ‘eep’ and Aleksy scowls into his half-eaten curry. Chief Weaver is suddenly looking very passive-faced.&lt;/p&gt;
+
+&lt;p&gt;Ahu: “Ah. I mean.”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “About that, I was curious, are we being careful enough and following safety protocols properly? Is there anything we can do to improve?”&lt;/p&gt;
+
+&lt;p&gt;Donald: “Ah, yes. To my knowledge everything is as safe as it can be. With myself and Dr. Lau holding the key-cards, there’s no need to worry. About Dr. Lau’s key card, at least! Eh. Heh.”&lt;/p&gt;
+
+&lt;p&gt;No one laughs at Chief Weaver’s boss joke.&lt;/p&gt;
+
+&lt;p&gt;Sensing social friction, PRINCE stirs and regards Gregory with the screen that is his face — currently pulsing with an flowing abstract blue-cyan smear.&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Gregory, is it true that you like to play cards?”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “Well, I have to confess, back in school I was quite the player of cards! Won more than I lost, anyway.”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “This is good. Did you know that Sarah has placed a sign-up for a card-game tournament in the rec-room? This could be a good opportunity to unwind and have fun!”&lt;/p&gt;
+
+&lt;p&gt;Sarah: “Ever play dutch blitz? It’s easy I swear!”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “I suppose that I’ll have to…&lt;/p&gt;
+
+&lt;p&gt;Gregory: “Want to make the game sweeter with a bet, PRINCE?”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “A Bet! A wonderful idea Greg. I am not wealthy, but I will wager with you.”&lt;/p&gt;
+
+&lt;p&gt;Gregory: “I’m not wealthy either! How about 70 credits?”&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “Wonderful. Would, perhaps, anyone else like to join our bet?”&lt;/p&gt;
+
+&lt;p&gt;Ahu joins in, adding a fake jade necklace he jokes about being scammed into purchasing at the last port to the pot.&lt;/p&gt;
+
+&lt;p&gt;Sarah is beaming.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;After the meal period, the rest of the shift is mostly uneventful.&lt;/p&gt;
+
+&lt;p&gt;Gregory gets a basic spectroscopy of the Gobstopper rock samples in. Suprisingly the samples are carbiniferous, not silicate or metallic; closely matching the chemical signature of a hydrocarbon such as coal or oil.&lt;/p&gt;
+
+&lt;p&gt;Gregory is sure to follow proper safety protocol for unknown chemical samples (with the post-disaster rush, safety-protocols &lt;em&gt;have&lt;/em&gt; been lacking, he has to admit) — hazsuit properly stored after use, isolation cab brought in for handling, lab-code locking the hatch with the code Lau had shared with him.&lt;/p&gt;
+
+&lt;p&gt;Greg meets with Chief Weaver in the bridge, where every console and arm rest seems to have a coffee stain on it. Weaver allows Greg to run a preliminary simulation on the ship’s computer of potential combustion/power generation uses for the material.&lt;/p&gt;
+
+&lt;p&gt;Donald: “It’ll occupy half our compute for the two days and make our warp calcs a day late, but I’ll allow it.”&lt;/p&gt;
+
+&lt;p&gt;Donald: “If you’re onto somthing, it’ll be nice for the crew to have a win.”&lt;/p&gt;
+
+&lt;p&gt;Donald: “Just don’t tell Mary I let you do this, ok?”&lt;/p&gt;
+
+&lt;p&gt;Analysis of the Pearlescent core of Gobstopper-98 will have to wait. The industrial drill the Company-Employed miners had been mining the asteroid with had &lt;em&gt;cracked&lt;/em&gt; against its surface.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The shared meal at the end of Shift B and beginning of Shift A is also uneventful. Dr. Lau wakes up late, at the tail of the meal, but leaves early to begin her workday in the temporary lab. Ben Minogue of shift A even more quiet than usual while Max and Maxine giggle off in their own corner. Donald Weaver gives a short summary of the shift’s events and continuing work to Captain Mary Kuar.&lt;/p&gt;
+
+&lt;p&gt;The lights begin to dim — another simulation of dusk/dawn.&lt;/p&gt;
+
+&lt;p&gt;Time for shift-B to rest.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;PRINCE walks the corridor adjacent to the modular cargo bay. It is ship’s noon — Shift A is all at their meal break, while Shift B sleeps soundly. PRINCE doesn’t sleep, and right now he just wants to walk alone. Abstract green-yellow dots expand and contract on his screen-face.&lt;/p&gt;
+
+&lt;p&gt;Walking past Cargo Module B with its strange pearl, He hears a &lt;em&gt;Thump!&lt;/em&gt; and a Clatter of dropped samples from inside. Looking through the hatch window, PRINCE sees Ben Minogue has tripped and fallen, cracking his head against the pearl and scattering rock samples on the floor.&lt;/p&gt;
+
+&lt;p&gt;PRINCE tries the manual door latch. Someone has also actiuvated the digital lock.&lt;/p&gt;
+
+&lt;p&gt;Ben is laying motionless on the floor. Blood is starting to pool beneath his head.&lt;/p&gt;
+
+&lt;p&gt;PRINCE’s flash-memory automatically shows him a replay of Dr. Renato punching in the lab code, then a replay of Dr. Lau, and the Gregory. Right, always the same code.&lt;/p&gt;
+
+&lt;p&gt;As the hatch hisses open, PRINCE rushes in.&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “We need medical assistance in Cargo Module B. Ben is gravely injured.”&lt;/p&gt;
+
+&lt;p&gt;No pulse. No breathing. Benjamin Minogue is dead. The skin of his face is blue. Is that normal for a dead human? Is that normal? Is that normal?&lt;/p&gt;
+
+&lt;p&gt;The blood continues to spread. it begins to soak the knee of PRINCE’s uniform.&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “It is good for you to remain motionless. This is OK. Please remain still until we can administer first aid. You are doing well, Ben.”&lt;/p&gt;
+
+&lt;p&gt;The blood spreads, touching the pearl where it rests on the floor of the container.&lt;/p&gt;
+
+&lt;p&gt;PRINCE: “This is OK. You will be alright, Ben.”&lt;/p&gt;
+
+&lt;p&gt;Chief Weaver skids to a stop at the hatch into the module.&lt;/p&gt;
+
+&lt;p&gt;Donald: “Oh fuck-“&lt;/p&gt;
+
+&lt;p&gt;A kind of low wailing moan comes from the sphere.&lt;/p&gt;
+
+&lt;p&gt;Ben jerks under PRINCE’s hands.&lt;/p&gt;
+
+&lt;p&gt;Hope sparks in PRINCE’s simulated heart-&lt;/p&gt;
+
+&lt;p&gt;An unseen force rips Ben out of PRINCE’s hands. Ben’s body crashes into The Pearl, and &lt;em&gt;squashes&lt;/em&gt;, bones breaking, flesh tearing, he’s &lt;em&gt;peeling around the sphere&lt;/em&gt;-&lt;/p&gt;
+
+&lt;p&gt;The samples in the module begin to rattle, the spilled ones tumble, accelerating, toward the sphere. Donald Weaver stumbles backwards. PRINCE starts forward towards ben who is now a smear of flesh and blood on the Pearl—&lt;/p&gt;
+
+&lt;p&gt;The back wall of the module explodes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Gregory is awoken in the dormitories by a nearly-deafening BANG-BANG-SCREECH-BANG. There is a roar and rush of escaping atmosphere elsewhere on the ship. The emergency hatch leading to the washroom from the dormitories slams shut.&lt;/p&gt;
+
+&lt;p&gt;Sarah cowers, Ahu has fallen out of bed, Aleksy is shouting. There is a screaming of pain and a whooshing of escaping air from the portside cargo hall - Chief Weaver?&lt;/p&gt;
+
+&lt;p&gt;Something bad has happened.&lt;/p&gt;
+
+&lt;h2 id=&quot;high-scores&quot;&gt;High Scores&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Gregory DeWalt&lt;/strong&gt; - 1 session&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PRINCE&lt;/strong&gt; - 1 session&lt;/p&gt;
+
+&lt;h2 id=&quot;up-next&quot;&gt;Up Next&lt;/h2&gt;
+
+&lt;p&gt;A “review” of the module I’m using, self-feedback, and tips for others that hope to run this scenario.&lt;/p&gt;
+</description>
+		<pubDate>Fri, 24 Jul 2026 00:00:00 -0500</pubDate>
+		<link>https://hamhambone.github.io'/blog/post_05.html</link>
+		<guid isPermaLink="true">https://hamhambone.github.io'/blog/post_05.html</guid>
+        </item>
+	    
+        <item>
+        <title>Class-Based Setting Design #1: Intro and the Fighter</title>
+    	        
+		<description>&lt;h1 id=&quot;1-failing-at-setting-creation&quot;&gt;1: Failing at setting creation&lt;/h1&gt;
+
+&lt;p&gt;I’ve been thinking recently about my methods of prep for dnd style ttrpgs.&lt;/p&gt;
+
+&lt;p&gt;My prep for such games has typically and unfortunately been unsuccessful. This is my fault, I think.&lt;/p&gt;
+
+&lt;p&gt;I am oftentimes trying to reinvent the wheel! Starting from nothing, trying to do setting creation, in the hopes of getting something exciting that I can then connect to a game. It is kinda a silly way to work.&lt;/p&gt;
+
+&lt;p&gt;The primary way that this “method” fails, for me, is that it is difficult to maintain excitement and interest in a particular setting when I’m at a loss on how to turn the setting into a usable adventure that I could actually use for a real game with real people.&lt;/p&gt;
+
+&lt;h1 id=&quot;2-the-method&quot;&gt;2: The Method&lt;/h1&gt;
+
+&lt;p&gt;What I want to try is to link my setting creation to specific hard mechanical/fictional edges of an existing game.&lt;/p&gt;
+
+&lt;p&gt;I settle on targeting OSE&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Specifically, my method is this: For each class in OSE (Fighter, Thief, Magic-User, Cleric, Elf, Dwarf, Halfling) I will write down three cool “narrative subclasses” – three roles that the class might embody within the setting, extrapolating other facts about the setting from the existance of these subclassses.&lt;/p&gt;
+
+&lt;p&gt;Instead of trying to create a game setting from first principles that I would hope to steer into the shape of the game, I would instead grow the setting outward from the crystalline core of “game protagonists come in 7 different classes.”&lt;/p&gt;
+
+&lt;p&gt;I started with the fighter.&lt;/p&gt;
+
+&lt;h1 id=&quot;3-the-fighter&quot;&gt;3: The Fighter&lt;/h1&gt;
+
+&lt;p&gt;After some thought, I settle on these three subclasses for the fighter:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BELLGUARD&lt;/strong&gt; – A knightly type, sworn to a specific cause or person, protector of silver bells.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BARBARIAN OF THE KALAND WASTE&lt;/strong&gt; – Wanderer and champion of a people that live in an irradiated fungal forest. A survivor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAREDDIAN MERCENARY&lt;/strong&gt; – A sellsword and veteran of wars between the petty city states of the Caredis Peninsula. Think the Condottieri of midieval Italy.&lt;/p&gt;
+
+&lt;p&gt;I then elaborated as much as I could about the consequences of these being prototypical types of Fighters in this world.&lt;/p&gt;
+
+&lt;h1 id=&quot;31-bellguard&quot;&gt;3.1: Bellguard&lt;/h1&gt;
+
+&lt;p&gt;I imagined ancient belltowers dotting a fantasy medieval landscape, each housing an enormous silver bell etched with mysterious and powerful runes. The bells must be tolled constantly in order to drive away the demons that seek to invade the minds of the humans that live in the land of Lothain.&lt;/p&gt;
+
+&lt;p&gt;The monks of the Penitent Council are the ones that bless the bells and keep them ringing. The Penitent Council has, more than once, excersised the power to &lt;em&gt;stop&lt;/em&gt; the ringing of the bell for a particularly unruly or rebellious town or city. Such an action accidentally gave rise to the haunted place now known as Goblintown, as well as the foul necromancer that lurks in the ruined belltower…&lt;/p&gt;
+
+&lt;p&gt;The Penitent Council rules from the huge city of Nume, on the Caredis Peninsula. Its basically the Roman Catholic Church. Long ago, during the rule of a mad and cruel Numenic emperor, the emperor’s daughter began recieving visions of a comet, sent from the heavens, bearing demons that would end the world, a punishment for humanity’s sins. She ordered the construction of the belltowers, and her cruel father, who would do anything for his daughter, had the legions of the empire construct them. The Senate had both of them assassinated, on the pretext that these belltowers would bankrupt the empire. The emperor’s daughter was soon proven correct, and the day after her death, the comet appeared in the sky, growing larger day by day! “Humbled”, the Senate renamed itself the Penitent Council.&lt;/p&gt;
+
+&lt;p&gt;Some hero stopped the comet before it could impact the earth, knocking it into a glitchy orbit about the world. but, the belltowers are the only thing standing between the lands of Caredis and Lothain and total destruction!&lt;/p&gt;
+
+&lt;p&gt;The Bellguards are knights charged with the protection of a particular bell or belltower. They are typically locals, chosen by the local nobility or city council and confirmed by a representative of the Penitent Council. An appointment to bellguard is typically for life, and the organization of a particular chapter of Bellguards is typically dependant on the lopcal area, from elaborate ceremonies and guardhouses in the cities to simple hand-me-down wisdom out in the sticks.&lt;/p&gt;
+
+&lt;h2 id=&quot;32-careddian-mercenary&quot;&gt;3.2 Careddian Mercenary&lt;/h2&gt;
+
+&lt;p&gt;Today, the Penitent Council is weak and divided, also overreliant on daily shipments of grain from Lothain to keep the vast city of Nume fed. Left to their own devices, the princes of Caredis thus squabble and form short-lived alliances against each other, greatly enriching the mercenary companies that seem to form by the week, each of varying qualities of honorability and rapaciousness.&lt;/p&gt;
+
+&lt;p&gt;The typical Careddian Mercenary displays their mercenary affiliation proudly with ostentatious livery, painted armor, ridiculous hats, etc. A lone mercenary might either put on a show of their own hopeing to attract followers of thier own, or desperately hide their former affiliation behind a plain appearance.&lt;/p&gt;
+
+&lt;h2 id=&quot;33-barbarian-of-the-kaland-waste&quot;&gt;3.3 Barbarian of the Kaland Waste&lt;/h2&gt;
+
+&lt;p&gt;I think that the people of the red wasteof Kaland survived in a different way – they were ruled by a benevolent psychic dragon-queen. and when the comet came, she used her psychic link with all of her subjects to absorb the demonic spirits that tried to attach to them, and still does to this day! Today, the ancient biological technology of the Kalandi grows as wild fungal blooms, and the hideous unalive dragon queen stalks the corroded golden halls of the draconic palace whining, growling, and scratching at the walls.&lt;/p&gt;
+
+&lt;p&gt;When a Kalandi is born, their parents must make a pilgrimage to the palace and make an offering to the dragon queen, in hopes that she will psychically bond with the baby before it first witnesses the comet… Sometimes she makes bizzare demands…&lt;/p&gt;
+
+&lt;p&gt;A roving Kaland Barbarian may be on such a mad quest, or perhaps is searching for some supply their tribe desperately needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/class-setting-1/Map.png&quot; alt=&quot;map&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h3&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A crack in my method: I’m not actually that excited about OSE. I just… I’m not interested in the mud-peasant-to-castle-lord stories games like it tend to produce. Oh well, I thought that the setting fiction I produced with this method were still worthy of showing off anyway. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+		<pubDate>Fri, 01 Aug 2025 00:00:00 -0500</pubDate>
+		<link>https://hamhambone.github.io'/blog/post_04.html</link>
+		<guid isPermaLink="true">https://hamhambone.github.io'/blog/post_04.html</guid>
+        </item>
+	    
+        <item>
+        <title>Bottom-Up Generation - Part 3: Settlements</title>
+    	        
+		<description>&lt;p&gt;This is a procedure for generating settlements for a fantasy setting. These are the base components of out fantasy world, the geographhy of which we outlined in the &lt;a href=&quot;bottom-up-generation-2&quot;&gt;previous post&lt;/a&gt;. To use this, roll on the tables below, noting your results, then write a small paragraph tying the results together.&lt;/p&gt;
+
+&lt;h2 id=&quot;people&quot;&gt;People&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;FOLK (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-5: Humans&lt;/li&gt;
+  &lt;li&gt;6: roll another (d6)
+    &lt;ol&gt;
+      &lt;li&gt;Elder folk – &lt;em&gt;Elves or Orcs or …&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Sky Folk – &lt;em&gt;Giant Owls or Drakedaughters or …&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Deep Folk – &lt;em&gt;Dwarves or Fishmen or …&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Wee Folk – &lt;em&gt;Hobbits or Goblins or …&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Big Folk – &lt;em&gt;Cyclopses or Trolls or …&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Cursed Folk – &lt;em&gt;Shades or Gnolls or …&lt;/em&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;POPULATION (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If the region is already established to be a city, it is one with 10,000s of people, otherwise, roll:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-3. Village &lt;em&gt;100s of people&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;4-6. Town &lt;em&gt;1000s of people&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ELITES (d8)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Nobles&lt;/li&gt;
+  &lt;li&gt;Priests&lt;/li&gt;
+  &lt;li&gt;Soldiers&lt;/li&gt;
+  &lt;li&gt;Merchants&lt;/li&gt;
+  &lt;li&gt;Criminals&lt;/li&gt;
+  &lt;li&gt;Mages&lt;/li&gt;
+  &lt;li&gt;Scholars&lt;/li&gt;
+  &lt;li&gt;Bureaucrats&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;RULER (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-3. Single Monarch&lt;/li&gt;
+  &lt;li&gt;4-5. Two to Six approximate equals&lt;/li&gt;
+  &lt;li&gt;6: Many small rulers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;RULERSHIP (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;by Birthright&lt;/li&gt;
+  &lt;li&gt;by Election&lt;/li&gt;
+  &lt;li&gt;by Force&lt;/li&gt;
+  &lt;li&gt;by Popularity&lt;/li&gt;
+  &lt;li&gt;by Test&lt;/li&gt;
+  &lt;li&gt;by Expedience&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;places&quot;&gt;Places&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;LANDMARK (d6)&lt;/strong&gt; Roll up two landmarks&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-2: Outpost&lt;/li&gt;
+  &lt;li&gt;3-4: Ruin&lt;/li&gt;
+  &lt;li&gt;5-6: Natural Feature&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Roll on the indicated subtable:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OUTPOST (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Monastery or Shrine&lt;/li&gt;
+  &lt;li&gt;Castle or Tower&lt;/li&gt;
+  &lt;li&gt;Mine or Camp&lt;/li&gt;
+  &lt;li&gt;College or Observatory&lt;/li&gt;
+  &lt;li&gt;Trading Post or Inn&lt;/li&gt;
+  &lt;li&gt;Manor or Glebe&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;RUIN (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Temple or Monument&lt;/li&gt;
+  &lt;li&gt;Mine or Laboratory&lt;/li&gt;
+  &lt;li&gt;City or Tower&lt;/li&gt;
+  &lt;li&gt;Fortress or Prison&lt;/li&gt;
+  &lt;li&gt;Library or Tomb&lt;/li&gt;
+  &lt;li&gt;Manor or Palace&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;RUIN AGE (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-2 Within memory&lt;/li&gt;
+  &lt;li&gt;3-4 Within the current historical period&lt;/li&gt;
+  &lt;li&gt;5-6 In ancient times&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;NATURAL FEATURE (d6)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Air (breathable air, wind, sky, cyclone, etc)&lt;/li&gt;
+  &lt;li&gt;Earth (Cave, Formation(s), seismic, canyon, etc)&lt;/li&gt;
+  &lt;li&gt;Fire (volcano, natural vents, lava, open flame, etc)&lt;/li&gt;
+  &lt;li&gt;Water (geyser, spring, whirlpool, waterfall, etc)&lt;/li&gt;
+  &lt;li&gt;Life (Tree, Flowers, Beast, Fungi, etc)&lt;/li&gt;
+  &lt;li&gt;Roll twice and combine&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;tags&quot;&gt;Tags&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;TAG (d6d6)&lt;/strong&gt; Roll two tags.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Treasure Hoard&lt;/li&gt;
+      &lt;li&gt;Great Barrier&lt;/li&gt;
+      &lt;li&gt;Shapeshifters&lt;/li&gt;
+      &lt;li&gt;The Cycle&lt;/li&gt;
+      &lt;li&gt;World-Crux&lt;/li&gt;
+      &lt;li&gt;Overgrown&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Godhead&lt;/li&gt;
+      &lt;li&gt;Skybound&lt;/li&gt;
+      &lt;li&gt;Secret Cult&lt;/li&gt;
+      &lt;li&gt;Impending Doom&lt;/li&gt;
+      &lt;li&gt;Cursed Populace&lt;/li&gt;
+      &lt;li&gt;Bathhouse&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Gears and Metal&lt;/li&gt;
+      &lt;li&gt;Undeath&lt;/li&gt;
+      &lt;li&gt;Exacting Tradition&lt;/li&gt;
+      &lt;li&gt;Dangerous Terrain&lt;/li&gt;
+      &lt;li&gt;Ancient Seal&lt;/li&gt;
+      &lt;li&gt;Nomads&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Avowed Order&lt;/li&gt;
+      &lt;li&gt;Battleground&lt;/li&gt;
+      &lt;li&gt;Plagued&lt;/li&gt;
+      &lt;li&gt;Carnival&lt;/li&gt;
+      &lt;li&gt;Unusual Art&lt;/li&gt;
+      &lt;li&gt;Natural Wonder&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Empty Throne&lt;/li&gt;
+      &lt;li&gt;Planar Rift&lt;/li&gt;
+      &lt;li&gt;Mirror World&lt;/li&gt;
+      &lt;li&gt;Subaquatic&lt;/li&gt;
+      &lt;li&gt;Scrupulous Seclusion&lt;/li&gt;
+      &lt;li&gt;Megastructure&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Dragon&lt;/li&gt;
+      &lt;li&gt;Mind Over Matter&lt;/li&gt;
+      &lt;li&gt;Grand Contest&lt;/li&gt;
+      &lt;li&gt;Terror in the Night&lt;/li&gt;
+      &lt;li&gt;Leviathan&lt;/li&gt;
+      &lt;li&gt;Great Work&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;DETAIL (d12d6)&lt;/strong&gt; Roll two details.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Scales&lt;/li&gt;
+      &lt;li&gt;Twin&lt;/li&gt;
+      &lt;li&gt;Teeth&lt;/li&gt;
+      &lt;li&gt;Compass&lt;/li&gt;
+      &lt;li&gt;Rune&lt;/li&gt;
+      &lt;li&gt;Angel&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Shadow&lt;/li&gt;
+      &lt;li&gt;Bridge&lt;/li&gt;
+      &lt;li&gt;Soul&lt;/li&gt;
+      &lt;li&gt;Waste&lt;/li&gt;
+      &lt;li&gt;Spark&lt;/li&gt;
+      &lt;li&gt;Ring&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Wave&lt;/li&gt;
+      &lt;li&gt;Orb&lt;/li&gt;
+      &lt;li&gt;Rat&lt;/li&gt;
+      &lt;li&gt;Filth&lt;/li&gt;
+      &lt;li&gt;Colors&lt;/li&gt;
+      &lt;li&gt;Rain&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Reflect&lt;/li&gt;
+      &lt;li&gt;Horn&lt;/li&gt;
+      &lt;li&gt;Witch&lt;/li&gt;
+      &lt;li&gt;Sun&lt;/li&gt;
+      &lt;li&gt;Ice&lt;/li&gt;
+      &lt;li&gt;Spear&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Gold&lt;/li&gt;
+      &lt;li&gt;Ink&lt;/li&gt;
+      &lt;li&gt;Helm&lt;/li&gt;
+      &lt;li&gt;Lantern&lt;/li&gt;
+      &lt;li&gt;Coin&lt;/li&gt;
+      &lt;li&gt;Earth&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Chain&lt;/li&gt;
+      &lt;li&gt;Ooze&lt;/li&gt;
+      &lt;li&gt;Blood&lt;/li&gt;
+      &lt;li&gt;Bone&lt;/li&gt;
+      &lt;li&gt;Mask&lt;/li&gt;
+      &lt;li&gt;Lady&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Cloak&lt;/li&gt;
+      &lt;li&gt;Chaos&lt;/li&gt;
+      &lt;li&gt;Stone&lt;/li&gt;
+      &lt;li&gt;Silk&lt;/li&gt;
+      &lt;li&gt;Steed&lt;/li&gt;
+      &lt;li&gt;Deep&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Vision&lt;/li&gt;
+      &lt;li&gt;Silence&lt;/li&gt;
+      &lt;li&gt;Tree&lt;/li&gt;
+      &lt;li&gt;Spiral&lt;/li&gt;
+      &lt;li&gt;Feather&lt;/li&gt;
+      &lt;li&gt;Eye&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Demon&lt;/li&gt;
+      &lt;li&gt;Wind&lt;/li&gt;
+      &lt;li&gt;Daggers&lt;/li&gt;
+      &lt;li&gt;Seed&lt;/li&gt;
+      &lt;li&gt;Iron&lt;/li&gt;
+      &lt;li&gt;Trickster&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Rice&lt;/li&gt;
+      &lt;li&gt;Gloom&lt;/li&gt;
+      &lt;li&gt;Hunger&lt;/li&gt;
+      &lt;li&gt;Blast&lt;/li&gt;
+      &lt;li&gt;Gem&lt;/li&gt;
+      &lt;li&gt;Color&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Mist&lt;/li&gt;
+      &lt;li&gt;Ethereal&lt;/li&gt;
+      &lt;li&gt;Wheels&lt;/li&gt;
+      &lt;li&gt;Forge&lt;/li&gt;
+      &lt;li&gt;Judge&lt;/li&gt;
+      &lt;li&gt;Fairy&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Spire&lt;/li&gt;
+      &lt;li&gt;Titan&lt;/li&gt;
+      &lt;li&gt;Cinder&lt;/li&gt;
+      &lt;li&gt;Jester&lt;/li&gt;
+      &lt;li&gt;Glass&lt;/li&gt;
+      &lt;li&gt;Worm&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As an example, I’ll step through the process of creating settlements for the North-East corner of the previously created map:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-3/realm8.png&quot; alt=&quot;starting map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What I know about the terrain of the map so far: &lt;strong&gt;The Godfells&lt;/strong&gt; Are holy mountains where gods that have died are interred. &lt;strong&gt;Aurora Flats&lt;/strong&gt; glow with unnatural violet whisps and auroras at night.&lt;/p&gt;
+
+&lt;p&gt;I’ll start with the two cities, since they are most likely to shape what this section of the realm will be like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: Gergamon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A City of Cyclopses. Elites: Mages. Rulership: Single monarch by birthright. Landmark: Natural feature with the Life aspect. Tags: Ancient Seal / Cursed Populace. Details: Iron / Silence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Home to the Cyclopses: huge, one-eyed beings once known for their roaring magical incantations. In ancient times, the cyclopes mages stole a Seed of Life from the Garden of the Gods. In retribution for this, the goddess Iexis cursed the Cyclopes with muteness for as long as the cyclopses’ stolen tree lived. Unable to die or speak, the cyclopes mages now seek the magical power of Cold Iron needed to destroy the tree of life that towers over their city.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E: Sembercrux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A City of Humans. Elites: Nobles. Rulership: Single monarch by birthright. Landmark: ruin of a temple or monument ruined in ancient times. Tags: Battleground / The Cycle. Details: Forge / Scales&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Capital of the Realm and a city of fire and industry. This city has been razed to to ground at least 6 times in the past, only surviving by threads of fate. After the Royal Seer, upon Old Temple Hill, fortold the death of the city by fire and lightning, leadership of this place has become paranoid and distrusting of the Cyclopses over the mountains, believing that they covet the stockpile of Cold Iron deep in the city vaults, and wish to see the city destroyed a seventh time. The city labors to produce the “ultimate weapon” - a flying war machine with the shape and powers of a dragon.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;B: Jubilux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Town of Humans. Elites: Nobles. Rulership: single monarch by election. Landmark: Natural Feature with the water aspect. Tags: Grand Contest / Carnival. Details: Tree / Wheels&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Built into the skull of the dead god of Merry-Making, the Circus here memorializes the fabled Last Joke with inummerable pranks, pratfalls, high-flying stunts, rigged games, and dramatic performances. A jester or bard cannot truely be said to have “earned their polka-dots” without a visit. Recently, a new promotion from the King of Clowns themself has drawn crowds from accross the realm: BECOME A GOD! LORD JUBILUX REINCARNATED! DO YOU HAVE WHAT IT TAKES?? ONE WEEK ONLY!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C: Haletto Pass&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Village of Humans. Elites: Merchants. Rulership: several equals by popularity. Landmark: Ruin or library or tomb – within current historical period. Tags: World-Crux / Plagued. Details: Chain / Coin&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A small village built next to the great Chain that Bolts the Heaven to the Earth. Eons ago, with the assistance of the rebelling Titans, the mortals chained the god’s world to the mundane universe. The Guild of Otherworldly Consignment secretly regulates the flow of goods and services from one world to the next. Recently, they’ve been tracking a mysterious plague carried by brass coins recently dug up here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D: Cadreen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Village of Shades. Elites: Priests. Rulership: Several Approximate Equals by Force. Landmark: Ruin of City or Tower ruined within current historical period. Tags: Exacting Tradition / Mirror World. Details: Orb / Stone&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The ruined city of Cadreen is filled with haunted statues. The city is home also to the wizard Naphide, Master of the Mirrors. The statues guard his soul-orb as he delves deeper and deeper into the mirrors, anchoring his ever-dissipating soul to the material world. Naphide has seen wonders in the mirrors, and (if he even can be found in his maze of reflected realities) loves to bargain with knowledge. The statues are even older than him, but serve him willingly, as he has promised to find them a way back to the land of the dead though the mirrors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;F: Gemara&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Town of Cyclopes. Elites: Soldiers. Rulership: Single Monarch by expedience. Natural Feature of the Water aspect. Tags: Planar Rift / Impending Doom. Details: Worm / Bridge&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Built into an island in the middle of The Sink, a large saltwater lake. The Cyclopes here left the city of Gergamon seeking a simpler life away from the frantic magical research of the city. The people of this town surivive by hunting the titanic Purple Worms that squirm at the bottom of the lake, the slime of which has a number of properties, including as a electro-conductive lubricant used by the industrialists of Sembercrux - it has the property of attracting and consentrating the natural magical radiation of Aurora Flats. An army of the Sembercuxi are massing at the bridge. The Sembercrux Warband leader privately worried - how does one besiege a town filled with immortals…?&lt;/p&gt;
+</description>
+		<pubDate>Tue, 31 Oct 2023 00:00:00 -0500</pubDate>
+		<link>https://hamhambone.github.io'/blog/post_03.html</link>
+		<guid isPermaLink="true">https://hamhambone.github.io'/blog/post_03.html</guid>
+        </item>
+	    
+        <item>
+        <title>Bottom-Up Generation - Part 2: Geography</title>
+    	        
+		<description>&lt;p&gt;This is a procedure for generating the geography of a fantasy region. A follow-up from my &lt;a href=&quot;bottom-up-generation-1&quot;&gt;previous post&lt;/a&gt; on what I’m calling “bottom-up generation”.&lt;/p&gt;
+
+&lt;p&gt;It divides a singlular realm into a number of swathes of terrain (called zones) and furth subdivides those zones into regions (15 to 18 in total) each ready for us to generate a location within that will be the base components of our setting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt; - Draw a blobby, irregular shape on a piece of paper / some drawing program. This is your realm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm1.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt; - Divide the outside of the realm into 6 roughly equal sized and irregularly bordered border sections. Randomly select a border section with 1d6. Roll another d6, working clockwise, mark that many segments as sea. For each remaining land section, roll d6 - 1-3: neighboring realm, 4-6: wasteland.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm2.png&quot; alt=&quot;realm 2 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt; - Divide the realm into 3 roughly equal sized and irregularly bordered Terrain Zones, and divide each of those zones into 4 Wilderness Regions each.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm3.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm4.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4&lt;/strong&gt; - Roll d6 for each Zone, on a 1-3 add one City Region, 4-6 add two. Add City Regions by carving out small areas) about half the size of the already existing regions from the zone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm5.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5&lt;/strong&gt; – In each Zone, roll a d4 to choose a region randomly. This region splits off into its own mini zone with a single region in it. At this point you should have three Zones with 3 regions each and three zones with one region each, along with some city regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm6.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6&lt;/strong&gt; - Generate terrain for each Zone. Use a random table or come up with your own. Keep it simple… A terrain type and an unusual detail is probably all you need at this point. Terrain in each of the city regions is farmland.&lt;/p&gt;
+
+&lt;p&gt;Roll twice on the following table and combine (wet+grassland=bog, forest+dry=thorn forest, etc).&lt;/p&gt;
+
+&lt;p&gt;Doubles indicate an exagerated type of that terrain (sweeping grasslands, towering mountains, etc.).&lt;/p&gt;
+
+&lt;p&gt;Weird means make it weird! (weird+forest=ghost trees, weird+wet=permanently foggy lands, etc.).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Grassland&lt;/li&gt;
+  &lt;li&gt;Forest&lt;/li&gt;
+  &lt;li&gt;Mountains&lt;/li&gt;
+  &lt;li&gt;Wet&lt;/li&gt;
+  &lt;li&gt;Dry&lt;/li&gt;
+  &lt;li&gt;Weird&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Generate two zone’s worth of terrain per bordering realm as well.&lt;/p&gt;
+
+&lt;p&gt;(this technique is snagged from &lt;a href=&quot;https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html&quot;&gt;this&lt;/a&gt; post from &lt;em&gt;A Blasted Cratered Land&lt;/em&gt;’s blog.)&lt;/p&gt;
+
+&lt;p&gt;Here is what the map from above looks like with some terrain drawn on it&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/bottom-up-generation-2/realm7.png&quot; alt=&quot;realm 1 image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 7&lt;/strong&gt; - For each region, roll on the following table, this will give you a Major and Minor location within that region. Major locations we’ll give more detail to, and minor locations less detail. A Major Ruin might be a full-fledged dungeon, while a minor ruin might be a simple abandoned farmstead.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Settlement with a minor Ruin&lt;/li&gt;
+  &lt;li&gt;Settlement with a minor Landmark&lt;/li&gt;
+  &lt;li&gt;Ruin with a minor Settlement&lt;/li&gt;
+  &lt;li&gt;Ruin with a minor Landmark&lt;/li&gt;
+  &lt;li&gt;Landmark with a minor Settlement&lt;/li&gt;
+  &lt;li&gt;Landmark with a minor Ruin&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For city regions, roll d6 to determine only a minor location - the major location we know is the city.&lt;/p&gt;
+
+&lt;p&gt;1-2 Minor Settlement, 3-4 Minor Landmark, 5-6 Minor Ruin&lt;/p&gt;
+
+&lt;p&gt;Followup blog posts will go into generating and developing these locations, though there are many options for generating Landmarks, Settlements, and Ruins - Worlds Without Number, in particular, has some good tables for that purpose.&lt;/p&gt;
+</description>
+		<pubDate>Wed, 18 Oct 2023 00:00:00 -0500</pubDate>
+		<link>https://hamhambone.github.io'/blog/post_02.html</link>
+		<guid isPermaLink="true">https://hamhambone.github.io'/blog/post_02.html</guid>
+        </item>
+	    
+        <item>
+        <title>Bottom-Up Generation - Part 1: Introduction</title>
+    	        
+		<description>&lt;p&gt;I’m a big fan of how the game &lt;a href=&quot;https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version&quot;&gt;Stars Without Number&lt;/a&gt; does procedural setting generation from the bottom-up. If you are not familiar with SWN. In that game, in order to build an interstellar sector to set the campaign in, the GM is asked to first randomly locate worlds on the sector map, then to roll on some tables to generate those worlds. So at hex 0305, there might be a burning industrial hell world inhabited by surly robots, while at neighboring hex 0306, you might find an airless casino-world secretly ruled by a eugenics cult (and etc).&lt;/p&gt;
+
+&lt;p&gt;Notably, the overall shape and setting of the sector is determined by the ways that the small generated bits of game content (the worlds, in this games case.) relate to each other. Perhaps I imagine that the foolish prince of the New Earth Hegemony has recently, against all odds, won the entire industrial robot planet in a huge bet against the cult-casino, and now all sorts of trouble is resulting. The random tables create a reasonably sized field of random goodies to forge connections and narrative out of.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mausritter.com/&quot;&gt;Mausritter’s&lt;/a&gt; setting generation procedures are similar, generating a three layer hexflower’s worth of interesting tidbits to weave together.&lt;/p&gt;
+
+&lt;p&gt;Contrast this to the world-building procedures of the game &lt;a href=&quot;https://preview.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition&quot;&gt;Worlds Without Number&lt;/a&gt;. WWN asks the GM to work from the top down, starting from defining the basic facts of the fantasy world, to defining the various nations and geography of a region in that world, to finally defining the individual setting components that the players will interact with within the scope of a single nation or zone within that nation.&lt;/p&gt;
+
+&lt;p&gt;Whenever I try to use the setting generation tools in WWN, I tend to bounce off. There isn’t much support for the “top” of the top-down approach, no tables to roll on to help define the world-level setting details. Without a strong central concept, the settings that I’ve attempted to make using WWN have felt mushy and uninspiring (not that this is everyone’s experience, I just don’t mesh will with the tools provided).&lt;/p&gt;
+
+&lt;p&gt;The process for setting generation in WWN and SWN are notably different. In WWN, it is assumed that the GM will be several “setting layers” deep before generating the actual “content” of places, people, things in the campaign, while in SWN that is happening immediately.&lt;/p&gt;
+
+&lt;p&gt;So, what might a bottom-up approach similar to SWN’s for generating a fantasy world look like?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;As soon as we can in the process, we should generate the low-level setting components.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;These components shouldn’t number more than about 20, preferably closer to a dozen. (SWN has the GM generate 20 to 30 worlds per sector, which in my experience is a little too many – to much detail can sometimes leave things feeling muddled, each component being washed out by the tide of detail.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The procedure for generating for the components should be evocative, balanced between under and over definition.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The setting-builder should be encouraged and given the tools to build the setting by addition and weaving together the results from the various different setting components.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the following blog posts, I will be showing off a procedure that I have devised to generate a fantasy setting, starting with a procedure for generating the overall geography and location of the components of the setting.&lt;/p&gt;
+</description>
+		<pubDate>Mon, 16 Oct 2023 00:00:00 -0500</pubDate>
+		<link>https://hamhambone.github.io'/blog/post_01.html</link>
+		<guid isPermaLink="true">https://hamhambone.github.io'/blog/post_01.html</guid>
+        </item>
+	    
+</channel>
+</rss>

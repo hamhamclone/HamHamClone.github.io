@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hamhambone.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hamhambone.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-08-01T21:36:58-05:00</updated><id>https://hamhambone.github.io/blog/feed.xml</id><title type="html">HamHamBone’s Blog</title><subtitle>tabletop roleplaying game miscellanea.</subtitle><entry><title type="html">Class-Based Setting Design #1: Intro and the Fighter</title><link href="https://hamhambone.github.io/blog/class-setting-1.html" rel="alternate" type="text/html" title="Class-Based Setting Design #1: Intro and the Fighter" /><published>2025-08-01T00:00:00-05:00</published><updated>2025-08-01T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/class-setting-1</id><content type="html" xml:base="https://hamhambone.github.io/blog/class-setting-1.html"><![CDATA[<h1 id="1-failing-at-setting-creation">1: Failing at setting creation</h1>
+
+<p>I’ve been thinking recently about my methods of prep for dnd style ttrpgs.</p>
+
+<p>My prep for such games has typically and unfortunately been unsuccessful. This is my fault, I think.</p>
+
+<p>I am oftentimes trying to reinvent the wheel! Starting from nothing, trying to do setting creation, in the hopes of getting something exciting that I can then connect to a game. It is kinda a silly way to work.</p>
+
+<p>The primary way that this “method” fails, for me, is that it is difficult to maintain excitement and interest in a particular setting when I’m at a loss on how to turn the setting into a usable adventure that I could actually use for a real game with real people.</p>
+
+<h1 id="2-the-method">2: The Method</h1>
+
+<p>What I want to try is to link my setting creation to specific hard mechanical/fictional edges of an existing game.</p>
+
+<p>I settle on targeting OSE<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Specifically, my method is this: For each class in OSE (Fighter, Thief, Magic-User, Cleric, Elf, Dwarf, Halfling) I will write down three cool “narrative subclasses” – three roles that the class might embody within the setting, extrapolating other facts about the setting from the existance of these subclassses.</p>
+
+<p>Instead of trying to create a game setting from first principles that I would hope to steer into the shape of the game, I would instead grow the setting outward from the crystalline core of “game protagonists come in 7 different classes.”</p>
+
+<p>I started with the fighter.</p>
+
+<h1 id="3-the-fighter">3: The Fighter</h1>
+
+<p>After some thought, I settle on these three subclasses for the fighter:</p>
+
+<p><strong>BELLGUARD</strong> – A knightly type, sworn to a specific cause or person, protector of silver bells.</p>
+
+<p><strong>BARBARIAN OF THE KALAND WASTE</strong> – Wanderer and champion of a people that live in an irradiated fungal forest. A survivor.</p>
+
+<p><strong>CAREDDIAN MERCENARY</strong> – A sellsword and veteran of wars between the petty city states of the Caredis Peninsula. Think the Condottieri of midieval Italy.</p>
+
+<p>I then elaborated as much as I could about the consequences of these being prototypical types of Fighters in this world.</p>
+
+<h1 id="31-bellguard">3.1: Bellguard</h1>
+
+<p>I imagined ancient belltowers dotting a fantasy medieval landscape, each housing an enormous silver bell etched with mysterious and powerful runes. The bells must be tolled constantly in order to drive away the demons that seek to invade the minds of the humans that live in the land of Lothain.</p>
+
+<p>The monks of the Penitent Council are the ones that bless the bells and keep them ringing. The Penitent Council has, more than once, excersised the power to <em>stop</em> the ringing of the bell for a particularly unruly or rebellious town or city. Such an action accidentally gave rise to the haunted place now known as Goblintown, as well as the foul necromancer that lurks in the ruined belltower…</p>
+
+<p>The Penitent Council rules from the huge city of Nume, on the Caredis Peninsula. Its basically the Roman Catholic Church. Long ago, during the rule of a mad and cruel Numenic emperor, the emperor’s daughter began recieving visions of a comet, sent from the heavens, bearing demons that would end the world, a punishment for humanity’s sins. She ordered the construction of the belltowers, and her cruel father, who would do anything for his daughter, had the legions of the empire construct them. The Senate had both of them assassinated, on the pretext that these belltowers would bankrupt the empire. The emperor’s daughter was soon proven correct, and the day after her death, the comet appeared in the sky, growing larger day by day! “Humbled”, the Senate renamed itself the Penitent Council.</p>
+
+<p>Some hero stopped the comet before it could impact the earth, knocking it into a glitchy orbit about the world. but, the belltowers are the only thing standing between the lands of Caredis and Lothain and total destruction!</p>
+
+<p>The Bellguards are knights charged with the protection of a particular bell or belltower. They are typically locals, chosen by the local nobility or city council and confirmed by a representative of the Penitent Council. An appointment to bellguard is typically for life, and the organization of a particular chapter of Bellguards is typically dependant on the lopcal area, from elaborate ceremonies and guardhouses in the cities to simple hand-me-down wisdom out in the sticks.</p>
+
+<h2 id="32-careddian-mercenary">3.2 Careddian Mercenary</h2>
+
+<p>Today, the Penitent Council is weak and divided, also overreliant on daily shipments of grain from Lothain to keep the vast city of Nume fed. Left to their own devices, the princes of Caredis thus squabble and form short-lived alliances against each other, greatly enriching the mercenary companies that seem to form by the week, each of varying qualities of honorability and rapaciousness.</p>
+
+<p>The typical Careddian Mercenary displays their mercenary affiliation proudly with ostentatious livery, painted armor, ridiculous hats, etc. A lone mercenary might either put on a show of their own hopeing to attract followers of thier own, or desperately hide their former affiliation behind a plain appearance.</p>
+
+<h2 id="33-barbarian-of-the-kaland-waste">3.3 Barbarian of the Kaland Waste</h2>
+
+<p>I think that the people of the red wasteof Kaland survived in a different way – they were ruled by a benevolent psychic dragon-queen. and when the comet came, she used her psychic link with all of her subjects to absorb the demonic spirits that tried to attach to them, and still does to this day! Today, the ancient biological technology of the Kalandi grows as wild fungal blooms, and the hideous unalive dragon queen stalks the corroded golden halls of the draconic palace whining, growling, and scratching at the walls.</p>
+
+<p>When a Kalandi is born, their parents must make a pilgrimage to the palace and make an offering to the dragon queen, in hopes that she will psychically bond with the baby before it first witnesses the comet… Sometimes she makes bizzare demands…</p>
+
+<p>A roving Kaland Barbarian may be on such a mad quest, or perhaps is searching for some supply their tribe desperately needs.</p>
+
+<p><img src="assets/class-setting-1/map.png" alt="map" /></p>
+
+<h3 id="footnotes">Footnotes</h3>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>A crack in my method: I’m not actually that excited about OSE. I just… I’m not interested in the mud-peasant-to-castle-lord stories games like it tend to produce. Oh well, I thought that the setting fiction I produced with this method were still worthy of showing off anyway. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[1: Failing at setting creation]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 3: Settlements</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-3.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 3: Settlements" /><published>2023-10-31T00:00:00-05:00</published><updated>2023-10-31T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-3</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-3.html"><![CDATA[<p>This is a procedure for generating settlements for a fantasy setting. These are the base components of out fantasy world, the geographhy of which we outlined in the <a href="bottom-up-generation-2">previous post</a>. To use this, roll on the tables below, noting your results, then write a small paragraph tying the results together.</p>
+
+<h2 id="people">People</h2>
+
+<p><strong>FOLK (d6)</strong></p>
+
+<ul>
+  <li>1-5: Humans</li>
+  <li>6: roll another (d6)
+    <ol>
+      <li>Elder folk – <em>Elves or Orcs or …</em></li>
+      <li>Sky Folk – <em>Giant Owls or Drakedaughters or …</em></li>
+      <li>Deep Folk – <em>Dwarves or Fishmen or …</em></li>
+      <li>Wee Folk – <em>Hobbits or Goblins or …</em></li>
+      <li>Big Folk – <em>Cyclopses or Trolls or …</em></li>
+      <li>Cursed Folk – <em>Shades or Gnolls or …</em></li>
+    </ol>
+  </li>
+</ul>
+
+<p><strong>POPULATION (d6)</strong></p>
+
+<p>If the region is already established to be a city, it is one with 10,000s of people, otherwise, roll:</p>
+
+<ul>
+  <li>1-3. Village <em>100s of people</em></li>
+  <li>4-6. Town <em>1000s of people</em></li>
+</ul>
+
+<p><strong>ELITES (d8)</strong></p>
+
+<ol>
+  <li>Nobles</li>
+  <li>Priests</li>
+  <li>Soldiers</li>
+  <li>Merchants</li>
+  <li>Criminals</li>
+  <li>Mages</li>
+  <li>Scholars</li>
+  <li>Bureaucrats</li>
+</ol>
+
+<p><strong>RULER (d6)</strong></p>
+
+<ul>
+  <li>1-3. Single Monarch</li>
+  <li>4-5. Two to Six approximate equals</li>
+  <li>6: Many small rulers</li>
+</ul>
+
+<p><strong>RULERSHIP (d6)</strong></p>
+
+<ol>
+  <li>by Birthright</li>
+  <li>by Election</li>
+  <li>by Force</li>
+  <li>by Popularity</li>
+  <li>by Test</li>
+  <li>by Expedience</li>
+</ol>
+
+<h2 id="places">Places</h2>
+
+<p><strong>LANDMARK (d6)</strong> Roll up two landmarks</p>
+
+<ul>
+  <li>1-2: Outpost</li>
+  <li>3-4: Ruin</li>
+  <li>5-6: Natural Feature</li>
+</ul>
+
+<p>Roll on the indicated subtable:</p>
+
+<p><strong>OUTPOST (d6)</strong></p>
+
+<ol>
+  <li>Monastery or Shrine</li>
+  <li>Castle or Tower</li>
+  <li>Mine or Camp</li>
+  <li>College or Observatory</li>
+  <li>Trading Post or Inn</li>
+  <li>Manor or Glebe</li>
+</ol>
+
+<p><strong>RUIN (d6)</strong></p>
+
+<ol>
+  <li>Temple or Monument</li>
+  <li>Mine or Laboratory</li>
+  <li>City or Tower</li>
+  <li>Fortress or Prison</li>
+  <li>Library or Tomb</li>
+  <li>Manor or Palace</li>
+</ol>
+
+<p><strong>RUIN AGE (d6)</strong></p>
+
+<ul>
+  <li>1-2 Within memory</li>
+  <li>3-4 Within the current historical period</li>
+  <li>5-6 In ancient times</li>
+</ul>
+
+<p><strong>NATURAL FEATURE (d6)</strong></p>
+
+<ol>
+  <li>Air (breathable air, wind, sky, cyclone, etc)</li>
+  <li>Earth (Cave, Formation(s), seismic, canyon, etc)</li>
+  <li>Fire (volcano, natural vents, lava, open flame, etc)</li>
+  <li>Water (geyser, spring, whirlpool, waterfall, etc)</li>
+  <li>Life (Tree, Flowers, Beast, Fungi, etc)</li>
+  <li>Roll twice and combine</li>
+</ol>
+
+<h2 id="tags">Tags</h2>
+
+<p><strong>TAG (d6d6)</strong> Roll two tags.</p>
+
+<ol>
+  <li>
+    <ol>
+      <li>Treasure Hoard</li>
+      <li>Great Barrier</li>
+      <li>Shapeshifters</li>
+      <li>The Cycle</li>
+      <li>World-Crux</li>
+      <li>Overgrown</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Godhead</li>
+      <li>Skybound</li>
+      <li>Secret Cult</li>
+      <li>Impending Doom</li>
+      <li>Cursed Populace</li>
+      <li>Bathhouse</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Gears and Metal</li>
+      <li>Undeath</li>
+      <li>Exacting Tradition</li>
+      <li>Dangerous Terrain</li>
+      <li>Ancient Seal</li>
+      <li>Nomads</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Avowed Order</li>
+      <li>Battleground</li>
+      <li>Plagued</li>
+      <li>Carnival</li>
+      <li>Unusual Art</li>
+      <li>Natural Wonder</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Empty Throne</li>
+      <li>Planar Rift</li>
+      <li>Mirror World</li>
+      <li>Subaquatic</li>
+      <li>Scrupulous Seclusion</li>
+      <li>Megastructure</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Dragon</li>
+      <li>Mind Over Matter</li>
+      <li>Grand Contest</li>
+      <li>Terror in the Night</li>
+      <li>Leviathan</li>
+      <li>Great Work</li>
+    </ol>
+  </li>
+</ol>
+
+<p><strong>DETAIL (d12d6)</strong> Roll two details.</p>
+
+<ol>
+  <li>
+    <ol>
+      <li>Scales</li>
+      <li>Twin</li>
+      <li>Teeth</li>
+      <li>Compass</li>
+      <li>Rune</li>
+      <li>Angel</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Shadow</li>
+      <li>Bridge</li>
+      <li>Soul</li>
+      <li>Waste</li>
+      <li>Spark</li>
+      <li>Ring</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Wave</li>
+      <li>Orb</li>
+      <li>Rat</li>
+      <li>Filth</li>
+      <li>Colors</li>
+      <li>Rain</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Reflect</li>
+      <li>Horn</li>
+      <li>Witch</li>
+      <li>Sun</li>
+      <li>Ice</li>
+      <li>Spear</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Gold</li>
+      <li>Ink</li>
+      <li>Helm</li>
+      <li>Lantern</li>
+      <li>Coin</li>
+      <li>Earth</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Chain</li>
+      <li>Ooze</li>
+      <li>Blood</li>
+      <li>Bone</li>
+      <li>Mask</li>
+      <li>Lady</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Cloak</li>
+      <li>Chaos</li>
+      <li>Stone</li>
+      <li>Silk</li>
+      <li>Steed</li>
+      <li>Deep</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Vision</li>
+      <li>Silence</li>
+      <li>Tree</li>
+      <li>Spiral</li>
+      <li>Feather</li>
+      <li>Eye</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Demon</li>
+      <li>Wind</li>
+      <li>Daggers</li>
+      <li>Seed</li>
+      <li>Iron</li>
+      <li>Trickster</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Rice</li>
+      <li>Gloom</li>
+      <li>Hunger</li>
+      <li>Blast</li>
+      <li>Gem</li>
+      <li>Color</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Mist</li>
+      <li>Ethereal</li>
+      <li>Wheels</li>
+      <li>Forge</li>
+      <li>Judge</li>
+      <li>Fairy</li>
+    </ol>
+  </li>
+  <li>
+    <ol>
+      <li>Spire</li>
+      <li>Titan</li>
+      <li>Cinder</li>
+      <li>Jester</li>
+      <li>Glass</li>
+      <li>Worm</li>
+    </ol>
+  </li>
+</ol>
+
+<hr />
+
+<p>As an example, I’ll step through the process of creating settlements for the North-East corner of the previously created map:</p>
+
+<p><img src="assets/bottom-up-generation-3/realm8.png" alt="starting map" /></p>
+
+<p>What I know about the terrain of the map so far: <strong>The Godfells</strong> Are holy mountains where gods that have died are interred. <strong>Aurora Flats</strong> glow with unnatural violet whisps and auroras at night.</p>
+
+<p>I’ll start with the two cities, since they are most likely to shape what this section of the realm will be like.</p>
+
+<p><strong>A: Gergamon</strong></p>
+
+<blockquote>
+  <p>A City of Cyclopses. Elites: Mages. Rulership: Single monarch by birthright. Landmark: Natural feature with the Life aspect. Tags: Ancient Seal / Cursed Populace. Details: Iron / Silence.</p>
+</blockquote>
+
+<p>Home to the Cyclopses: huge, one-eyed beings once known for their roaring magical incantations. In ancient times, the cyclopes mages stole a Seed of Life from the Garden of the Gods. In retribution for this, the goddess Iexis cursed the Cyclopes with muteness for as long as the cyclopses’ stolen tree lived. Unable to die or speak, the cyclopes mages now seek the magical power of Cold Iron needed to destroy the tree of life that towers over their city.</p>
+
+<p><strong>E: Sembercrux</strong></p>
+
+<blockquote>
+  <p>A City of Humans. Elites: Nobles. Rulership: Single monarch by birthright. Landmark: ruin of a temple or monument ruined in ancient times. Tags: Battleground / The Cycle. Details: Forge / Scales</p>
+</blockquote>
+
+<p>Capital of the Realm and a city of fire and industry. This city has been razed to to ground at least 6 times in the past, only surviving by threads of fate. After the Royal Seer, upon Old Temple Hill, fortold the death of the city by fire and lightning, leadership of this place has become paranoid and distrusting of the Cyclopses over the mountains, believing that they covet the stockpile of Cold Iron deep in the city vaults, and wish to see the city destroyed a seventh time. The city labors to produce the “ultimate weapon” - a flying war machine with the shape and powers of a dragon.</p>
+
+<p><strong>B: Jubilux</strong></p>
+
+<blockquote>
+  <p>A Town of Humans. Elites: Nobles. Rulership: single monarch by election. Landmark: Natural Feature with the water aspect. Tags: Grand Contest / Carnival. Details: Tree / Wheels</p>
+</blockquote>
+
+<p>Built into the skull of the dead god of Merry-Making, the Circus here memorializes the fabled Last Joke with inummerable pranks, pratfalls, high-flying stunts, rigged games, and dramatic performances. A jester or bard cannot truely be said to have “earned their polka-dots” without a visit. Recently, a new promotion from the King of Clowns themself has drawn crowds from accross the realm: BECOME A GOD! LORD JUBILUX REINCARNATED! DO YOU HAVE WHAT IT TAKES?? ONE WEEK ONLY!</p>
+
+<p><strong>C: Haletto Pass</strong></p>
+
+<blockquote>
+  <p>A Village of Humans. Elites: Merchants. Rulership: several equals by popularity. Landmark: Ruin or library or tomb – within current historical period. Tags: World-Crux / Plagued. Details: Chain / Coin</p>
+</blockquote>
+
+<p>A small village built next to the great Chain that Bolts the Heaven to the Earth. Eons ago, with the assistance of the rebelling Titans, the mortals chained the god’s world to the mundane universe. The Guild of Otherworldly Consignment secretly regulates the flow of goods and services from one world to the next. Recently, they’ve been tracking a mysterious plague carried by brass coins recently dug up here.</p>
+
+<p><strong>D: Cadreen</strong></p>
+
+<blockquote>
+  <p>A Village of Shades. Elites: Priests. Rulership: Several Approximate Equals by Force. Landmark: Ruin of City or Tower ruined within current historical period. Tags: Exacting Tradition / Mirror World. Details: Orb / Stone</p>
+</blockquote>
+
+<p>The ruined city of Cadreen is filled with haunted statues. The city is home also to the wizard Naphide, Master of the Mirrors. The statues guard his soul-orb as he delves deeper and deeper into the mirrors, anchoring his ever-dissipating soul to the material world. Naphide has seen wonders in the mirrors, and (if he even can be found in his maze of reflected realities) loves to bargain with knowledge. The statues are even older than him, but serve him willingly, as he has promised to find them a way back to the land of the dead though the mirrors.</p>
+
+<p><strong>F: Gemara</strong></p>
+
+<blockquote>
+  <p>A Town of Cyclopes. Elites: Soldiers. Rulership: Single Monarch by expedience. Natural Feature of the Water aspect. Tags: Planar Rift / Impending Doom. Details: Worm / Bridge</p>
+</blockquote>
+
+<p>Built into an island in the middle of The Sink, a large saltwater lake. The Cyclopes here left the city of Gergamon seeking a simpler life away from the frantic magical research of the city. The people of this town surivive by hunting the titanic Purple Worms that squirm at the bottom of the lake, the slime of which has a number of properties, including as a electro-conductive lubricant used by the industrialists of Sembercrux - it has the property of attracting and consentrating the natural magical radiation of Aurora Flats. An army of the Sembercuxi are massing at the bridge. The Sembercrux Warband leader privately worried - how does one besiege a town filled with immortals…?</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[This is a procedure for generating settlements for a fantasy setting. These are the base components of out fantasy world, the geographhy of which we outlined in the previous post. To use this, roll on the tables below, noting your results, then write a small paragraph tying the results together.]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 2: Geography</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-2.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 2: Geography" /><published>2023-10-18T00:00:00-05:00</published><updated>2023-10-18T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-2</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-2.html"><![CDATA[<p>This is a procedure for generating the geography of a fantasy region. A follow-up from my <a href="bottom-up-generation-1">previous post</a> on what I’m calling “bottom-up generation”.</p>
+
+<p>It divides a singlular realm into a number of swathes of terrain (called zones) and furth subdivides those zones into regions (15 to 18 in total) each ready for us to generate a location within that will be the base components of our setting.</p>
+
+<p><strong>Step 1</strong> - Draw a blobby, irregular shape on a piece of paper / some drawing program. This is your realm.</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm1.png" alt="realm 1 image" /></p>
+
+<p><strong>Step 2</strong> - Divide the outside of the realm into 6 roughly equal sized and irregularly bordered border sections. Randomly select a border section with 1d6. Roll another d6, working clockwise, mark that many segments as sea. For each remaining land section, roll d6 - 1-3: neighboring realm, 4-6: wasteland.</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm2.png" alt="realm 2 image" /></p>
+
+<p><strong>Step 3</strong> - Divide the realm into 3 roughly equal sized and irregularly bordered Terrain Zones, and divide each of those zones into 4 Wilderness Regions each.</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm3.png" alt="realm 1 image" /></p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm4.png" alt="realm 1 image" /></p>
+
+<p><strong>Step 4</strong> - Roll d6 for each Zone, on a 1-3 add one City Region, 4-6 add two. Add City Regions by carving out small areas) about half the size of the already existing regions from the zone.</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm5.png" alt="realm 1 image" /></p>
+
+<p><strong>Step 5</strong> – In each Zone, roll a d4 to choose a region randomly. This region splits off into its own mini zone with a single region in it. At this point you should have three Zones with 3 regions each and three zones with one region each, along with some city regions.</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm6.png" alt="realm 1 image" /></p>
+
+<p><strong>Step 6</strong> - Generate terrain for each Zone. Use a random table or come up with your own. Keep it simple… A terrain type and an unusual detail is probably all you need at this point. Terrain in each of the city regions is farmland.</p>
+
+<p>Roll twice on the following table and combine (wet+grassland=bog, forest+dry=thorn forest, etc).</p>
+
+<p>Doubles indicate an exagerated type of that terrain (sweeping grasslands, towering mountains, etc.).</p>
+
+<p>Weird means make it weird! (weird+forest=ghost trees, weird+wet=permanently foggy lands, etc.).</p>
+
+<ol>
+  <li>Grassland</li>
+  <li>Forest</li>
+  <li>Mountains</li>
+  <li>Wet</li>
+  <li>Dry</li>
+  <li>Weird</li>
+</ol>
+
+<p>Generate two zone’s worth of terrain per bordering realm as well.</p>
+
+<p>(this technique is snagged from <a href="https://crateredland.blogspot.com/2019/06/distant-lands-and-creation-thereof.html">this</a> post from <em>A Blasted Cratered Land</em>’s blog.)</p>
+
+<p>Here is what the map from above looks like with some terrain drawn on it</p>
+
+<p><img src="/blog/assets/bottom-up-generation-2/realm7.png" alt="realm 1 image" /></p>
+
+<p><strong>Step 7</strong> - For each region, roll on the following table, this will give you a Major and Minor location within that region. Major locations we’ll give more detail to, and minor locations less detail. A Major Ruin might be a full-fledged dungeon, while a minor ruin might be a simple abandoned farmstead.</p>
+
+<ol>
+  <li>Settlement with a minor Ruin</li>
+  <li>Settlement with a minor Landmark</li>
+  <li>Ruin with a minor Settlement</li>
+  <li>Ruin with a minor Landmark</li>
+  <li>Landmark with a minor Settlement</li>
+  <li>Landmark with a minor Ruin</li>
+</ol>
+
+<p>For city regions, roll d6 to determine only a minor location - the major location we know is the city.</p>
+
+<p>1-2 Minor Settlement, 3-4 Minor Landmark, 5-6 Minor Ruin</p>
+
+<p>Followup blog posts will go into generating and developing these locations, though there are many options for generating Landmarks, Settlements, and Ruins - Worlds Without Number, in particular, has some good tables for that purpose.</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[This is a procedure for generating the geography of a fantasy region. A follow-up from my previous post on what I’m calling “bottom-up generation”.]]></summary></entry><entry><title type="html">Bottom-Up Generation - Part 1: Introduction</title><link href="https://hamhambone.github.io/blog/bottom-up-generation-1.html" rel="alternate" type="text/html" title="Bottom-Up Generation - Part 1: Introduction" /><published>2023-10-16T00:00:00-05:00</published><updated>2023-10-16T00:00:00-05:00</updated><id>https://hamhambone.github.io/blog/bottom-up-generation-1</id><content type="html" xml:base="https://hamhambone.github.io/blog/bottom-up-generation-1.html"><![CDATA[<p>I’m a big fan of how the game <a href="https://preview.drivethrurpg.com/en/product/230009/Stars-Without-Number-Revised-Edition-Free-Version">Stars Without Number</a> does procedural setting generation from the bottom-up. If you are not familiar with SWN. In that game, in order to build an interstellar sector to set the campaign in, the GM is asked to first randomly locate worlds on the sector map, then to roll on some tables to generate those worlds. So at hex 0305, there might be a burning industrial hell world inhabited by surly robots, while at neighboring hex 0306, you might find an airless casino-world secretly ruled by a eugenics cult (and etc).</p>
+
+<p>Notably, the overall shape and setting of the sector is determined by the ways that the small generated bits of game content (the worlds, in this games case.) relate to each other. Perhaps I imagine that the foolish prince of the New Earth Hegemony has recently, against all odds, won the entire industrial robot planet in a huge bet against the cult-casino, and now all sorts of trouble is resulting. The random tables create a reasonably sized field of random goodies to forge connections and narrative out of.</p>
+
+<p><a href="https://mausritter.com/">Mausritter’s</a> setting generation procedures are similar, generating a three layer hexflower’s worth of interesting tidbits to weave together.</p>
+
+<p>Contrast this to the world-building procedures of the game <a href="https://preview.drivethrurpg.com/en/product/348809/worlds-without-number-free-edition">Worlds Without Number</a>. WWN asks the GM to work from the top down, starting from defining the basic facts of the fantasy world, to defining the various nations and geography of a region in that world, to finally defining the individual setting components that the players will interact with within the scope of a single nation or zone within that nation.</p>
+
+<p>Whenever I try to use the setting generation tools in WWN, I tend to bounce off. There isn’t much support for the “top” of the top-down approach, no tables to roll on to help define the world-level setting details. Without a strong central concept, the settings that I’ve attempted to make using WWN have felt mushy and uninspiring (not that this is everyone’s experience, I just don’t mesh will with the tools provided).</p>
+
+<p>The process for setting generation in WWN and SWN are notably different. In WWN, it is assumed that the GM will be several “setting layers” deep before generating the actual “content” of places, people, things in the campaign, while in SWN that is happening immediately.</p>
+
+<p>So, what might a bottom-up approach similar to SWN’s for generating a fantasy world look like?</p>
+
+<ul>
+  <li>
+    <p>As soon as we can in the process, we should generate the low-level setting components.</p>
+  </li>
+  <li>
+    <p>These components shouldn’t number more than about 20, preferably closer to a dozen. (SWN has the GM generate 20 to 30 worlds per sector, which in my experience is a little too many – to much detail can sometimes leave things feeling muddled, each component being washed out by the tide of detail.)</p>
+  </li>
+  <li>
+    <p>The procedure for generating for the components should be evocative, balanced between under and over definition.</p>
+  </li>
+  <li>
+    <p>The setting-builder should be encouraged and given the tools to build the setting by addition and weaving together the results from the various different setting components.</p>
+  </li>
+</ul>
+
+<p>In the following blog posts, I will be showing off a procedure that I have devised to generate a fantasy setting, starting with a procedure for generating the overall geography and location of the components of the setting.</p>]]></content><author><name></name></author><category term="rpg" /><category term="tools" /><summary type="html"><![CDATA[I’m a big fan of how the game Stars Without Number does procedural setting generation from the bottom-up. If you are not familiar with SWN. In that game, in order to build an interstellar sector to set the campaign in, the GM is asked to first randomly locate worlds on the sector map, then to roll on some tables to generate those worlds. So at hex 0305, there might be a burning industrial hell world inhabited by surly robots, while at neighboring hex 0306, you might find an airless casino-world secretly ruled by a eugenics cult (and etc).]]></summary></entry></feed>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Adventure Location Generator</title>
+	<link rel="stylesheet" href="generator.css">
+	<link href="../hhb-icon.png" rel="icon" type="image/png" />
+</head>
+
+<body>
+	<div class="wrapper">
+		<h1>Adventure Location Generator</h1>
+		<p id="output">...loading data...</p>
+		<button id="button-reroll">Generate more!</button>
+		<select id="select-count">
+			<option value="1">×1</option>
+			<option value="4">×4</option>
+			<option value="6" selected>×6</option>
+			<option value="8">×8</option>
+			<option value="10">×10</option>
+			<option value="12">×12</option>
+			<option value="20">×20</option>
+			<option value="100">×100</option>
+		</select>
+		<form id="location-type">
+			<input type="radio" name="location-type" value="dungeons" checked>Dungeons and Landmarks</input><br><input type="radio" name="location-type" value="regions">Regions</input>
+		</form>
+		<p class="attrib">
+			Wordlists partially derived from 
+			<a href="https://github.com/anonymousAwesome/Randomly-generated-Magic-Items">
+				anonymousAwesome's Python script
+			</a>
+		</p>
+	</div>
+</body>
+
+<script type="text/javascript" src="genutil.js"></script>
+<script type="text/javascript" src="textload.js"></script>
+
+<script type="text/javascript">
+	var outputElement = document.getElementById("output");
+	var selectCountElement = document.getElementById("select-count");
+	var locationTypeElement = document.getElementById("location-type");
+	
+	var data = {};
+	data.dungeons = "location-locations.txt";
+	data.nouns = "location-nouns.txt";
+	data.adjectives = "location-adjectives.txt";
+	data.titles = "location-titles.txt";
+	data.regions = "location-geography.txt";
+	
+	let patterns = [
+		"The {nouns} {locations}",
+		"The {titles}'s {locations}",
+		"The {adjectives} {locations}",
+		"The {adjectives} {nouns} {locations}",	
+		"The {locations} of {the} {nountitle}",
+		"The {adjectives} {locations} of {the} {nountitle}",
+		"The {locations} of {the} {adjectives} {nountitle}"
+	];
+	
+	TextLoad.massLoad(data);
+	TextLoad.onAllLoad(onLoad)
+	
+	function onLoad() {
+		data.dungeonsAndRegions = data.regions.concat(data.dungeons);
+		
+		data.nountitleSingle = 
+		data.nountitlePlural = [
+			"{nouns}~s",
+			"{titles}~s"
+		];
+		
+		generate();
+
+		document.getElementById("button-reroll")
+			.addEventListener("click", generate);
+	};
+	
+	function generate() {
+		var locationType = locationTypeElement.elements['location-type'].value
+		
+		data.locations = data.dungeons;
+		
+		if (locationType == 'dungeons') {
+			data.locations = data.dungeons;
+		} else if (locationType == 'regions') {
+			data.locations = data.regions;
+		}
+		
+		if (Math.random() < 0.5) {
+			data.nountitle=['{nouns}','{titles}'];
+			data.the =['the'];
+		} else {
+			data.nountitle=['{nouns}~s','{titles}~s'];
+			data.the =[''];
+		}
+	
+		outputElement.innerHTML = "";
+		var count = selectCountElement.value;
+		for (var i = 0; i < count; i++) {
+			var pattern = GenUtil.pickRandom(patterns);
+			var result = GenUtil.generatePattern(pattern, data);
+			outputElement.innerHTML += "" + result + "<br>";
+		}
+	}
+
+</script>
+
+</html>
