@@ -10,7 +10,7 @@ This is a session report for a game of dungeon world that I recently ran for som
 
 # Session Report
 
-🎶 [Castle](https://youtu.be/8lmnMoRD8OM?si=rs8S5h1AWls1q67O) | Breath of Death VII OST
+🎶 [Castle](https://youtu.be/8lmnMoRD8OM?si=rs8S5h1AWls1q67O) — Breath of Death VII OST
 
 ## Introduction
 
