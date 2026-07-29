@@ -36,7 +36,7 @@ Utopia is contrasted to the Religion worshipping Ao, a sun-god with a huge perso
 
 ## Hook Questions
 
-*Using the method outlined in Jeremy Crawford's excellent blog post [My Recipe For Starting Adventures](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html), I put together some questions before the game to ask after character creation to connect the characters to the scenario and ask for some cool player input.*
+*Using the method outlined in Jeremy Strandberg's excellent blog post [My Recipe For Starting Adventures](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html), I put together some questions before the game to ask after character creation to connect the characters to the scenario and ask for some cool player input.*
 
 **Motive** — You have faced the vampire Cadeus before, but he escaped, wounded, but alive. What has he taken from you that you wish to end him for good?
 
