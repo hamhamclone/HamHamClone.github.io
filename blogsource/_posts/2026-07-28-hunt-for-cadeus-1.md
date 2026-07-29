@@ -10,6 +10,8 @@ This is a session report for a game of dungeon world that I recently ran for som
 
 # Session Report
 
+🎶 [Castle](https://youtu.be/8lmnMoRD8OM?si=rs8S5h1AWls1q67O) | Breath of Death VII OST
+
 ## Introduction
 
 > You are on the tail of a dangerous vampire known as Cadeus Silverpool, seeking to destroy him. You have recently figured out that Cadeus has traveled deep into the forested mountains of the borderlands, to the small town of Crosses, which is known for its dark history... Will you be able to stop Cadeus before he completes his wicked plot within the cursed laboratories of the abandoned Hawthorne Manor?
