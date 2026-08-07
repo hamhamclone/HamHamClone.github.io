@@ -13,13 +13,13 @@
         <div class="footer">
             <h2>
                 {%- if page.next.url -%}
-                <a href="{{ page.next.url }}">Next→</a>
+                <a href="{{ site.url }}{{ page.next.url }}">Next→</a>
                 {% else %}
                 To be continued.
                 {% endif %}
             </h2>
             {%- if page.previous.url -%}
-            |<a href="{{ page.previous.url }}"> ←previous </a>
+            |<a href="{{ site.url }}{{ page.previous.url }}"> ←previous </a>
             {% endif %}
             |<a href="{{ site.url }}{{ url_butt }}">{{ text }}</a>|
 

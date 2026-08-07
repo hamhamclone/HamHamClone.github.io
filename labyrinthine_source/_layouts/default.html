@@ -5,7 +5,7 @@
 <div class="container">
     <header class="header">
         <h1 class="header-title">
-            <a href="{{ site.url }}/">{{ site.name }}</a>
+            <a href="{{ site.url }}">{{ site.name }}</a>
         </h1>
         <img src="assets/images/hhb-icon.png"></img>
         <nav class="header-nav">
@@ -13,11 +13,11 @@
             <a href="{{ site.url }}{{ nav.href }}">{{ nav.name }}</a>
             {% endfor %}
         </nav>
-        <h2><a href="{{ site.posts.last.url }}">Start Here</a></h2>
+        <h2><a href="{{ site.url }}{{ site.posts.last.url }}">Start Here</a></h2>
         <time>{{ site.posts.last.title }}</time>
-        <h2><a href="{{ site.posts.first.url }}">Latest Update</a></h2>
+        <h2><a href="{{ site.url }}{{ site.posts.first.url }}">Latest Update</a></h2>
         <time>{{ site.posts.first.title }} ({{ site.posts.first.date | date:"%-d %B %Y" }})</time>
-        <h2><a href="/archive">Table of Contents</a></h2>
+        <h2><a href="{{ site.url }}/archive">Table of Contents</a></h2>
     </header>
 </div>
 <div class="container_post">

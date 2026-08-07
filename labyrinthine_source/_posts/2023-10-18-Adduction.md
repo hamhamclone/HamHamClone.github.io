@@ -15,7 +15,7 @@ tags:   labyrinthine
 
 *The night sky of the planet Umber is host to a dizzying array of dancing-revolving Passions. Composed of stars which twinkle and glitter – locked sidereally to their proper places even as they rotate all together – unified, cyclical. In an act inextricable from reclaiming chire own will from the Titans, the first free chimera, Arthik, looked to the stars, saw The Lyricist, great Poet-Hero among Passions, and claimed it as chire own Auspice. Each and every chimera is graced with an Auspice at the moment of hatching – a gift from the dead to the living. Thus the many many passions have always been with the chimera, from Stag to Executioner to little Acorn, single star that it is. — Ellato Eyboñr, A Newer Circle or: Umber's Place In Communion*
 
-![](/assets/images/umber_hivestem.png)
+![]({{ site.url }}/assets/images/umber_hivestem.png)
 
 🎶 [Adder](https://hamhambone.bandcamp.com/track/adder) \| HamHamBone
 
@@ -28,7 +28,7 @@ Zephto Cucumi waits, numbly, leaned slouchingly kappa-style, against the rounded
 
 None are great company — none of their RZ friends are online, and the only ping from the private gaming subzome since this morning was a 🌺 react on their latest hand-crafted political meme from cherishableRelegator, who always reacts 🌺 to every meme.
 
-> ![](/assets/images/whenthewhen.png)
+> ![]({{ site.url }}/assets/images/whenthewhen.png)
 > {: .flat }
 
 With the potted plant, the RZ, and their thoughts totally inert, Zephto lets their eyes glide over the posters.
@@ -438,7 +438,7 @@ And so Zephto distracts the social worker for a hexaketon more, a feeling of gid
 
 Fae feels plantlife brushing up against faer leg. Fae softly envelops it with faer hand, and *zoop*, just like the plant outside, it is collected, simple as collecting a pickup in an RZ game. The vine flickers into nothingness a moment after.
 
-![](/assets/images/zephto_art.jpg)
+![]({{ site.url }}/assets/images/zephto_art.jpg)
 
 *Art by Maximum Graves*
 
