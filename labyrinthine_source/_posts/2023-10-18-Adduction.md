@@ -1,0 +1,455 @@
+---
+layout: post
+title:  "Chapter 1: Adduction"
+subtitle: "Zephto waits."
+feed:   true
+date:   2023-10-18
+tags:   labyrinthine
+---
+
+*Delta (δ, Δ) — del/del/dels — Gritgender, Workgender*  
+*Kappa (κ, Κ) — they/them/their — Burnoutgender, Surplusgender*  
+*Iota (ι, Ι) — fae/faer/faer — Shrinekeepergender,  Fairygender*  
+*Zeta (ζ, Ζ) — ze/zir/zirs — Viziergender, Antagonistgende*r  
+*Tau (τ, Τ) — ta/tem/ter — Witnessgender, Lubricantgender*  
+
+*The night sky of the planet Umber is host to a dizzying array of dancing-revolving Passions. Composed of stars which twinkle and glitter – locked sidereally to their proper places even as they rotate all together – unified, cyclical. In an act inextricable from reclaiming chire own will from the Titans, the first free chimera, Arthik, looked to the stars, saw The Lyricist, great Poet-Hero among Passions, and claimed it as chire own Auspice. Each and every chimera is graced with an Auspice at the moment of hatching – a gift from the dead to the living. Thus the many many passions have always been with the chimera, from Stag to Executioner to little Acorn, single star that it is. — Ellato Eyboñr, A Newer Circle or: Umber's Place In Communion*
+
+![](/assets/images/umber_hivestem.png)
+
+🎶 [Adder](https://hamhambone.bandcamp.com/track/adder) \| HamHamBone
+
+Zephto Cucumi waits, numbly, leaned slouchingly kappa-style, against the rounded plas-molded wall of the gently curving corridor. They’re waiting for their assigned social-worker to finish with ter previous appointment. The door to the social worker’s office stays closed, the muffled sounds of conversation audible but illegible behind it – the other kappa being interviewed within had given Zephto the tiniest of shrugs and smiles of solidarity when they had been called in first, leaving Zephto alone with:
+
+ - Their thoughts
+ - Various informational and inspirational posters tackied to the walls
+ - A wilting potted plant. They recognize the red dots that speckle its leaves as subclass III blight (endemic since the war) and feel a little bad for the poor thing – ecoreclamation work has felt surprisingly good for them when it isn’t paired with enduring close quarters with a pack of sweating deltas
+ - Their pocket RZ.
+
+None are great company — none of their RZ friends are online, and the only ping from the private gaming subzome since this morning was a 🌺 react on their latest hand-crafted political meme from cherishableRelegator, who always reacts 🌺 to every meme.
+
+> ![](/assets/images/whenthewhen.png)
+> {: .flat }
+
+With the potted plant, the RZ, and their thoughts totally inert, Zephto lets their eyes glide over the posters.
+
+> EVERY GENDER WORKS TOGETHER!
+> {: .flat }
+>
+> Pi smarts helps Delta leverage lift more!
+> {: .flat }
+>
+> Lambda feels compliment Gamma styles!
+> {: .flat }
+>
+> Even Kappa gets the rest that rejuvenates, before getting right back to it.
+> {: .flat }
+>
+> AND SO MUCH MORE!
+> {: .flat }
+>
+> \<subministeriat of communications placard 55610ex8-2200-3b\>
+> {: .flat }
+
+Zephto is required to meet with the social worker every other phase to discuss their Recovery Progress and Future Goals. Zephto can tell that the social worker, a severe Tau all the way from Auxatz that doesn’t seem to understand them at all, is getting impatient with their lack of progress. Not that they’re trying too hard. After their freakout at the reclamation site and their subsequent Special Circumstances chrysalization from delta to kappa, its just been kinda nice for them not to not have to worry about delta stuff, or deal with the other deltas in the barracks. Zephto is sure that the social worker is going to assign them delta again, and then… that’ll be it, forever. Whenever they mention Iota during these sessions, ta has begun to simply give them a kind of pitying look before moving on as if they didn’t say anything. Umber doesn’t need any iota. What sort of Ascendtech is there to Mediate here, anyway? It all got blown up a generation before Zephto was born, along with pretty much everything biological outside of the hivestems, and everyone understands that no umber-clade chimera is going to get trusted with that stuff again anytime soon. Even Zephto’s iconoclastic combo kappa-iota symbol tee, which has long since stopped feeling defiant and true in favor of cringe and pathetic, has begun to edge into the territory of “rote” and “expected” in their heart. That’s what a kappa does, right? They burn out, post edgelord shit to RZ subzomes that everyone ignores, and then they get the fuck over it so they can be happy deltas, forever.
+
+No one gets to stay Kappa forever.
+
+Zephto’s pocket RZ vibrates with an incoming message. Finally, a respite from this boring hell! Its too late before Zephto realizes who is pinging them; they've already clipped the RZ around their head.
+
+> \- RZ INTERTWINED -  
+> armageddonBlind AND miniaturizedAdjutant
+> {: .flat }
+>
+> aB: @corn!
+> {: .ab }
+>
+> mA: oof
+> {: .ma }
+
+aB is referring to Zephto by their birth passion. Not a good sign. They slouch a little more down the wall and give a little sigh as the text chat scrolls across their vision; they don't want to do immersive RZ sim with aB right now.
+
+> aB: @ @ @ corn ! ! !
+> {: .ab }
+>
+> mA: eeexile!!!
+> {: .ma }
+>
+> aB: :/
+> {: .ab }
+>
+> aB: @ren’t you $o happy to hear from me? You neeever answer my messages, but you d¡d just now, when I need you most!
+> {: .ab }
+>
+> aB: ¡ts @lmo$t like . . .
+> {: .ab }
+>
+> mA: *sigh*
+> {: .ma }
+>
+> aB: de$t¡ny ! ! !
+> {: .ab }
+>
+> mA: don’t tell me your doing your fortune teller shtick again. Didn’t you get canceled for being a scammer/fraud and or fraud/scammer
+> {: .ma }
+>
+> mA: or something
+> {: .ma }
+>
+> aB: $pec¡ous @llegations! But, no. ¡ have given up on the humble life of a superstar ¡ota of my$tery and have rechrysal¡zed my$elf!
+> {: .ab }
+>
+> aB: @s zet@!
+> {: .ab }
+>
+> mA: really? how?
+> {: .ma }
+>
+> mA: i mean,
+> {: .ma }
+>
+> mA: wow, your antagonex, I really believe you!
+> {: .ma }
+>
+> aB: . . .
+> {: .ab }
+>
+> mA: this is stupid.
+> {: .ma }
+>
+> mA: what do you want? I have really interesting informational posters to stare at.
+> {: .ma }
+>
+> mA: did you know that "every gender works together?"
+> {: .ma }
+>
+> aB: wow
+> {: .ab }
+>
+> mA: wow
+> {: .ma }
+>
+> aB: f@sc¡n@ting. @maz¡ng.
+> {: .ab }
+>
+> mA: yeah, i know, right?
+> {: .ma }
+>
+> aB: @nd what a co¡nc¡dence!
+> {: .ab }
+>
+> aB: As @ newly chy$@l¡zed zeta, ¡'m kind of a big deal. B¡gger and better th@n ever, I mean! ¡ feel sooo b@d for the pitiful little k@pp@ grub$.
+> {: .ab }
+>
+> aB: Wr¡ggling and mewling helple$$ly in the f@ce of the f@celess ministeri@ gender quotas.
+> {: .ab }
+>
+> aB: @lso as a newly chrysalized zeta, ¡ just have sooo many plots and tricks. its honestly hard to keep track! :>
+> {: .ab }
+>
+> aB: ¡f only there was @ way we could help each other!
+> {: .ab }
+>
+> aB: There's a big g@me ¡ want to deal you in on. High stakes, big rew@rd$. . . !
+> {: .ab }
+>
+> mA: Gaming? you know how the rest of the squad feels about you.
+> {: .ma }
+>
+> aB: Not M@gna Frame, ¡'ve outgrown th@ baby game.
+> {: .ab }
+>
+> mA: historirealplay then? lol
+> {: .ma }
+>
+> mA: you must be desperate. Arent there tons of freaky repressed tau into mindfuck shit on the starcrossed bandit subzomes?
+> {: .ma }
+>
+> aB: ¡ said big $takes! not histor¡RealPlay. . .
+> {: .ab }
+>
+> aB: ¡'ve been pl@ying thi$ game called Regent!
+> {: .ab }
+>
+> aB: ¡ think you would be a gre@ realplayer though ;>
+> {: .ab }
+>
+> mA: ugh
+> {: .ma }
+>
+> aB: And you know as well as I do th@ ¡t isn’t a que$tion of will . . .
+> {: .ab }
+>
+> aB: \{\{ROLEPLAY WITH ME\}\}
+> {: .ab }
+>
+> mA: \*The t¡ny seedling knight cowers in fear of the cr@fty and cunning vizier-prinsect!\* “please oh please, mistr¡x, tell me the $ecret$ of gender transformation, since I obviously ¡’m in denial about having fucking complex about being delt@ for some goddamn re@$on ! ! !”
+> {: .ma }
+>
+> aB: \*The viz¡er-prinsect gazes down at the seedling knight disda¡nfully\* “For you, such secrets will come at a $harp cost, because you are too stupid to do anything useful by yourself. Play a game with me, and the $ecret$ of gender w¡ll be revealed to you...”
+> {: .ab }
+>
+>armageddonBlind EXTRUDED AN ATTACHMENT \[regent_beta.ludo\]
+> {: .flat }
+>
+> mA: *rolls eyes*
+> {: .ma }
+>
+> aB: :>
+> {: .ab }
+>
+> mA: also oooooooooof. shady attachment.
+> {: .ma }
+>
+> mA: i would love to follow your command, your antagonex, but unfortunately your loyal subject is currently occupied with more important activities, such as "getting the rest that rejuvenates".
+> {: .ma }
+>
+> mA: eh, pass.
+> {: .ma }
+>
+> aB: Oh, come on m¡n¡m¡n¡!
+> {: .ab }
+>
+> aB: ¡ know th@ you love immer$ive game$.
+> {: .ab }
+>
+> aB: @nd this one i$ so fucking immersive th@ you won't even believe ¡t!
+> {: .ab }
+>
+> mA: i guess...
+> {: .ma }
+>
+> aB: ¡ wasn't lying about the stuff about gender. Joking a$¡de — I get it, ¡ really do. Regent *c@n* help you, you just have to trust me.
+> {: .ab }
+>
+> mA: i dunno, i dont think that more rzrotting will help me there. if i don't want to end up an nth-chrys i should probably just touch grass instead.
+> {: .ma }
+>
+> aB: auurgrhh!!!
+> {: .ab }
+>
+> aB: The c@rds $@¡d you would w@nt to pl@y th¡s g@me!!! Why won't you???
+> {: .ab }
+>
+> aB: @ren't you t¡red of being so $m@ll, min¡aturized? You're so p@$$ive all the time, waiting and waiting for permission. Every @corn h@$ to $prout $omet¡me, whether they l¡ke it or not! Regent has big thing$ in store for you! Ch¡mer@ will be listening to you for a change. You'll get to be the b¡g $hot! Now's your ch@nce . . . !
+> {: .ab }
+>
+> mA: ...so you want me to start taking charge by doing exactly what you and your dumb cards want me to do?
+> {: .ma }
+>
+> aB: Ye$! Th@t ¡$ wh@t I w@nt!
+> {: .ab }
+>
+> aB: . . .
+> {: .ab }
+>
+> aB: Ju$t \{\{INSTALL THE GAME\}\}
+fuck@$$ ! ! !
+> {: .ab }
+
+Oof, Zephto blacks out for a bit as their hands work on their own, impelled by armageddonBlind's memesis command, signaling the crude RZ daemon in their headset to begin construction of the ludic substrate. After a hypnotic display of flashing abstract Red-Green-Blue shapes and colors, the display dissolves, leaving Zephto back in their own body, looking out through the RZ into the real world. A small crude text box unwraps itself in the corner of their vision.
+
+> ~ ~ Welcome to REGENT (beta version), your aunex! ~ ~
+> {: .flat }
+>
+> New vistas of command and control shall open up for you! Are you ready to begin your REGENT journey?
+> {: .flat }
+>
+> In this world, you will master Objects, Links, and Nodes to build and protect your realm!
+> {: .flat }
+>
+> The Red Kingdom needs your guidance! Go and lead!
+> {: .flat }
+
+So a weird roleplay thing for brood royals? Was aB not lying about chrysalizing zeta?
+
+A number of wiggling reticules plaster themselves onto Zephto’s vision, highlighting various OBJECTS in their environment, like they’re interactables in some sort of RZhistoriRP sim or MassivelyMultiplayerRZ game.
+
+> Quickly! The enemy approaches! You will need a weapon, a leader’s greatest tool!
+> {: .flat }
+
+Zephto reaches a hand towards the reticule haloing the wilted plant, and, *zoop!*, the pot and the plant flicker into nothingness; just like an RZ game interactable would.
+
+> ~ ~ Strifekind Assigned! ~ ~
+> {: .flat }
+>
+>PLANTKIND! A powerful choice, my liege.
+> {: .flat }
+
+Zephto motions their hands in the space the plant occupied a moment ago.
+
+> Zephto: weh.
+> {: .ma .flat }
+
+Zephto jumps as they hear the noise of the office door squeaking open behind them.
+The departing kappa gives Zephto a curious look as they walk past. Zephto whips the RZ off their head and straightens up from bending down over the now empty table.
+
+The social worker looks dispassionately down at Zephto from ter tall perch upon ter long snaketaur body. Zephto smiles weakly and walks towards the open door.
+
+Ok. Ok, they can deal with aB’s fuckery later, they’ve gotta get back to reality.
+
+As they enter the office, they glance again at the poster from earlier
+
+> Even Kappa gets the rest that rejuvenates, before getting right back to it.
+> {: .flat }
+>
+> \{\{No one gets to stay Kappa forever\}\}
+> {: .flat }
+>
+
+* * * *
+
+**Content Warning** – transphobic therapy abuse. It ends well for Zephto but this one is a little rough, folks. There will be a summary of events in the next post if you would like to skip this one.
+
+The coils of the social worker’s long snake tail arch artfully behind tem as ta shuffles datafilms containing Zephto’s files – genome foundation and biomorph-supplements, unified personality test results, the latest reports from their scout leader, and more. Ter hands are decorated with a variety of rings – new fashion ones that project scintillating microholograms, together sketching miniature fireworks that burst into convoluting symbols that glitter a memesis-pattern evoking pride and excitement for some Auxatz-based echoball team. There must be a game later today on the dumbwaves.
+
+Which is a problem because Zephto doesn’t recognize the team that they are supposed to feel infectious pride for. So, whenever they try to take a peek at what the social worker is examining in their files, they instead feel a lurch of contextless ingroup-elation-nausea.
+
+Annoying.
+
+They settle for alternating quick peeks at the films and staring neutrally at the tall cylindrical slime-vault that sits on the far wall behind the social worker’s desk. When this hell is finally over and Zephto is finally assigned delta again, they’ll be given a petri dish of delta-slime from the vault, programmed to specifications, which will bond with zephto’s body, priming it for submersion in the genetic-neutral slime of a larger chrysalis chamber elsewhere in the hivestem.
+
+The slime vault holds slimes for all the genders. Its chambers carefully labeled with their symbols in the standard order – reproductive Alpha to psychopomp Omega.
+
+Zephto has done research, dodging the hivestem dataframe’s shoddy age-based RZ filters (they’ve discovered that the gatekeeper daemons will step aside if you speak to them *just* the right iota-formal way), they know that gender slime is printable – simply, even. They have a friend – well, a theta, herding the hivestem’s flighty bioprinter flock – that they can bribe with access to their age-restriction free access to the RZ database of prewar holofilms in exchange for a few extra custom prints a hemiphase.
+
+If they only had access to a drop of iota slime, they could reproduce it in the printer, swap it with their assigned delta slime, and “Oops! Haha! Guess I’m just an iota now!”.
+
+Dumb, dumb, stupid. Zephto’s eyes glance at the large strip of reflective red symbology that circumnavigates the vault, and the memesis encoded within finishes the job that Zephto’s shame begins — the thoughts of unauthorized chrysalis flee like blightfleas under a peroxide spray, leaving behind a dull ringing headache.
+
+Zephto reflexively looks away from the vault and manages to catch an eyefull of \{\{SPORTS-PRIDE-TEAM-GO-WIN-\}\}.
+
+> Social Worker: You seem distressed. Would you like to talk about it?
+> {: .sw .flat}
+
+Shit.
+
+The tau is looking down at Zephto, who tries to compose themself, looking neutrally up at tem. Ta has placed the films on the desk, has placed a look of concern on ter face.
+
+> Zephto: i-
+> {: .ma .flat}
+>
+> Social Worker: I know that you must be under a lot of stress. I know that what happened last hexephemeris and a Special Circumstances chrysalization can be traumatic. You may be feeling something called gender dysphoria. Like… your body feels wrong, and you can’t relate to others the way that you wish that you could.
+> {: .sw .flat}
+
+Zephto feels a heat on their face, looks away, locking eyes back on the vault, so that they don’t have to look at the social worker.
+
+> Zephto: i- i might…
+> {: .ma .flat}
+
+The moments drag on as the social worker waits for the rest of Zephto’s response.
+
+> Social Worker: And that’s ok! It is super common with chimera that have been chrysalized kappa! Someone used to moving through the world as a Tau would feel the same, if they were chrysalized, lets say, Pi, without being ready! Too many numbers!
+> {: .sw .flat}
+
+The social worker gives a tinkling laugh. Zephto can’t breathe.
+
+> Social Worker: So it’s natural to feel unease and distress with life as a kappa – delta felt so natural, didn’t it?
+> {: .sw .flat}
+>
+> Zephto: no – i – i don’t…
+> {: .ma .flat}
+
+Another eternity of Zephto staring at the vault, not seeing it, the social worker waiting on Zephto.
+
+> Zephto: i mean, too bad umber is such a shithole planet with no iota. haha.
+> {: .ma .flat}
+
+The social worker looks down at Zephto disapprovingly.
+
+> Social Worker: It’s also possible to feel unsure, rapid chrysalis can sometimes make us feel like there isn’t a place for us, that the traumatic events that we experienced as our former gender might happen again if we return to that environment. It might make us scared of the way that we really feel!
+> {: .sw .flat}
+>
+> Zephto: its not that, i’m – i’m -
+> {: .ma .flat}
+>
+> Zephto: i’m not sure.
+> {: .ma .flat}
+
+Zephto can feel the Tau looking down at them. They can imagine the half-cocked head, the look of expectant pity. This time, ta really does wait until Zephto speaks.
+
+They stare at the vault. Stare and stare like their mind could bore a hole into the iota-slime chamber.
+
+Tau see things. Everyone knows that. If something important is happening, Tau will be there to witness, to observe the beauty and the grandeaur and the simple things. And truths, horrible truths.
+
+What happened at the barracks had been – it had been – the other deltas had been – is that why Zephto is like this – it can’t – it doesn’t feel – but then why –
+
+Zephto feels seen, seen to the core and the core is broken, stupid, delusional –
+
+Wait.
+
+*There is a flower blooming from the iota-slime vault chamber.*
+
+Vines creep, growing fast enough that Zephto can see them it with their eyes. They creep, slowly, along the floor towards Zephto’s feet. The bloom inches closer, gravid with a seed-pod of genetic information.
+
+It is green with chlorophyll, dotted with class III blight, like the plant that disappeared from the hallway outside.
+
+To Zephto it feels natural, like it makes sense, like a magic spell cast in an RZ game by one of their squadmates.
+
+🎶 [Adduction](https://hamhambone.bandcamp.com/track/adduction) \| HamHamBone
+
+> Zephto: i… think. i think you’re right.
+> {: .ma .flat}
+
+Zephto meets the social worker’s eyes. Ta's now smiling, the first genuine emotion Zephto has seen from tem so far this session.
+
+Zephto continues the lie.
+
+> Zephto: i’ve been scared – i think i’ve been hurt and I didn’t really know it.
+> {: .ma .flat}
+
+The social worker tilts ter head.
+
+> Social Worker: That can happen! It isn’t anything to be ashamed of.
+> {: .sw .flat}
+>
+> Zephto: i-i don’t know if i’m ready just yet, but i think that… i’d like to consider chrysalizing delta again.
+> {: .ma .flat}
+>
+
+The bloom inches closer.
+
+> Social Worker: Of course. We do this on your timeline. Your comfort is so important to me and your scout leader and everyone in the hivestem!
+> {: .sw .flat}
+>
+> Social Worker: I can prepare the delta-slime admixture, even! It will be waiting here for you when you are ready.
+> {: .sw .flat}
+
+Ta shifts, to move to the vault to extract some delta-slime.
+
+Shit! Ta’ll see! The bloom is slithering under the desk, not quite to Zephto’s grasp.
+
+> Zephto: wait!
+> {: .ma .flat}
+>
+> Zephto: um, can we talk a little about what being delta means to me?
+> {: .ma .flat}
+
+The social worker returns ter attention to them.
+
+> Social Worker: of course, what do you want to tell me, Zephto?
+> {: .sw .flat}
+
+Iota are mediators, techno-shrine keepers of particularly powerful machines. In the time of the Titans, the iota had served as go-betweens, messagers, oracles for the cruel gods of ancient times. When the first free chimera of Nevrai had turned against the iota, saying that they had betrayed chimerakind, the poet-warrior Arthik stayed their hands, explaining that, in truth, the iota were heroes, protecting – as the privileged eyes and ears of the Titans, they had the freedom to lie.
+
+Why can’t Zephto be the lying mediator, protecting faer own heart?
+
+And so Zephto distracts the social worker for a hexaketon more, a feeling of giddy-numb-elation coursing through faer body. It doesn’t feel real.
+
+Fae feels plantlife brushing up against faer leg. Fae softly envelops it with faer hand, and *zoop*, just like the plant outside, it is collected, simple as collecting a pickup in an RZ game. The vine flickers into nothingness a moment after.
+
+![](/assets/images/zephto_art.jpg)
+
+*Art by Maximum Graves*
+
+A minute later and Zephto is out of the social worker’s office. They walk half a span down the gently curving corridor, out of sight of the office door, and take out their RZ and place it onto their head, hands shaking.
+
+There are several messages waiting, as their friends chat in the gaming rhizome. That can wait.
+
+The interface of Regent is similar enough to the various RZ games that they have played that it is intuitive to retrieve stored OBJECTS. The seed pod materializes in Zephto’s hand. Fae takes off the RZ. The iota-seed is still there, warm, cupped in faer hands.
+
+Tears splash down onto the beige plas-mold of the floor. Zephto begins to sob.
+
+*The dance of the Passions is beautiful, it is crucial. Thus it submitted by the first circle of the subministeriat of Unity, seconded by the first circle of the subministeriat of Divinity, ratified by the first circle of the subministeriat of Memory, and bonded to the first circle of the subministeriat of Astrogation, and finally proclaimed by the office of the most perfect ministeriat: A satellite array shall be constructed in orbit about all class II and class I member worlds; this array shall project the passions as they are visible from our lost homeworld, Nevrai, so that all chimera, on all worlds – from mighty Throne Mantis and obedient Auxatz to vibrant Clarion and newborn Beryl; even wayward Umber – shall once again be able to look up, as our hero Arthik first did, and see the same Passions. – Historical Archives of the subministeriat of Memory, Auxatz.*
+
+*So by what right does the ministeriat deny Umber its own passions? There is but one conclusion: only by perversion! Perversion of the principles of Arthik held so dearly! — Ellato Eyboñr, A Newer Circle or: Umber's Place In Communion \{\{Note: these writings must be placed in the context of political and social upheaval prior to the instigation of the 2nd umber insurrection by "Unbroken Circle" ideologues.\}\}*

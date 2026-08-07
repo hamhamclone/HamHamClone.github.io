@@ -1,0 +1,17 @@
+
+{%- assign pagnum = 10 -%}
+{%- include head.html -%}
+
+<div class="container_post">
+
+    {%- include top_small.html -%}
+
+    <h1>Table of Contents</h1>
+
+    {%- for post in site.posts reversed -%}
+        {%- include loop.html -%}
+    {%- endfor -%}
+
+</div>
+
+{%- include foot.html -%}

@@ -1,0 +1,51 @@
+# # # # # # # # # #
+#  K i k o f r i  #
+# # # # # # # # # #
+
+# # # # #
+# Used as meta-data for 'head.html' among 
+# other things.
+#
+# Basic, either your jekyll site's name or
+# an organization.
+name: "Egress Act 3: Labyrinthine"
+description: "Labyrinthine"
+
+# This should be a person of some sort.
+author: "hamhambone"
+
+# Would make sense to use the 'name:' above
+# here. This is an alternative title.
+title: "Labyrinthine"
+
+# 'en_US' is the default language. Enter a
+# new default language here. Making 'en_US'
+# an alternative language. See 'head.html'
+lang:
+
+# Default post and page image if it's those
+# are unspecified.
+image: /assets/images/hhb-icon.png
+
+# I just set this to whatever the above
+# image value is.
+# Could be some other image though.
+logo:
+#
+# # # # #
+
+# URL-stuff, don't forget the 'http...'-part
+url: "https://hamhambone.net/labyrinthine"
+#baseurl: ""
+permalink: /:title:output_ext
+
+# Markdown
+markdown: kramdown
+
+# Navigation
+nav:
+ - name: "about"
+   href: "/about"
+
+ - name: "feed"
+   href: "/feed.xml"

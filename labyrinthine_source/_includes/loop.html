@@ -1,0 +1,28 @@
+{%- comment -%}
+    For pagination-like lists of posts.
+{%- endcomment %}
+
+{%- comment -%}
+    Sorry no post.excerpt:s. Do. Not. Like.
+    'works' is an excerpt analogue.
+
+    'id' in "if archive" can be used to 
+    link to a specific post in the list.
+{%- endcomment -%}
+
+{% capture works %}
+    {% if post.description %}
+        {{ post.description | strip_html }}
+    {% else %}
+        {{ post.content | strip_html }}
+    {% endif %}
+{% endcapture %}
+
+{%- comment -%} Det här är min grej, inte del av Kikofro {%- endcomment -%}
+{%- unless post.hidden %}
+<li style="list-style-type: none">
+        <h2>
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+</li>
+{% endunless -%}
