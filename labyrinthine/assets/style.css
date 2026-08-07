@@ -1,10 +1,10 @@
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
-@font-face { font-family: "Gentium Basic"; font-weight: normal; src: local("Gentium Basic") url("https://hamhambone.net/labyrinthine/assets/fonts/gentium-basic-regular.ttf"); }
+@font-face { font-family: "Gentium Basic"; font-weight: normal; src: local("Gentium Basic"), url("https://hamhambone.net/labyrinthine/assets/fonts/gentium-basic-regular.ttf"); }
 
-@font-face { font-family: "Roboto Mono"; font-weight: normal; src: local("Roboto Mono") url("https://hamhambone.net/labyrinthine/assets/fonts/roboto-mono-regular.ttf"); }
+@font-face { font-family: 'Roboto Mono'; src: local("Roboto Mono"), url("https://hamhambone.net/labyrinthine/assets/fonts/roboto-mono-regular.ttf"); font-weight: 400; }
 
-@font-face { font-family: "Ubuntu Sans"; font-weight: 700; src: local("Ubuntu Sans") url("https://hamhambone.net/labyrinthine/assets/fonts/ubuntu-sans.ttf"); }
+@font-face { font-family: "Ubuntu Sans"; font-weight: 700; src: local("Ubuntu Sans"), url("https://hamhambone.net/labyrinthine/assets/fonts/ubuntu-sans.ttf"); }
 
 /* ====================== */
 .id { color: #200070; }

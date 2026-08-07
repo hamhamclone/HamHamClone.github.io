@@ -11,23 +11,24 @@
     font-family: "Gentium Basic";
 	font-weight: normal;
     src:
-		local('Gentium Basic')
+		local('Gentium Basic'),
 		url('{{ site.url }}/assets/fonts/gentium-basic-regular.ttf');
 }
 
 @font-face {
-    font-family: "Roboto Mono";
-	font-weight: normal;
-    src:
-		local('Roboto Mono')
+    font-family: 'Roboto Mono';
+	src:
+		local('Roboto Mono'),
 		url('{{ site.url }}/assets/fonts/roboto-mono-regular.ttf');
+    font-weight: 400;
 }
+
 
 @font-face {
     font-family: "Ubuntu Sans";
 	font-weight: 700;
     src:
-		local('Ubuntu Sans')
+		local('Ubuntu Sans'),
 		url('{{ site.url }}/assets/fonts/ubuntu-sans.ttf');
 }
 
