@@ -9,6 +9,7 @@
 
 @font-face {
     font-family: "Gentium Basic";
+	font-weight: normal;
     src:
 		local('Gentium Basic')
 		url('{{ site.url }}/assets/fonts/gentium-basic-regular.ttf');
@@ -16,6 +17,7 @@
 
 @font-face {
     font-family: "Roboto Mono";
+	font-weight: normal;
     src:
 		local('Roboto Mono')
 		url('{{ site.url }}/assets/fonts/roboto-mono-regular.ttf');
@@ -23,6 +25,7 @@
 
 @font-face {
     font-family: "Ubuntu Sans";
+	font-weight: 700;
     src:
 		local('Ubuntu Sans')
 		url('{{ site.url }}/assets/fonts/ubuntu-sans.ttf');
@@ -237,7 +240,7 @@ strong {
 }
 
 blockquote {
-	font-family: "Roboto Mono";
+	font-family: "Roboto Mono", monospace;
 	font-size: 0.80rem;
 
   	margin: 0.5rem 0 0.5rem 0;
@@ -423,19 +426,6 @@ hr {
  }
 
 @media only screen and (max-width: 570px) {
-
-    li {
-        margin: auto;
-        text-align: center;
-        padding: 0 5px 0 0;
-    }
-    a {
-        text-decoration: none;
-    }
-    p.desc {
-        text-align: center;
-    }
-    
     .container_post {
 		padding: 10px;
 	}

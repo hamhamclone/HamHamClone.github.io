@@ -1,10 +1,10 @@
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
-@font-face { font-family: "Gentium Basic"; src: local("Gentium Basic") url("https://hamhambone.net/labyrinthine/assets/fonts/gentium-basic-regular.ttf"); }
+@font-face { font-family: "Gentium Basic"; font-weight: normal; src: local("Gentium Basic") url("https://hamhambone.net/labyrinthine/assets/fonts/gentium-basic-regular.ttf"); }
 
-@font-face { font-family: "Roboto Mono"; src: local("Roboto Mono") url("https://hamhambone.net/labyrinthine/assets/fonts/roboto-mono-regular.ttf"); }
+@font-face { font-family: "Roboto Mono"; font-weight: normal; src: local("Roboto Mono") url("https://hamhambone.net/labyrinthine/assets/fonts/roboto-mono-regular.ttf"); }
 
-@font-face { font-family: "Ubuntu Sans"; src: local("Ubuntu Sans") url("https://hamhambone.net/labyrinthine/assets/fonts/ubuntu-sans.ttf"); }
+@font-face { font-family: "Ubuntu Sans"; font-weight: 700; src: local("Ubuntu Sans") url("https://hamhambone.net/labyrinthine/assets/fonts/ubuntu-sans.ttf"); }
 
 /* ====================== */
 .id { color: #200070; }
@@ -84,7 +84,7 @@ hr { border: 0; border-top: .5px solid #808080; margin: 1.5rem auto; }
 
 strong { color: inherit; font-weight: 600; }
 
-blockquote { font-family: "Roboto Mono"; font-size: 0.80rem; margin: 0.5rem 0 0.5rem 0; padding: 0.5rem 0 0.5rem 0; border: 1px solid #e5e5e5; border-left: 1ch solid #e5e5e5; }
+blockquote { font-family: "Roboto Mono", monospace; font-size: 0.80rem; margin: 0.5rem 0 0.5rem 0; padding: 0.5rem 0 0.5rem 0; border: 1px solid #e5e5e5; border-left: 1ch solid #e5e5e5; }
 
 p:has(+ blockquote) { margin-bottom: 0; }
 
@@ -143,6 +143,6 @@ hr { border: 0; border-bottom: .5px solid #808080; margin-bottom: 2.5rem; }
 
 .footer { font-size: 20px; font-weight: bold; text-align: center; padding: 0 0 10px 0; margin: auto; }
 
-@media only screen and (max-width: 570px) { li { margin: auto; text-align: center; padding: 0 5px 0 0; } a { text-decoration: none; } p.desc { text-align: center; } .container_post { padding: 10px; } }
+@media only screen and (max-width: 570px) { .container_post { padding: 10px; } }
 
 /*# sourceMappingURL=style.css.map */
