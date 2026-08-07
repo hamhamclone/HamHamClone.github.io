@@ -11,21 +11,21 @@
     font-family: "Gentium Basic";
     src:
 		local('Gentium Basic')
-		url('/assets/fonts/gentium-basic-regular.ttf');
+		url('{{ site.url }}/assets/fonts/gentium-basic-regular.ttf');
 }
 
 @font-face {
     font-family: "Roboto Mono";
     src:
 		local('Roboto Mono')
-		url('/assets/fonts/roboto-mono-regular.ttf');
+		url('{{ site.url }}/assets/fonts/roboto-mono-regular.ttf');
 }
 
 @font-face {
     font-family: "Ubuntu Sans";
     src:
 		local('Ubuntu Sans')
-		url('/assets/fonts/ubuntu-sans.ttf');
+		url('{{ site.url }}/assets/fonts/ubuntu-sans.ttf');
 }
 
 /* ====================== */
@@ -435,9 +435,10 @@ hr {
     p.desc {
         text-align: center;
     }
-    time {
-        display: none;
-    }
+    
+    .container_post {
+		padding: 10px;
+	}
 }
 
 {% comment %}

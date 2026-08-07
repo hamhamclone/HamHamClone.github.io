@@ -1,10 +1,10 @@
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
-@font-face { font-family: "Gentium Basic"; src: local("Gentium Basic") url("/assets/fonts/gentium-basic-regular.ttf"); }
+@font-face { font-family: "Gentium Basic"; src: local("Gentium Basic") url("https://hamhambone.net/labyrinthine/assets/fonts/gentium-basic-regular.ttf"); }
 
-@font-face { font-family: "Roboto Mono"; src: local("Roboto Mono") url("/assets/fonts/roboto-mono-regular.ttf"); }
+@font-face { font-family: "Roboto Mono"; src: local("Roboto Mono") url("https://hamhambone.net/labyrinthine/assets/fonts/roboto-mono-regular.ttf"); }
 
-@font-face { font-family: "Ubuntu Sans"; src: local("Ubuntu Sans") url("/assets/fonts/ubuntu-sans.ttf"); }
+@font-face { font-family: "Ubuntu Sans"; src: local("Ubuntu Sans") url("https://hamhambone.net/labyrinthine/assets/fonts/ubuntu-sans.ttf"); }
 
 /* ====================== */
 .id { color: #200070; }
@@ -143,6 +143,6 @@ hr { border: 0; border-bottom: .5px solid #808080; margin-bottom: 2.5rem; }
 
 .footer { font-size: 20px; font-weight: bold; text-align: center; padding: 0 0 10px 0; margin: auto; }
 
-@media only screen and (max-width: 570px) { li { margin: auto; text-align: center; padding: 0 5px 0 0; } a { text-decoration: none; } p.desc { text-align: center; } time { display: none; } }
+@media only screen and (max-width: 570px) { li { margin: auto; text-align: center; padding: 0 5px 0 0; } a { text-decoration: none; } p.desc { text-align: center; } .container_post { padding: 10px; } }
 
 /*# sourceMappingURL=style.css.map */
