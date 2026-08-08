@@ -1,5 +1,3 @@
-
-{%- assign pagnum = 10 -%}
 {%- include head.html -%}
 
 <div class="container">
@@ -16,7 +14,7 @@
         <h2><a href="{{ site.url }}{{ site.posts.last.url }}">Start Here</a></h2>
         <time>{{ site.posts.last.title }}</time>
         <h2><a href="{{ site.url }}{{ site.posts.first.url }}">Latest Update</a></h2>
-        <time>{{ site.posts.first.title }} ({{ site.posts.first.date | date:"%-d %B %Y" }})</time>
+        <time>{{ site.posts.first.title }} ({{ site.posts.first.date | date:"%-d %b %Y" }})</time>
         <h2><a href="{{ site.url }}/archive">Table of Contents</a></h2>
     </header>
 </div>

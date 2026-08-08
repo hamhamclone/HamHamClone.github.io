@@ -1,17 +1,13 @@
 ---
-title: About...
+title: About The Site...
 permalink: /about
-description: "This is where I say something about myself or whatever I
-happen to work on."
+description: "about"
 layout: pages
 ---
 
-# About
+### About the Site
 
-This is a infrequently updating blog for my ttrpg hobby!
+This is a jekyll site hosted on github pages.
 
-## the theme
-
-This is a jekyll site. I'm using the Kikofri Theme, here: <a href="https://github.com/kxxvii/Kikofri" style="color: #800000;">
-Kikofri@github</a>.
+The theme is a heavily hacked version of the [Kikofri Jekyll Theme](https://github.com/kxxvii/Kikofri).
 

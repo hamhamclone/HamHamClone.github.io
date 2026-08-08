@@ -3,15 +3,24 @@ layout: post
 title:  "Chapter 1: Adduction"
 subtitle: "Zephto waits."
 feed:   true
-date:   2023-10-18
+date:   2026-08-07 13:00:00 -05:00
 tags:   labyrinthine
 ---
 
-*Delta (δ, Δ) — del/del/dels — Gritgender, Workgender*  
-*Kappa (κ, Κ) — they/them/their — Burnoutgender, Surplusgender*  
-*Iota (ι, Ι) — fae/faer/faer — Shrinekeepergender,  Fairygender*  
-*Zeta (ζ, Ζ) — ze/zir/zirs — Viziergender, Antagonistgende*r  
-*Tau (τ, Τ) — ta/tem/ter — Witnessgender, Lubricantgender*  
+*Delta (δ, Δ) — del/del/dels*  
+*Gritgender, Workgender*
+
+*Kappa (κ, Κ) — they/them/their*  
+*Burnoutgender, Surplusgender*
+
+*Iota (ι, Ι) — fae/faer/faer*  
+*Shrinekeepergender,  Fairygender*
+
+*Zeta (ζ, Ζ) — ze/zir/zirs*  
+*Viziergender, Antagonistgender*
+
+*Tau (τ, Τ) — ta/tem/ter*  
+*Witnessgender, Lubricantgender*
 
 *The night sky of the planet Umber is host to a dizzying array of dancing-revolving Passions. Composed of stars which twinkle and glitter – locked sidereally to their proper places even as they rotate all together – unified, cyclical. In an act inextricable from reclaiming chire own will from the Titans, the first free chimera, Arthik, looked to the stars, saw The Lyricist, great Poet-Hero among Passions, and claimed it as chire own Auspice. Each and every chimera is graced with an Auspice at the moment of hatching – a gift from the dead to the living. Thus the many many passions have always been with the chimera, from Stag to Executioner to little Acorn, single star that it is. — Ellato Eyboñr, A Newer Circle or: Umber's Place In Communion*
 
@@ -299,7 +308,9 @@ As they enter the office, they glance again at the poster from earlier
 
 * * * *
 
-**Content Warning** – transphobic therapy abuse. It ends well for Zephto but this one is a little rough, folks. There will be a summary of events in the next post if you would like to skip this one.
+**Content Warning** – transphobic therapy abuse. It ends well for Zephto but this one is a little rough, folks. There will be a summary of events at the very end of this post if you would like to skip this scene.
+
+* * * *
 
 The coils of the social worker’s long snake tail arch artfully behind tem as ta shuffles datafilms containing Zephto’s files – genome foundation and biomorph-supplements, unified personality test results, the latest reports from their scout leader, and more. Ter hands are decorated with a variety of rings – new fashion ones that project scintillating microholograms, together sketching miniature fireworks that burst into convoluting symbols that glitter a memesis-pattern evoking pride and excitement for some Auxatz-based echoball team. There must be a game later today on the dumbwaves.
 
@@ -453,3 +464,15 @@ Tears splash down onto the beige plas-mold of the floor. Zephto begins to sob.
 *The dance of the Passions is beautiful, it is crucial. Thus it submitted by the first circle of the subministeriat of Unity, seconded by the first circle of the subministeriat of Divinity, ratified by the first circle of the subministeriat of Memory, and bonded to the first circle of the subministeriat of Astrogation, and finally proclaimed by the office of the most perfect ministeriat: A satellite array shall be constructed in orbit about all class II and class I member worlds; this array shall project the passions as they are visible from our lost homeworld, Nevrai, so that all chimera, on all worlds – from mighty Throne Mantis and obedient Auxatz to vibrant Clarion and newborn Beryl; even wayward Umber – shall once again be able to look up, as our hero Arthik first did, and see the same Passions. – Historical Archives of the subministeriat of Memory, Auxatz.*
 
 *So by what right does the ministeriat deny Umber its own passions? There is but one conclusion: only by perversion! Perversion of the principles of Arthik held so dearly! — Ellato Eyboñr, A Newer Circle or: Umber's Place In Communion \{\{Note: these writings must be placed in the context of political and social upheaval prior to the instigation of the 2nd umber insurrection by "Unbroken Circle" ideologues.\}\}*
+
+* * * *
+
+**SCENE 2 SUMMARY**
+
+Zephto is uncomfortable during their meeting with their assigned social worker, ruminating on the future of their gender and wishing that they could chrysalize themselves with iota-slime.
+
+The social worker notices zephto's discomfort, using this opportunity to try to pressure zephto into agreeing to rechrysalize to delta. Zephto feels a lot of self-loathing and self doubt.
+
+Regent, activated by Zephto's despair and desire, instrumentalizes Zephto's recently captured plant to siphon iota-slime to Zephto. In order to distract the social worker while this is happening, Zephto pretends to agree to rechrysalize delta, just like the iota in ancient times protected other chimera by lying to the Titans they were supposed to be serving. In this moment, the narration switches to using iota pronouns (fae/faer/faer) for Zephto.
+
+Zephto finally escapes with the slime and cries tears of relief some distance away from the social worker's office in the corridor outside.
