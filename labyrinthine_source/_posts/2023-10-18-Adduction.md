@@ -93,7 +93,7 @@ aB is referring to Zephto by their birth passion. Not a good sign. They slouch a
 > aB: ¡ts @lmo$t like . . .
 > {: .ab }
 >
-> mA: *sigh*
+> mA: \*sigh\*
 > {: .ma }
 >
 > aB: de$t¡ny ! ! !
@@ -201,7 +201,7 @@ aB is referring to Zephto by their birth passion. Not a good sign. They slouch a
 >armageddonBlind EXTRUDED AN ATTACHMENT \[regent_beta.ludo\]
 > {: .flat }
 >
-> mA: *rolls eyes*
+> mA: \*rolls eyes\*
 > {: .ma }
 >
 > aB: :>
@@ -228,7 +228,7 @@ aB is referring to Zephto by their birth passion. Not a good sign. They slouch a
 > mA: i guess...
 > {: .ma }
 >
-> aB: ¡ wasn't lying about the stuff about gender. Joking a$¡de — I get it, ¡ really do. Regent *c@n* help you, you just have to trust me.
+> aB: ¡ wasn't lying about the stuff about gender. Joking a$¡de — I get it, ¡ really do. Regent \*c@n\* help you, you just have to trust me.
 > {: .ab }
 >
 > mA: i dunno, i dont think that more rzrotting will help me there. if i don't want to end up an nth-chrys i should probably just touch grass instead.

@@ -37,7 +37,7 @@ tags:   labyrinthine
 >
 > miniaturizedAdjutant [mA] — offline  
 > topicalGrotesquerie [tG] — online  
-> lamentationTallier [lT] – no not disturb  
+> lamentationTallier [lT] – do not disturb  
 > cherishableRelegator [cR] — online  
 > armageddonBlind [aB] – banned  
 > {: .flat }
@@ -45,7 +45,7 @@ tags:   labyrinthine
 > (3 tones ago)
 > {: .flat }
 >
-> miniaturizedAdjutant EXTRUDED AN ATTACHMENT \[scout_leader_has_incoherent_politics.raster\]
+> miniaturizedAdjutant EXTRUDED AN ATTACHMENT \[scout_<wbr>leader_<wbr>has_<wbr>incoherent_<wbr>politics.<wbr>raster\]
 > {: .flat }
 >
 > ![]({{ site.url }}/assets/images/whenthewhen.png)  
@@ -55,7 +55,7 @@ tags:   labyrinthine
 > (3 hexaketons ago)
 > {: .flat }
 >
-> tG: ugh, *so* many prepz were @ my scene 2day, so gross.
+> tG: ugh, \*so\* many prepz were @ my scene 2day, so gross.
 > {: .tg }
 >
 > cR: 😟 Aw, did you have a bad day @tG? Did they give you a hard time?
@@ -67,7 +67,7 @@ tags:   labyrinthine
 > tG: but the hot goth xi I was telling you about was looking at this *total* stuck up prep in my year.
 > {: .tg }
 >
-> cR: *gasps*
+> cR: \*gasps\*
 > {: .cr }
 >
 > tG: yah
@@ -178,7 +178,7 @@ tags:   labyrinthine
 > lT: The Scheduled Data-Freighter Docked On Halite’s Space Elevator Approximately 3 Tones Ago. I Believe The Results Of My Application Will Be Transmitted Downthread To Me Shortly.
 > {: .lt }
 >
-> cR: *gasps*
+> cR: \*gasps\*
 > {: .cr }
 >
 > cR: aren’t you excited?
@@ -193,7 +193,7 @@ tags:   labyrinthine
 > tG: good thing u nerds are such losers or id think u were prepz.
 > {: .tg }
 >
-> topicalGrotesquerie EXTRUDED AN ATTACHMENT [meme(2).raster]
+> topicalGrotesquerie EXTRUDED AN ATTACHMENT \[meme(2).raster\]
 > {: .flat }
 >
 > ![]({{ site.url }}/assets/images/phase.png)  
@@ -256,7 +256,7 @@ Other Magna Frame players might cringe at autoRZsonas, but Zephto, having once l
 > mA: …
 > {: .ma }
 >
-> mA: now that I’m clear to chrysalize Iota and Kappa
+> mA: now that I’m clear to chrysalize iota and iappa
 > {: .ma }
 >
 > tG: weh.
@@ -296,7 +296,7 @@ LamentationTallier emerges from underneath the mech part thon's been tinkering w
 > mA: but not in front of any authority figures
 > {: .ma }
 >
-> mA: I may have done a little cheating
+> mA: i may have done a little cheating
 > {: .ma }
 >
 > mA: poor bio-sec to keep your slimes right out there in plain view right?
