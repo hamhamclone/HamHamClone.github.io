@@ -36,3 +36,7 @@ As of this writing, Labyrinthine contains themes and content pertaining to:
 **Abigail** — for Ladija
 
 **The NSR Cauldron discord writing group** — for tips, tricks, and encouragement
+
+#### Contact
+
+I love to talk about Egress and reader response really makes my day! If you have thoughts about my work, why not send an email to <contact@hamhambone.net>! (or ask whoever sent you this page my discord info).
