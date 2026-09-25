@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 @font-face { font-family: "Gentium Basic"; font-weight: normal; src: local("Gentium Basic"), url("https://hamhambone.net/futurewithoutme/assets/fonts/gentium-basic-regular.ttf"); }
@@ -13,9 +14,15 @@
 
 .zephto { color: #db0000; }
 
+.lethao { color: #6e6f9d; }
+
 .sonya { color: #0063ab; }
 
 .lylaxy { color: #ff4a97; }
+
+.tabryþ { color: #d7c047; }
+
+.ilyeoz { color: #e1e11c; }
 
 .onyxal { animation-duration: 10s; animation-name: onyxal_fade; animation-iteration-count: infinite; animation-direction: normal; animation-timing-function: linear; }
 

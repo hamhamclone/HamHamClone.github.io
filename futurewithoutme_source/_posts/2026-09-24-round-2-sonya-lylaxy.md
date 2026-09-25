@@ -9,7 +9,9 @@ tags:   kb
 
 Ksetra → Neo Liberation City → Floating Palace → Phoenix Chambers
 
-**Sonya Canady** (key)
+-----
+
+**SONYA CANADY** (key)
 
 Touchstarved (status), Ambitious (trauma)
 
@@ -18,6 +20,8 @@ The Wheel; The Empress
 (I want to be seen winning)
 
 (this is the only world we get)
+
+-----
 
 #### \>\>\> Do something silly.
 
@@ -31,7 +35,7 @@ Soulsculpter Ragyel gently discourages an audience seeker. Damn. Missing the fli
 
 -----
 
-**Lylaxy Waqaba** (key)
+**LYLAXY WAQABA** (key)
 
 Grieving (wound), Destined (trauma)
 
@@ -40,6 +44,8 @@ The Sun; The Lovers
 (I want to end suffering and to be loved)
 
 (All people have dignity, even the Choosen One)
+
+-----
 
 #### \>\>\> Get to the action.
 
@@ -67,6 +73,8 @@ Grieving (wound), Leader (trauma)
 
 The Sun; The Empress; Judgement
 
+-----
+
 Sonya and Lylaxy realized Onyxal to lead, not rule. I share their ambition, insight, and responsibility. I'm a whole adult with floating wings and a flowery mein. As phoenix-scion of breath-honey, I always return to myself, rise to any challenge, and liberate all below me.
 {: .onyxal }
 
@@ -81,6 +89,8 @@ Lylaxy, Aþollo, and Vyvorc were in trinary solendure. They brought Lylaxy out o
 
 **Obstacle:** AFFAIRS OF STATE (level 2) → Sensization, Dracoblizzard, Iridescence, GRENDL, …
 
+-----
+
 Onyxal (level 3) Sweeps Away the obstacle.
 
 I take care of that shit.
@@ -88,13 +98,13 @@ I take care of that shit.
 
  - The Hanged One. Major Arcana. Narcissus. Disillusionment.
 
-`A major arcana drawn on an attempt to sweep away an obstacle (only possible here because Onyxal is level 3 and the obstacle is level 2) indicates unexpected resistance. Reframe the situation.`
+*A major arcana drawn on an attempt to sweep away an obstacle (only possible here because Onyxal is level 3 and the obstacle is level 2) indicates unexpected resistance. Reframe the situation.* — HHB
+
+-----
 
 Yeozu suspended upside down above New Home the morning after Aþollo left.
-{: .onyxal }
 
 A diplomat working the dracoblizzard situation (which has apparently escalated to a memetic spitedream outbreak? Why has Ruqiya not kept you updated on this?) saw her xyrself.
-{: .onyxal }
 
 I haven't even visited. What is wrong with me? I've been focused on the wrong affairs. This is *us*. This *matters*.
 {: .onyxal }
@@ -105,7 +115,7 @@ I use my Voice to have the petitioners resolve the rest on their own (Sensizatio
 New Home now.
 {: .onyxal }
 
-`PERIL SCORE = 10 + 11 = 21`
+`PERIL SCORE + 11 = 21`
 
 
 
