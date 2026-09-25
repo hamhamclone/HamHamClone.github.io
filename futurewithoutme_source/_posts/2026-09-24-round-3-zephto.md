@@ -82,7 +82,7 @@ She has a smile on her face. Maybe its the censorship, or her human anatomy, or 
 
 You are a little surprised at your own words. More Templar of Light stuff. You sigh.
 
-> Zephto: i'm gonna chat with mw alone for a bit. she wants to talk privately with me. She's going by morningward again btw.
+> Zephto: i'm gonna chat with mw alone for a bit. she wants to talk privately with me. she's going by morningward again btw.
 > {: .zephto }
 >
 > Lethao's Voice: N0ted.
@@ -116,7 +116,7 @@ You feel frustration bubbling in your gut. You and her both know how del was bef
 
 Aþollo isn't coming back. Del doesn't want to.
 
-> morningWard: We just need to use **The Pearl** as a catalyst — it stores a record of all timelines, Alpha and Omega. You and Anshī could eidolon again — Tenzao could hone in on the ... terminus of lam's body using Shadow, and project lam's path outward with Light!
+> morningWard: We just need to use **The Pearl** as a catalyst — it stores a record of all timelines, Alpha and Omega. You and Anshī could eidolon again — Zintāo could hone in on the ... terminus of lam's body using Shadow, and project lam's path outward with Light!
 > {: .mdub .eidolon }
 
 Your gut sinks. Another lie. Oh mW, who has you wrapped around zir finger this time, and why is it Axel?
@@ -128,17 +128,17 @@ Your gut sinks. Another lie. Oh mW, who has you wrapped around zir finger this t
 
 Aþollo was probably mW's closest friend. Without del, who does she have? Well, Axel. And you. She hasn't made any new friends in Ksetra either.
 
-> Zephto: it might even <span class='mdub eidolon'><span class='censor'>\[work\]</span></span>? But that thing is insanely dangerous. and sonya did her buffs on it to *make* this place possible? i guess? an option would be to ask her, she's the phoenix, after all.
+> Zephto: it might even <span class='mdub eidolon'><span class='censor'>\[work\]</span></span>? But that thing is insanely dangerous. and sonya did her buffs on it to make this place possible? i guess? an option would be to ask her, she's the phoenix, after all.
 > {: .zephto }
 
-The question it also — mW has obviously lost it and Axel has some dumbass sceme involving the Pearl — are they just screwing themselves over or are they going to endanger a whole lot of innocent people on the way down?
+The question it also — mW has obviously lost it and Axel has some dumbass scheme involving the Pearl — are they just screwing themselves over or are they going to endanger a whole lot of innocent people on the way down?
 
 Fucking. Dammit.
 
 > Zephto: and, fuck — me when i have to tell the despair girl the risks. if we fuck with the pearl and fuck it up, a lot of people could die.
 > {: .zephto }
 
-The Pi has entered the cafe and is having a whispered argument with its friend, sheaf of paper in hand. You hope they don't ask for an autograph.
+The pi has entered the cafe and is having a whispered argument with its friend, sheaf of paper in hand. You hope they don't ask for an autograph.
 
 mW is looking at you sadly and a little shame-faced.
 
@@ -166,7 +166,7 @@ That might not be too easy.
 
 Out of their depth and unprepared for this, Zephto chooses the Eight of Pentacles.
 
-*Only one card, and not in Zephto's chromaticity, so a failure. Least fae gets to keep the card for later.*
+*Only one card, and not in Zephto's chromaticity, so a failure. At least fae gets to keep the card for later.*
 
 `+ Eight of Pentacles to Zephto's dark deck.`
 

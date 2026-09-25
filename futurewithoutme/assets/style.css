@@ -35,13 +35,13 @@ blockquote > .onyxal { animation-delay: -5000ms; }
 .censor { color: #B482B4; background-color: #B482B4; }
 
 /* ====================== */
-.ei { display: inline-block; animation-duration: 7s; animation-name: eidolon-flash; animation-iteration-count: infinite; animation-direction: normal; animation-timing-function: linear; }
+.ei { display: inline-block; animation-duration: 10s; animation-name: eidolon-flash; animation-iteration-count: infinite; animation-direction: normal; animation-timing-function: linear; }
 
-@keyframes eidolon-flash { 0%, 46%, 50%, 96%, 100% { color: inherit;
+@keyframes eidolon-flash { 0%, 44%, 50%, 94%, 100% { color: inherit;
     translate: 0 0; }
-  47.5% { color: white;
+  45% { color: white;
     translate: 0 3px; }
-  97.5% { color: white;
+  95% { color: white;
     translate: 0 -3px; }
   99% { color: inherit;
     translate: 0 1px; }

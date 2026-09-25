@@ -102,7 +102,7 @@ blockquote > .onyxal {
 .ei {
 	display:inline-block;
 
-	animation-duration: 7s;
+	animation-duration: 10s;
 	animation-name: eidolon-flash;
 	animation-iteration-count: infinite;
 	animation-direction: normal;
@@ -110,16 +110,16 @@ blockquote > .onyxal {
 }
 
 @keyframes eidolon-flash {
-	0%, 46%, 50%, 96%, 100%{
+	0%, 44%, 50%, 94%, 100%{
 		color: inherit;
 		translate: 0 0;
 	}
 
-	47.5%{
+	45%{
 		color: white;
 		translate: 0 3px;
 	}
-	97.5%{
+	95%{
 		color: white;
 		translate: 0 -3px;
 	}

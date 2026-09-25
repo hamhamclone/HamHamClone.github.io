@@ -28,16 +28,15 @@
     function split(textNode) {
         let eidolonElement = document.createElement('span');
         let text = textNode.textContent;
-        console.log(text);
         let output = '';
-        let words = text.split(/(\W+)/);
-        let whitespace = text.split(/\S+/);
+        let words = text.split(/( )/);
+        console.log(words);
         for (let i = 0; i < words.length; i+=2) {
             let word = words[i];
             if (i+1 < words.length) {
                 word+=words[i+1];
             }
-            let outWord = "<span class='ei' style='animation-delay: "+Math.floor(index*20+(index%2==0?-3500:-7000))+"ms'>"+word+"</span>";
+            let outWord = "<span class='ei' style='animation-delay: "+Math.floor(index*20+(index%2==0?-5000:-10000))+"ms'>"+word+"</span>";
             eidolonElement.class='ei';
             eidolonElement.innerHTML += outWord;
             if (word.length > 0 && word[word.length-1] == ' ') {
