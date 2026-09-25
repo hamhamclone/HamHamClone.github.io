@@ -166,7 +166,7 @@ That might not be too easy.
 
 Out of their depth and unprepared for this, Zephto chooses the Eight of Pentacles.
 
-*Only one card, so a failure. Least fae gets to keep the card for later.*
+*Only one card, and not in Zephto's chromaticity, so a failure. Least fae gets to keep the card for later.*
 
 `+ Eight of Pentacles to Zephto's dark deck.`
 

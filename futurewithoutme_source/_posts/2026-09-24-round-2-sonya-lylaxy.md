@@ -25,7 +25,7 @@ The Wheel; The Empress
 
 #### \>\>\> Do something silly.
 
-Sonya doesn't keep her Variety of Interests in her personal quarters like Yeozu <span class='censor eidolon'>… please stop.</span>, unless you count her breezy Expressionist interior design. Most of the decoration was volunteered by arisans from Neo Liberation City, most of them former buravie. Even Ruby's gift, the Flight Cloak from Earth, was passed on the Ruqiya. She's uninterested in nostaljunk. The present is what's real.
+Sonya doesn't keep her Variety of Interests in her personal quarters like Yeozu <span class='censor eidolon'>… please stop.</span>, unless you count her breezy Expressionist interior design. Most of the decoration was volunteered by artisans from Neo Liberation City, most of them former buravie. Even Ruby's gift, the Flight Cloak from Earth, was passed on to Ruqiya. She's uninterested in nostaljunk. The present is what's real.
 
 That present has room to be silly, though. Sonya climbs up onto her duvet in socks and bounces on the bed, flips for minutes in midair, touches down kickin' it featherstyle. Phoenix of Breath runs it back.
 
