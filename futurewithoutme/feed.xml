@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>Egress: Future Without Me</title>
+	<description>Future Without Me</description>		
+	<link>https://hamhambone.net/futurewithoutme</link>
+	<atom:link href="https://hamhambone.net/futurewithoutme/feed.xml" rel="self" type="application/rss+xml" />
+	    
+        <item>
+        <title>Round 2: Sonya and Lylaxy</title>
+    	        
+		<description>by KB</description>
+		<pubDate>Thu, 24 Sep 2026 13:00:00 -0500</pubDate>
+		<link>https://hamhambone.net/futurewithoutme/round-2-sonya-lylaxy.html</link>
+		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-2-sonya-lylaxy.html</guid>
+        </item>
+	    
+        <item>
+        <title>Round 1: morningWard</title>
+    	        
+		<description>by HamHamBone</description>
+		<pubDate>Thu, 24 Sep 2026 12:00:00 -0500</pubDate>
+		<link>https://hamhambone.net/futurewithoutme/round-1-mdub.html</link>
+		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-1-mdub.html</guid>
+        </item>
+	    
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+{%- include head.html -%}
+
+<div class="container_post">
+    <header class="header">
+        <h1 class="header-title">
+            <a href="{{ site.url }}">{{ site.name }}</a>
+        </h1>
+        <img src="assets/images/hhb-icon.png"></img>
+        <nav class="header-nav">
+            {% for nav in site.nav %}
+            <a href="{{ site.url }}{{ nav.href }}">{{ nav.name }}</a>
+            {% endfor %}
+        </nav>
+    </header>
+    <h2><a href="{{ site.url }}{{ site.posts.last.url }}">Start Here</a></h2>
+    <time>{{ site.posts.last.title }}</time>
+    <h2><a href="{{ site.url }}{{ site.posts.first.url }}">Latest Update</a></h2>
+    <time>{{ site.posts.first.title }} ({{ site.posts.first.date | date:"%-d %b %Y" }})</time>
+    <h2><a href="{{ site.url }}/archive">Table of Contents</a></h2>
+    <hr>
+    {{- content -}}
+</div>
+

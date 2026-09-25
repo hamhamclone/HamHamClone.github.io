@@ -34,19 +34,92 @@
 
 /* ====================== */
 
-.id { color: #200070; }
+.axel {
+	color: #e7a900;
+}
 
-.ab { color: #218648; }
+.mdub {
+	color: #B482B4;
+}
 
-.ma { color: #db0000; }
+.zephto {
+	color: #db0000;
+}
 
-.sw { color: #7e0000; }
+.sonya {
+	color: #0063ab;
+}
 
-.tg { color: #0d4f31; }
+.lylaxy {
+	color: #ff4a97;
+}
 
-.cr { color: #ff4a97; }
+.onyxal {
+	animation-duration: 10s;
+	animation-name: onyxal_fade;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+	animation-timing-function: linear;
+}
 
-.lt { color: #52658a; }
+blockquote > .onyxal {
+	animation-delay:-5000ms;
+}
+
+@keyframes onyxal_fade {
+	0%, 23%, 77%, 100% {
+		color: #0063ab;
+	}
+	
+	27%, 73% {
+		color: #ff4a97;
+	}
+	
+	25%, 75% {
+		color: white;
+	}
+}
+
+.censor {
+	color: #B482B4;
+	background-color: #B482B4;
+}
+
+/* ====================== */
+
+.ei {
+	display:inline-block;
+
+	animation-duration: 7s;
+	animation-name: eidolon-flash;
+	animation-iteration-count: infinite;
+	animation-direction: normal;
+	animation-timing-function: linear;
+}
+
+@keyframes eidolon-flash {
+	0%, 46%, 50%, 96%, 100%{
+		color: inherit;
+		translate: 0 0;
+	}
+
+	47.5%{
+		color: white;
+		translate: 0 3px;
+	}
+	97.5%{
+		color: white;
+		translate: 0 -3px;
+	}
+	99% {
+		color: inherit;
+		translate: 0 1px;
+	}
+	49% {
+		color: inherit;
+		translate: 0 -1px;
+	}
+}
 
 /* ====================== */
 
@@ -107,7 +180,6 @@ h1, h2, h3, h4, h5, h6 {
   	line-height: 1;
   	/*color: #912222;*/
   	letter-spacing: -.025rem;
-  	text-transform: capitalize;
 }
 
 h1 {
@@ -251,12 +323,12 @@ blockquote p:last-child {
 	margin-bottom: 0;
 }
 
-blockquote p {
-	text-indent: -4ch;
+blockquote p.chat {
+	text-indent: 0ch;
   	padding: 0 2ch 0 6ch;
 }
 
-blockquote p.flat {
+blockquote p {
 	text-indent: 0;
   	padding-left: 2ch;
 	padding-right: 2ch;
