@@ -20,6 +20,8 @@
 
 .lylaxy { color: #ff4a97; }
 
+.ragyel { color: #487b3b; }
+
 .tabryþ { color: #d7c047; }
 
 .ilyeoz { color: #e1e11c; }
@@ -57,11 +59,11 @@ body { color: black; background-color: #fbfbfb; -webkit-text-size-adjust: 100%; 
 
 .container_post { max-width: 650px; padding-left: 8ch; padding-right: 8ch; padding-top: 4ch; padding-bottom: 4ch; border-left: 1px solid #e5e5e5; border-right: 1px solid #e5e5e5; background-color: white; margin: auto; }
 
-a { color: #800000; text-decoration: none; }
+a { color: #664955; text-decoration: none; }
 
 a:hover, a:focus { text-decoration: underline; }
 
-b { font-weight: normal; background-color: #f2f2f2; padding: 0 0.2rem 0.1rem 0.3rem; border: solid 1px #800000; color: black; }
+b { font-weight: normal; background-color: #f2f2f2; padding: 0 0.2rem 0.1rem 0.3rem; border: solid 1px #664955; color: black; }
 
 h1, h2, h3, h4, h5, h6 { margin: 0 0 1rem; font-family: "Ubuntu Sans", sans; font-weight: 700; line-height: 1; /*color: #912222;*/ letter-spacing: -.025rem; }
 
@@ -145,7 +147,7 @@ time { display: block; font-family: 'RobotoMono', monospace; font-size: 0.8rem; 
 
 .header-title { font-weight: 400; }
 
-.header-title a { color: #660000; }
+.header-title a { color: #794e60; }
 
 .header-title a:hover, .header-title a:focus { text-decoration: none; }
 
@@ -153,7 +155,7 @@ time { display: block; font-family: 'RobotoMono', monospace; font-size: 0.8rem; 
 
 .header-title--small { margin-bottom: 1.2rem; font-size: 1rem; font-weight: 600; text-transform: uppercase; text-decoration: underline; text-align: center; }
 
-.header-title--small a { color: #660000; }
+.header-title--small a { color: #794e60; }
 
 .header-title--small a:hover, .header-title--small a:focus { text-decoration: none; }
 
