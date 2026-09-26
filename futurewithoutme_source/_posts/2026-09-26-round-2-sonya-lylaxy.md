@@ -3,7 +3,7 @@ layout: post
 title:  "Round 2: Sonya and Lylaxy"
 subtitle: "by KB"
 feed:   true
-date:   2026-09-24 13:00:00 -05:00
+date:   2026-09-26 12:00:00 -05:00
 tags:   kb
 ---
 
@@ -11,15 +11,31 @@ Ksetra → Neo Liberation City → Floating Palace → Phoenix Chambers
 
 -----
 
-**SONYA CANADY** (key)
+Your name is **SONYA CANADY** (level 2)
 
-Touchstarved (status), Ambitious (trauma)
+More than anything else, you want to be seen winning.
 
-The Wheel; The Empress
+More than anything else, you believe that this is the only world we get.
 
-(I want to be seen winning)
+**CHROMATICITY**: Key (Pentacles) — materialistic\|outsider
 
-(this is the only world we get)
+**CLASS**: Phoenix
+
+ - Wheel of Fortune (renewal, change)
+
+**ASPECT**: Breath
+
+ - Empress (nourishing, creativity)
+
+**POWERUP**: None
+
+(empty slot)
+ 
+**STATUSES**: Touchstarved
+
+**WOUNDS**: None
+
+**TRAUMAS**: Ambitious
 
 -----
 
@@ -29,54 +45,88 @@ Sonya doesn't keep her Variety of Interests in her personal quarters like Yeozu 
 
 That present has room to be silly, though. Sonya climbs up onto her duvet in socks and bounces on the bed, flips for minutes in midair, touches down kickin' it featherstyle. Phoenix of Breath runs it back.
 
-> Not now, This is Blooming Liberation's time.
+> Ragyel: Not now, This is Blooming Liberation's time.
+{: .ragyel }
 
-Soulsculpter Ragyel gently discourages an audience seeker. Damn. Missing the flips in here.
+Soulsculptor Ragyel gently discourages an audience seeker. Damn. Missing the flips in here.
 
 -----
 
-**LYLAXY WAQABA** (key)
+Your name is **LYLAXY WAQABA** (level 2)
 
-Grieving (wound), Destined (trauma)
+More than anything else, you want to end suffering and to be loved.
 
-The Sun; The Lovers
+More than anything else, you believe all people have dignity, even the Choosen One.
 
-(I want to end suffering and to be loved)
+**CHROMATICITY**: Key (Pentacles) — materialistic\|outsider
 
-(All people have dignity, even the Choosen One)
+**CLASS**: Scion
+
+ - Sun (leader, inspiration)
+
+**ASPECT**: Honey
+
+ - Lovers (connection, reciprocity)
+
+**POWERUP**: None
+
+(empty slot)
+ 
+**STATUSES**: None
+
+**WOUNDS**: Grieving
+
+**TRAUMAS**: Destined
 
 -----
 
 #### \>\>\> Get to the action.
 
-The Scion of Honey needs no such permission. Miyu glides across the breezeway from chimuya chambers on amber wings with at bone-white blossom in her hair. She isn't in a silly mood, nor is miyu all that hot on nostaljunk. Lylaxy alights on the Phoenix's rumpled bedspread.
+The Scion of Honey needs no such permission. Miyu glides across the breezeway from chimuya chambers on amber wings with a bone-white blossom in her hair. She isn't in a silly mood, nor is miyu all that hot on nostaljunk. Lylaxy alights on the Phoenix's rumpled bedspread.
 
-> Sonya: Hey. All good?
+> Sonya: hey. all good?
 > {: .sonya }
 >
-> Lylaxy: Good morning. Yeozu is out of touch.
+> Lylaxy: Good ℳorning. Yeozu is out of touch.
 > {: .lylaxy }
 >
-> Sonya: We can do this later, it's not urgent.
+> Sonya: we can do this later, it's not urgent.
 > {: .sonya }
 >
-> Lylaxy: Minor errands are welcome.
+> Lylaxy: ᙏinor errands are welcoℳe.
 > {: .lylaxy }
 
 Sonya finds her pitch standing beside Lylaxy on the queen bed. They're in sync now, no mindspeech necessary. She sings the melody of the Theme on Breath, miyu on Honey, they touch without gloves, they fall into one another and…
 
 -----
 
-**Onyxal** (key^2)
-
-Grieving (wound), Leader (trauma)
-
-The Sun; The Empress; Judgement
-
------
+**...☉☉☉** My name is **Onyxal** (level 3) **☉☉☉...**
+{: .onyxal }
 
 Sonya and Lylaxy realized Onyxal to lead, not rule. I share their ambition, insight, and responsibility. I'm a whole adult with floating wings and a flowery mein. As phoenix-scion of breath-honey, I always return to myself, rise to any challenge, and liberate all below me.
 {: .onyxal }
+
+**CHROMATICITY**: Key (Pentacles) — materialistic\|outsider
+
+**CLASS**: Scion-Phoenix
+
+ - Sun (leader, inspiration)
+
+**ASPECT**: Breath-Honey
+
+ - Empress (nourishing, creativity)
+
+**POWERUP**: None
+
+ - Judgment (decisiveness, action from above, resolution)
+ 
+**STATUSES**: None
+
+**WOUNDS**: Grieving
+
+**TRAUMAS**: Leader
+
+-----
 
 I am sitting on Sonya's bed, I stretch my wings. I am hollowed out greiving for Aþollo. Vyvorc. Everyone.
 {: .onyxal }
@@ -84,10 +134,10 @@ I am sitting on Sonya's bed, I stretch my wings. I am hollowed out greiving for 
 Lylaxy, Aþollo, and Vyvorc were in trinary solendure. They brought Lylaxy out of the lordling's exuvia and healed Aþollo from the teratochrysalis, but when Vyvorc needed saving, they all failed. Now Aþollo is gone. It's like Ruby made it to Ksetra and Sonya lost her even then.
 {: .onyxal }
 
-> Onyxal: Petitioners, come on in.
+> Onyxal: **☉** Petïtïoners, come on ïn. **☉**
 > {: .onyxal }
 
-**Obstacle:** AFFAIRS OF STATE (level 2) → Sensization, Dracoblizzard, Iridescence, GRENDL, …
+`Obstacle: AFFAIRS OF STATE (level 2) → Sensization, Dracoblizzard, Iridescence, GRENDL, …`
 
 -----
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Round 3: Zephto"
 subtitle: "by HamHamBone"
 feed:   true
-date:   2026-09-24 14:00:00 -05:00
+date:   2026-09-26 13:00:00 -05:00
 tags:   hamhambone
 ---
 
@@ -80,7 +80,7 @@ She has a smile on her face. Maybe its the censorship, or her human anatomy, or 
 > Zephto: i know.
 > {: .zephto }
 
-You are a little surprised at your own words. More Templar of Light stuff. You sigh.
+You are a little surprised at your own words. More Templar of Light autoinsight stuff. You sigh.
 
 > Zephto: i'm gonna chat with mw alone for a bit. she wants to talk privately with me. she's going by morningward again btw.
 > {: .zephto }
