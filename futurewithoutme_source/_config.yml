@@ -30,17 +30,23 @@ image: /assets/images/hhb-icon.png
 # I just set this to whatever the above
 # image value is.
 # Could be some other image though.
-logo:
+logo: /assets/images/hhb-icon.png
 #
 # # # # #
 
 # URL-stuff, don't forget the 'http...'-part
 url: "https://hamhambone.net/futurewithoutme"
 #baseurl: ""
-permalink: /:title:output_ext
+permalink: /:title
 
 # Markdown
 markdown: kramdown
+
+# collections
+collections:
+  secret:
+    output: true
+    permalink: /:name
 
 # Navigation
 nav:

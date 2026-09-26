@@ -7,30 +7,12 @@
 	<atom:link href="https://hamhambone.net/futurewithoutme/feed.xml" rel="self" type="application/rss+xml" />
 	    
         <item>
-        <title>Round 3: Zephto</title>
-    	        
-		<description>by HamHamBone</description>
-		<pubDate>Thu, 24 Sep 2026 14:00:00 -0500</pubDate>
-		<link>https://hamhambone.net/futurewithoutme/round-3-zephto.html</link>
-		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-3-zephto.html</guid>
-        </item>
-	    
-        <item>
-        <title>Round 2: Sonya and Lylaxy</title>
-    	        
-		<description>by KB</description>
-		<pubDate>Thu, 24 Sep 2026 13:00:00 -0500</pubDate>
-		<link>https://hamhambone.net/futurewithoutme/round-2-sonya-lylaxy.html</link>
-		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-2-sonya-lylaxy.html</guid>
-        </item>
-	    
-        <item>
         <title>Round 1: morningWard</title>
     	        
 		<description>by HamHamBone</description>
 		<pubDate>Thu, 24 Sep 2026 12:00:00 -0500</pubDate>
-		<link>https://hamhambone.net/futurewithoutme/round-1-mdub.html</link>
-		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-1-mdub.html</guid>
+		<link>https://hamhambone.net/futurewithoutme/round-1-mdub</link>
+		<guid isPermaLink="true">https://hamhambone.net/futurewithoutme/round-1-mdub</guid>
         </item>
 	    
 </channel>
